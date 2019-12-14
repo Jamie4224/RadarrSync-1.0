@@ -10,13 +10,13 @@ log_level = DEBUG
 
 [RadarrMaster]
 url = http://127.0.0.1:7874
-key = a91ce27ed8604fe49ad9dd662ed7b503
+key = API KEY
 
 [SyncServers]
 # Ensure the servers start with 'Radarr_'
 [Radarr_hd]
 url = http://127.0.0.1:7878
-key = ed0e2cef38d24fbdbac880a24b95a92c
+key = API KEY
 
 # Only sync movies that are in these root folders. ';' (semicolon) separated list. Remove line to disable.
 rootFolders = /mnt/unionfs/MOVIES4K/ ; /mnt/unionfs/MOVIES/
