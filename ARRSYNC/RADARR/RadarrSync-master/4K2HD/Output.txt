@@ -1,0 +1,942 @@
+2019-12-13 10:44:06,140 [MainThread  ] [DEBUG]  Starting new HTTP connection (1): 127.0.0.1
+2019-12-13 10:44:06,244 [MainThread  ] [DEBUG]  http://127.0.0.1:7874 "GET /api/movie?apikey=a91ce27ed8604fe49ad9dd662ed7b503 HTTP/1.1" 200 None
+2019-12-13 10:44:06,352 [MainThread  ] [DEBUG]  Starting new HTTP connection (1): 127.0.0.1
+2019-12-13 10:44:06,537 [MainThread  ] [DEBUG]  http://127.0.0.1:7878 "GET /api/movie?apikey=ed0e2cef38d24fbdbac880a24b95a92c HTTP/1.1" 200 None
+2019-12-13 10:44:06,705 [MainThread  ] [DEBUG]  Captain Marvel already in hd library
+2019-12-13 10:44:06,705 [MainThread  ] [DEBUG]  Apollo 11 already in hd library
+2019-12-13 10:44:06,705 [MainThread  ] [DEBUG]  Bohemian Rhapsody already in hd library
+2019-12-13 10:44:06,705 [MainThread  ] [DEBUG]  Aquaman already in hd library
+2019-12-13 10:44:06,706 [MainThread  ] [DEBUG]  Guardians of the Galaxy Vol. 2 already in hd library
+2019-12-13 10:44:06,706 [MainThread  ] [DEBUG]  Hotel Mumbai already in hd library
+2019-12-13 10:44:06,706 [MainThread  ] [DEBUG]  Bumblebee already in hd library
+2019-12-13 10:44:06,706 [MainThread  ] [DEBUG]  A Star Is Born already in hd library
+2019-12-13 10:44:06,706 [MainThread  ] [DEBUG]  Guardians of the Galaxy already in hd library
+2019-12-13 10:44:06,706 [MainThread  ] [DEBUG]  Mission: Impossible - Fallout already in hd library
+2019-12-13 10:44:06,706 [MainThread  ] [DEBUG]  Yesterday already in hd library
+2019-12-13 10:44:06,706 [MainThread  ] [DEBUG]  Avengers: Infinity War already in hd library
+2019-12-13 10:44:06,706 [MainThread  ] [DEBUG]  The Lion King already in hd library
+2019-12-13 10:44:06,706 [MainThread  ] [DEBUG]  Crawl already in hd library
+2019-12-13 10:44:06,706 [MainThread  ] [DEBUG]  Stuber already in hd library
+2019-12-13 10:44:06,706 [MainThread  ] [DEBUG]  Midsommar already in hd library
+2019-12-13 10:44:06,706 [MainThread  ] [DEBUG]  Spider-Man: Far from Home already in hd library
+2019-12-13 10:44:06,706 [MainThread  ] [DEBUG]  Annabelle Comes Home already in hd library
+2019-12-13 10:44:06,706 [MainThread  ] [DEBUG]  Anna already in hd library
+2019-12-13 10:44:06,706 [MainThread  ] [DEBUG]  Child's Play already in hd library
+2019-12-13 10:44:06,706 [MainThread  ] [DEBUG]  Toy Story 4 already in hd library
+2019-12-13 10:44:06,706 [MainThread  ] [DEBUG]  Men in Black: International already in hd library
+2019-12-13 10:44:06,706 [MainThread  ] [DEBUG]  Shaft already in hd library
+2019-12-13 10:44:06,706 [MainThread  ] [DEBUG]  Dark Phoenix already in hd library
+2019-12-13 10:44:06,706 [MainThread  ] [DEBUG]  Late Night already in hd library
+2019-12-13 10:44:06,707 [MainThread  ] [DEBUG]  The Secret Life of Pets 2 already in hd library
+2019-12-13 10:44:06,707 [MainThread  ] [DEBUG]  Godzilla: King of the Monsters already in hd library
+2019-12-13 10:44:06,707 [MainThread  ] [DEBUG]  Ma already in hd library
+2019-12-13 10:44:06,707 [MainThread  ] [DEBUG]  Rocketman already in hd library
+2019-12-13 10:44:06,707 [MainThread  ] [DEBUG]  Aladdin already in hd library
+2019-12-13 10:44:06,707 [MainThread  ] [DEBUG]  Booksmart already in hd library
+2019-12-13 10:44:06,707 [MainThread  ] [DEBUG]  Brightburn already in hd library
+2019-12-13 10:44:06,707 [MainThread  ] [DEBUG]  John Wick: Chapter 3 - Parabellum already in hd library
+2019-12-13 10:44:06,707 [MainThread  ] [DEBUG]  The Hustle already in hd library
+2019-12-13 10:44:06,707 [MainThread  ] [DEBUG]  Poms already in hd library
+2019-12-13 10:44:06,707 [MainThread  ] [DEBUG]  Tolkien already in hd library
+2019-12-13 10:44:06,707 [MainThread  ] [DEBUG]  The Intruder already in hd library
+2019-12-13 10:44:06,707 [MainThread  ] [DEBUG]  Long Shot already in hd library
+2019-12-13 10:44:06,707 [MainThread  ] [DEBUG]  UglyDolls already in hd library
+2019-12-13 10:44:06,707 [MainThread  ] [DEBUG]  Avengers: Endgame already in hd library
+2019-12-13 10:44:06,707 [MainThread  ] [DEBUG]  The Curse of La Llorona already in hd library
+2019-12-13 10:44:06,707 [MainThread  ] [DEBUG]  Hellboy already in hd library
+2019-12-13 10:44:06,708 [MainThread  ] [DEBUG]  Missing Link already in hd library
+2019-12-13 10:44:06,708 [MainThread  ] [DEBUG]  Deadpool already in hd library
+2019-12-13 10:44:06,708 [MainThread  ] [DEBUG]  Deadpool 2 already in hd library
+2019-12-13 10:44:06,708 [MainThread  ] [DEBUG]  Once Upon a Deadpool already in hd library
+2019-12-13 10:44:06,708 [MainThread  ] [DEBUG]  Deadpool: No Good Deed already in hd library
+2019-12-13 10:44:06,708 [MainThread  ] [DEBUG]  Deadpool 3 already in hd library
+2019-12-13 10:44:06,708 [MainThread  ] [DEBUG]  Deadpool: A Typical Tuesday already in hd library
+2019-12-13 10:44:06,708 [MainThread  ] [DEBUG]  Deadpool: From Comics to Screen... to Screen already in hd library
+2019-12-13 10:44:06,708 [MainThread  ] [DEBUG]  Deadpool Musical: Beauty and the Beast Gaston Parody already in hd library
+2019-12-13 10:44:06,708 [MainThread  ] [DEBUG]  Deadpool & Black Panther: Back in Red & Black already in hd library
+2019-12-13 10:44:06,708 [MainThread  ] [DEBUG]  X-Force already in hd library
+2019-12-13 10:44:06,708 [MainThread  ] [DEBUG]  The Goldfinch already in hd library
+2019-12-13 10:44:06,708 [MainThread  ] [DEBUG]  High on the Hog already in hd library
+2019-12-13 10:44:06,708 [MainThread  ] [DEBUG]  Fantastic Beasts: The Crimes of Grindelwald already in hd library
+2019-12-13 10:44:06,708 [MainThread  ] [DEBUG]  Fantastic Beasts and Where to Find Them already in hd library
+2019-12-13 10:44:06,708 [MainThread  ] [DEBUG]  Fantastic Beasts 3 already in hd library
+2019-12-13 10:44:06,708 [MainThread  ] [DEBUG]  Fantastic Beasts 4 already in hd library
+2019-12-13 10:44:06,708 [MainThread  ] [DEBUG]  Fantastic Beasts 5 already in hd library
+2019-12-13 10:44:06,708 [MainThread  ] [DEBUG]  The Girl with the Dragon Tattoo already in hd library
+2019-12-13 10:44:06,708 [MainThread  ] [DEBUG]  The Girl in the Spider's Web already in hd library
+2019-12-13 10:44:06,708 [MainThread  ] [DEBUG]  Doctor Strange already in hd library
+2019-12-13 10:44:06,708 [MainThread  ] [DEBUG]  A Dog's Journey already in hd library
+2019-12-13 10:44:06,708 [MainThread  ] [DEBUG]  The Shawshank Redemption already in hd library
+2019-12-13 10:44:06,708 [MainThread  ] [DEBUG]  Harry Potter and the Philosopher's Stone already in hd library
+2019-12-13 10:44:06,708 [MainThread  ] [DEBUG]  Harry Potter and the Chamber of Secrets already in hd library
+2019-12-13 10:44:06,708 [MainThread  ] [DEBUG]  Harry Potter and the Prisoner of Azkaban already in hd library
+2019-12-13 10:44:06,709 [MainThread  ] [DEBUG]  Harry Potter and the Goblet of Fire already in hd library
+2019-12-13 10:44:06,709 [MainThread  ] [DEBUG]  Harry Potter and the Order of the Phoenix already in hd library
+2019-12-13 10:44:06,709 [MainThread  ] [DEBUG]  Harry Potter and the Half-Blood Prince already in hd library
+2019-12-13 10:44:06,709 [MainThread  ] [DEBUG]  Harry Potter and the Deathly Hallows: Part 1 already in hd library
+2019-12-13 10:44:06,709 [MainThread  ] [DEBUG]  Harry Potter and the Deathly Hallows: Part 2 already in hd library
+2019-12-13 10:44:06,709 [MainThread  ] [DEBUG]  28 Days already in hd library
+2019-12-13 10:44:06,709 [MainThread  ] [DEBUG]  28 Days Later already in hd library
+2019-12-13 10:44:06,709 [MainThread  ] [DEBUG]  28 Weeks Later already in hd library
+2019-12-13 10:44:06,709 [MainThread  ] [DEBUG]  American Hustle already in hd library
+2019-12-13 10:44:06,709 [MainThread  ] [DEBUG]  Annabelle already in hd library
+2019-12-13 10:44:06,709 [MainThread  ] [DEBUG]  Annabelle: Creation already in hd library
+2019-12-13 10:44:06,709 [MainThread  ] [DEBUG]  The Avengers already in hd library
+2019-12-13 10:44:06,709 [MainThread  ] [DEBUG]  Avengers: Age of Ultron already in hd library
+2019-12-13 10:44:06,709 [MainThread  ] [DEBUG]  Batman already in hd library
+2019-12-13 10:44:06,709 [MainThread  ] [DEBUG]  Batman Returns already in hd library
+2019-12-13 10:44:06,709 [MainThread  ] [DEBUG]  Baywatch already in hd library
+2019-12-13 10:44:06,709 [MainThread  ] [DEBUG]  Blade Runner already in hd library
+2019-12-13 10:44:06,709 [MainThread  ] [DEBUG]  Blast from the Past already in hd library
+2019-12-13 10:44:06,709 [MainThread  ] [DEBUG]  The Cannonball Run already in hd library
+2019-12-13 10:44:06,709 [MainThread  ] [DEBUG]  Dumbo already in hd library
+2019-12-13 10:44:06,709 [MainThread  ] [DEBUG]  Encino Man already in hd library
+2019-12-13 10:44:06,709 [MainThread  ] [DEBUG]  Envy already in hd library
+2019-12-13 10:44:06,709 [MainThread  ] [DEBUG]  Friday already in hd library
+2019-12-13 10:44:06,709 [MainThread  ] [DEBUG]  Friday After Next already in hd library
+2019-12-13 10:44:06,709 [MainThread  ] [DEBUG]  Game Night already in hd library
+2019-12-13 10:44:06,709 [MainThread  ] [DEBUG]  The Goonies already in hd library
+2019-12-13 10:44:06,710 [MainThread  ] [DEBUG]  The Hitman's Bodyguard already in hd library
+2019-12-13 10:44:06,710 [MainThread  ] [DEBUG]  Into the Wild already in hd library
+2019-12-13 10:44:06,710 [MainThread  ] [DEBUG]  Iron Eagle already in hd library
+2019-12-13 10:44:06,710 [MainThread  ] [DEBUG]  Isn't It Romantic already in hd library
+2019-12-13 10:44:06,710 [MainThread  ] [DEBUG]  It already in hd library
+2019-12-13 10:44:06,710 [MainThread  ] [DEBUG]  Killers already in hd library
+2019-12-13 10:44:06,710 [MainThread  ] [DEBUG]  Last Friday already in hd library
+2019-12-13 10:44:06,710 [MainThread  ] [DEBUG]  The Last Starfighter already in hd library
+2019-12-13 10:44:06,710 [MainThread  ] [DEBUG]  The Lion King already in hd library
+2019-12-13 10:44:06,710 [MainThread  ] [DEBUG]  The Love Guru already in hd library
+2019-12-13 10:44:06,710 [MainThread  ] [DEBUG]  Love in Paradise already in hd library
+2019-12-13 10:44:06,710 [MainThread  ] [DEBUG]  The Majestic already in hd library
+2019-12-13 10:44:06,710 [MainThread  ] [DEBUG]  Man of Steel already in hd library
+2019-12-13 10:44:06,710 [MainThread  ] [DEBUG]  Mystery, Alaska already in hd library
+2019-12-13 10:44:06,710 [MainThread  ] [DEBUG]  National Lampoon's European Vacation already in hd library
+2019-12-13 10:44:06,710 [MainThread  ] [DEBUG]  National Lampoon's Vacation already in hd library
+2019-12-13 10:44:06,710 [MainThread  ] [DEBUG]  Next Friday already in hd library
+2019-12-13 10:44:06,710 [MainThread  ] [DEBUG]  O Brother, Where Art Thou? already in hd library
+2019-12-13 10:44:06,710 [MainThread  ] [DEBUG]  Ocean's Eleven already in hd library
+2019-12-13 10:44:06,710 [MainThread  ] [DEBUG]  Ocean's Eleven already in hd library
+2019-12-13 10:44:06,710 [MainThread  ] [DEBUG]  October Sky already in hd library
+2019-12-13 10:44:06,710 [MainThread  ] [DEBUG]  Out Cold already in hd library
+2019-12-13 10:44:06,710 [MainThread  ] [DEBUG]  Paul Blart: Mall Cop 2 already in hd library
+2019-12-13 10:44:06,710 [MainThread  ] [DEBUG]  PCU already in hd library
+2019-12-13 10:44:06,710 [MainThread  ] [DEBUG]  A Perfect World already in hd library
+2019-12-13 10:44:06,710 [MainThread  ] [DEBUG]  Pokémon Detective Pikachu already in hd library
+2019-12-13 10:44:06,710 [MainThread  ] [DEBUG]  The Proposal already in hd library
+2019-12-13 10:44:06,711 [MainThread  ] [DEBUG]  Rocky already in hd library
+2019-12-13 10:44:06,711 [MainThread  ] [DEBUG]  The Rocky Horror Picture Show already in hd library
+2019-12-13 10:44:06,711 [MainThread  ] [DEBUG]  Scarface already in hd library
+2019-12-13 10:44:06,711 [MainThread  ] [DEBUG]  Senior Trip already in hd library
+2019-12-13 10:44:06,711 [MainThread  ] [DEBUG]  Shazam! already in hd library
+2019-12-13 10:44:06,711 [MainThread  ] [DEBUG]  A Simple Favor already in hd library
+2019-12-13 10:44:06,711 [MainThread  ] [DEBUG]  Smokey and the Bandit II already in hd library
+2019-12-13 10:44:06,711 [MainThread  ] [DEBUG]  Spaceballs already in hd library
+2019-12-13 10:44:06,711 [MainThread  ] [DEBUG]  Summer '03 already in hd library
+2019-12-13 10:44:06,711 [MainThread  ] [DEBUG]  Summer Catch already in hd library
+2019-12-13 10:44:06,711 [MainThread  ] [DEBUG]  Tag already in hd library
+2019-12-13 10:44:06,711 [MainThread  ] [DEBUG]  Top Gun already in hd library
+2019-12-13 10:44:06,711 [MainThread  ] [DEBUG]  Trick 'r Treat already in hd library
+2019-12-13 10:44:06,711 [MainThread  ] [DEBUG]  The Way Way Back already in hd library
+2019-12-13 10:44:06,711 [MainThread  ] [DEBUG]  Wish I Was Here already in hd library
+2019-12-13 10:44:06,711 [MainThread  ] [DEBUG]  Wonder Park already in hd library
+2019-12-13 10:44:06,711 [MainThread  ] [DEBUG]  Wonder Woman already in hd library
+2019-12-13 10:44:06,711 [MainThread  ] [DEBUG]  Caddyshack already in hd library
+2019-12-13 10:44:06,711 [MainThread  ] [DEBUG]  Goodbye, Mr. Chips already in hd library
+2019-12-13 10:44:06,711 [MainThread  ] [DEBUG]  Pride and Prejudice already in hd library
+2019-12-13 10:44:06,711 [MainThread  ] [DEBUG]  Pride and Prejudice and Zombies already in hd library
+2019-12-13 10:44:06,711 [MainThread  ] [DEBUG]  Abraham Lincoln: Vampire Hunter already in hd library
+2019-12-13 10:44:06,711 [MainThread  ] [DEBUG]  Army of Darkness already in hd library
+2019-12-13 10:44:06,711 [MainThread  ] [DEBUG]  The Karate Kid already in hd library
+2019-12-13 10:44:06,711 [MainThread  ] [DEBUG]  The Karate Kid Part II already in hd library
+2019-12-13 10:44:06,711 [MainThread  ] [DEBUG]  The Next Karate Kid already in hd library
+2019-12-13 10:44:06,711 [MainThread  ] [DEBUG]  Tombstone already in hd library
+2019-12-13 10:44:06,711 [MainThread  ] [DEBUG]  Chappie already in hd library
+2019-12-13 10:44:06,712 [MainThread  ] [DEBUG]  District 9 already in hd library
+2019-12-13 10:44:06,712 [MainThread  ] [DEBUG]  Ender's Game already in hd library
+2019-12-13 10:44:06,712 [MainThread  ] [DEBUG]  Pixels already in hd library
+2019-12-13 10:44:06,712 [MainThread  ] [DEBUG]  Dickie Roberts: Former Child Star already in hd library
+2019-12-13 10:44:06,712 [MainThread  ] [DEBUG]  Teen Titans Go! To the Movies already in hd library
+2019-12-13 10:44:06,712 [MainThread  ] [DEBUG]  Alita: Battle Angel already in hd library
+2019-12-13 10:44:06,712 [MainThread  ] [DEBUG]  Batman v Superman: Dawn of Justice already in hd library
+2019-12-13 10:44:06,712 [MainThread  ] [DEBUG]  The Terminator already in hd library
+2019-12-13 10:44:06,712 [MainThread  ] [DEBUG]  Terminator 2: Judgment Day already in hd library
+2019-12-13 10:44:06,712 [MainThread  ] [DEBUG]  Once Upon a Time… in Hollywood already in hd library
+2019-12-13 10:44:06,712 [MainThread  ] [DEBUG]  The Farewell already in hd library
+2019-12-13 10:44:06,712 [MainThread  ] [DEBUG]  Clown Motel: Spirits Arise already in hd library
+2019-12-13 10:44:06,712 [MainThread  ] [DEBUG]  The Mule already in hd library
+2019-12-13 10:44:06,712 [MainThread  ] [DEBUG]  Hackers already in hd library
+2019-12-13 10:44:06,712 [MainThread  ] [DEBUG]  Blackhat already in hd library
+2019-12-13 10:44:06,712 [MainThread  ] [DEBUG]  Sneakers already in hd library
+2019-12-13 10:44:06,712 [MainThread  ] [DEBUG]  The Net already in hd library
+2019-12-13 10:44:06,712 [MainThread  ] [DEBUG]  Stargate already in hd library
+2019-12-13 10:44:06,712 [MainThread  ] [DEBUG]  Gravity already in hd library
+2019-12-13 10:44:06,712 [MainThread  ] [DEBUG]  Transformers already in hd library
+2019-12-13 10:44:06,712 [MainThread  ] [DEBUG]  Transformers: Age of Extinction already in hd library
+2019-12-13 10:44:06,712 [MainThread  ] [DEBUG]  Transformers: Revenge of the Fallen already in hd library
+2019-12-13 10:44:06,712 [MainThread  ] [DEBUG]  Transformers: The Last Knight already in hd library
+2019-12-13 10:44:06,712 [MainThread  ] [DEBUG]  Sharknado already in hd library
+2019-12-13 10:44:06,712 [MainThread  ] [DEBUG]  Sharknado 2: The Second One already in hd library
+2019-12-13 10:44:06,712 [MainThread  ] [DEBUG]  Sharknado 3: Oh Hell No! already in hd library
+2019-12-13 10:44:06,713 [MainThread  ] [DEBUG]  Sharknado 4: The 4th Awakens already in hd library
+2019-12-13 10:44:06,713 [MainThread  ] [DEBUG]  Sharknado 5: Global Swarming already in hd library
+2019-12-13 10:44:06,713 [MainThread  ] [DEBUG]  The Last Sharknado: It's About Time already in hd library
+2019-12-13 10:44:06,713 [MainThread  ] [DEBUG]  Sharknado: Feeding Frenzy already in hd library
+2019-12-13 10:44:06,713 [MainThread  ] [DEBUG]  Sharknado: Heart of Sharkness already in hd library
+2019-12-13 10:44:06,713 [MainThread  ] [DEBUG]  Lavalantula already in hd library
+2019-12-13 10:44:06,713 [MainThread  ] [DEBUG]  The Ladybug already in hd library
+2019-12-13 10:44:06,713 [MainThread  ] [DEBUG]  Sweet Home Alabama already in hd library
+2019-12-13 10:44:06,713 [MainThread  ] [DEBUG]  Total Recall already in hd library
+2019-12-13 10:44:06,713 [MainThread  ] [DEBUG]  Total Recall already in hd library
+2019-12-13 10:44:06,713 [MainThread  ] [DEBUG]  Smokey and the Bandit Part 3 already in hd library
+2019-12-13 10:44:06,713 [MainThread  ] [DEBUG]  Smokey and the Bandit already in hd library
+2019-12-13 10:44:06,713 [MainThread  ] [DEBUG]  RoboCop already in hd library
+2019-12-13 10:44:06,713 [MainThread  ] [DEBUG]  Old School already in hd library
+2019-12-13 10:44:06,713 [MainThread  ] [DEBUG]  Road Trip already in hd library
+2019-12-13 10:44:06,713 [MainThread  ] [DEBUG]  Major League already in hd library
+2019-12-13 10:44:06,713 [MainThread  ] [DEBUG]  The Dark Crystal already in hd library
+2019-12-13 10:44:06,713 [MainThread  ] [DEBUG]  Willow already in hd library
+2019-12-13 10:44:06,713 [MainThread  ] [DEBUG]  Little Miss Sunshine already in hd library
+2019-12-13 10:44:06,713 [MainThread  ] [DEBUG]  Dan in Real Life already in hd library
+2019-12-13 10:44:06,713 [MainThread  ] [DEBUG]  John Wick already in hd library
+2019-12-13 10:44:06,713 [MainThread  ] [DEBUG]  John Wick: Chapter 2 already in hd library
+2019-12-13 10:44:06,713 [MainThread  ] [DEBUG]  John Wick: Chapter 4 already in hd library
+2019-12-13 10:44:06,713 [MainThread  ] [DEBUG]  Captain America: The First Avenger already in hd library
+2019-12-13 10:44:06,713 [MainThread  ] [DEBUG]  Alien already in hd library
+2019-12-13 10:44:06,713 [MainThread  ] [DEBUG]  Arrival already in hd library
+2019-12-13 10:44:06,714 [MainThread  ] [DEBUG]  Mad Max Beyond Thunderdome already in hd library
+2019-12-13 10:44:06,714 [MainThread  ] [DEBUG]  E.T. the Extra-Terrestrial already in hd library
+2019-12-13 10:44:06,714 [MainThread  ] [DEBUG]  The Fifth Element already in hd library
+2019-12-13 10:44:06,714 [MainThread  ] [DEBUG]  Back to the Future already in hd library
+2019-12-13 10:44:06,714 [MainThread  ] [DEBUG]  Back to the Future Part II already in hd library
+2019-12-13 10:44:06,714 [MainThread  ] [DEBUG]  Back to the Future Part III already in hd library
+2019-12-13 10:44:06,714 [MainThread  ] [DEBUG]  The Wizard already in hd library
+2019-12-13 10:44:06,714 [MainThread  ] [DEBUG]  Rio Bravo already in hd library
+2019-12-13 10:44:06,714 [MainThread  ] [DEBUG]  Executive Decision already in hd library
+2019-12-13 10:44:06,714 [MainThread  ] [DEBUG]  Flight of the Navigator already in hd library
+2019-12-13 10:44:06,714 [MainThread  ] [DEBUG]  Breakfast at Tiffany's already in hd library
+2019-12-13 10:44:06,714 [MainThread  ] [DEBUG]  The Breakfast Club already in hd library
+2019-12-13 10:44:06,714 [MainThread  ] [DEBUG]  *batteries not included already in hd library
+2019-12-13 10:44:06,714 [MainThread  ] [DEBUG]  Star Trek: The Motion Picture already in hd library
+2019-12-13 10:44:06,714 [MainThread  ] [DEBUG]  Flight already in hd library
+2019-12-13 10:44:06,714 [MainThread  ] [DEBUG]  The Rock already in hd library
+2019-12-13 10:44:06,714 [MainThread  ] [DEBUG]  Edward Scissorhands already in hd library
+2019-12-13 10:44:06,714 [MainThread  ] [DEBUG]  The Emperor's Club already in hd library
+2019-12-13 10:44:06,714 [MainThread  ] [DEBUG]  Highlander already in hd library
+2019-12-13 10:44:06,714 [MainThread  ] [DEBUG]  New in Town already in hd library
+2019-12-13 10:44:06,714 [MainThread  ] [DEBUG]  Jo Koy: Don't Make Him Angry already in hd library
+2019-12-13 10:44:06,714 [MainThread  ] [DEBUG]  Jo Koy: Lights Out already in hd library
+2019-12-13 10:44:06,714 [MainThread  ] [DEBUG]  Labyrinth already in hd library
+2019-12-13 10:44:06,714 [MainThread  ] [DEBUG]  The Mighty Ducks already in hd library
+2019-12-13 10:44:06,714 [MainThread  ] [DEBUG]  D2: The Mighty Ducks already in hd library
+2019-12-13 10:44:06,714 [MainThread  ] [DEBUG]  D3: The Mighty Ducks already in hd library
+2019-12-13 10:44:06,714 [MainThread  ] [DEBUG]  Halloween already in hd library
+2019-12-13 10:44:06,715 [MainThread  ] [DEBUG]  Iron Man already in hd library
+2019-12-13 10:44:06,715 [MainThread  ] [DEBUG]  Iron Man 2 already in hd library
+2019-12-13 10:44:06,715 [MainThread  ] [DEBUG]  Iron Man 3 already in hd library
+2019-12-13 10:44:06,715 [MainThread  ] [DEBUG]  Captain America: The Winter Soldier already in hd library
+2019-12-13 10:44:06,715 [MainThread  ] [DEBUG]  Captain America: Civil War already in hd library
+2019-12-13 10:44:06,715 [MainThread  ] [DEBUG]  Thor already in hd library
+2019-12-13 10:44:06,715 [MainThread  ] [DEBUG]  Thor: Ragnarok already in hd library
+2019-12-13 10:44:06,715 [MainThread  ] [DEBUG]  Unplanned already in hd library
+2019-12-13 10:44:06,715 [MainThread  ] [DEBUG]  Jojo Rabbit already in hd library
+2019-12-13 10:44:06,715 [MainThread  ] [DEBUG]  Fast & Furious Presents: Hobbs & Shaw already in hd library
+2019-12-13 10:44:06,715 [MainThread  ] [DEBUG]  Brian Banks already in hd library
+2019-12-13 10:44:06,715 [MainThread  ] [DEBUG]  My Girl already in hd library
+2019-12-13 10:44:06,715 [MainThread  ] [DEBUG]  My Girl 2 already in hd library
+2019-12-13 10:44:06,715 [MainThread  ] [DEBUG]  Fatal Pulse already in hd library
+2019-12-13 10:44:06,715 [MainThread  ] [DEBUG]  Big Trouble already in hd library
+2019-12-13 10:44:06,715 [MainThread  ] [DEBUG]  Big already in hd library
+2019-12-13 10:44:06,715 [MainThread  ] [DEBUG]  Little Big League already in hd library
+2019-12-13 10:44:06,715 [MainThread  ] [DEBUG]  Star Trek already in hd library
+2019-12-13 10:44:06,715 [MainThread  ] [DEBUG]  Star Trek Into Darkness already in hd library
+2019-12-13 10:44:06,715 [MainThread  ] [DEBUG]  Star Trek Beyond already in hd library
+2019-12-13 10:44:06,715 [MainThread  ] [DEBUG]  Where'd You Go, Bernadette already in hd library
+2019-12-13 10:44:06,715 [MainThread  ] [DEBUG]  Wild Hearts Can't Be Broken already in hd library
+2019-12-13 10:44:06,715 [MainThread  ] [DEBUG]  Jaws 2 already in hd library
+2019-12-13 10:44:06,715 [MainThread  ] [DEBUG]  Jaws already in hd library
+2019-12-13 10:44:06,715 [MainThread  ] [DEBUG]  Star Trek: Generations already in hd library
+2019-12-13 10:44:06,715 [MainThread  ] [DEBUG]  Star Trek V: The Final Frontier already in hd library
+2019-12-13 10:44:06,716 [MainThread  ] [DEBUG]  Star Trek IV: The Voyage Home already in hd library
+2019-12-13 10:44:06,716 [MainThread  ] [DEBUG]  Black Panther already in hd library
+2019-12-13 10:44:06,716 [MainThread  ] [DEBUG]  The Incredible Hulk already in hd library
+2019-12-13 10:44:06,716 [MainThread  ] [DEBUG]  Ant-Man and the Wasp already in hd library
+2019-12-13 10:44:06,716 [MainThread  ] [DEBUG]  Ant-Man already in hd library
+2019-12-13 10:44:06,716 [MainThread  ] [DEBUG]  The Amazing Spider-Man 2 already in hd library
+2019-12-13 10:44:06,716 [MainThread  ] [DEBUG]  Spider-Man 2 already in hd library
+2019-12-13 10:44:06,716 [MainThread  ] [DEBUG]  Spider-Man already in hd library
+2019-12-13 10:44:06,716 [MainThread  ] [DEBUG]  Spider-Man 3 already in hd library
+2019-12-13 10:44:06,716 [MainThread  ] [DEBUG]  The Art of Racing in the Rain already in hd library
+2019-12-13 10:44:06,716 [MainThread  ] [DEBUG]  An American Girl Story - Maryellen 1955: Extraordinary Christmas already in hd library
+2019-12-13 10:44:06,716 [MainThread  ] [DEBUG]  The Sun Is Also a Star already in hd library
+2019-12-13 10:44:06,716 [MainThread  ] [DEBUG]  Aurora Teagarden Mysteries: A Game of Cat and Mouse already in hd library
+2019-12-13 10:44:06,716 [MainThread  ] [DEBUG]  Red Shoes 2019 already in hd library
+2019-12-13 10:44:06,716 [MainThread  ] [DEBUG]  The Slammin' Salmon already in hd library
+2019-12-13 10:44:06,716 [MainThread  ] [DEBUG]  Beerfest already in hd library
+2019-12-13 10:44:06,716 [MainThread  ] [DEBUG]  Beer already in hd library
+2019-12-13 10:44:06,716 [MainThread  ] [DEBUG]  Robin and the 7 Hoods already in hd library
+2019-12-13 10:44:06,716 [MainThread  ] [DEBUG]  International Velvet already in hd library
+2019-12-13 10:44:06,716 [MainThread  ] [DEBUG]  Scary Stories to Tell in the Dark already in hd library
+2019-12-13 10:44:06,716 [MainThread  ] [DEBUG]  Dora and the Lost City of Gold already in hd library
+2019-12-13 10:44:06,716 [MainThread  ] [DEBUG]  The Kitchen already in hd library
+2019-12-13 10:44:06,716 [MainThread  ] [DEBUG]  Bring the Soul: The Movie already in hd library
+2019-12-13 10:44:06,716 [MainThread  ] [DEBUG]  Aurora Teagarden Mysteries: An Inheritance to Die For already in hd library
+2019-12-13 10:44:06,716 [MainThread  ] [DEBUG]  The Angry Birds Movie 2 already in hd library
+2019-12-13 10:44:06,717 [MainThread  ] [DEBUG]  Teacher already in hd library
+2019-12-13 10:44:06,717 [MainThread  ] [DEBUG]  Weird Science already in hd library
+2019-12-13 10:44:06,717 [MainThread  ] [DEBUG]  Patton already in hd library
+2019-12-13 10:44:06,717 [MainThread  ] [DEBUG]  The Green Berets already in hd library
+2019-12-13 10:44:06,717 [MainThread  ] [DEBUG]  Super Troopers already in hd library
+2019-12-13 10:44:06,717 [MainThread  ] [DEBUG]  Super Troopers 2 already in hd library
+2019-12-13 10:44:06,717 [MainThread  ] [DEBUG]  Charlie Bartlett already in hd library
+2019-12-13 10:44:06,717 [MainThread  ] [DEBUG]  Nick and Norah's Infinite Playlist already in hd library
+2019-12-13 10:44:06,717 [MainThread  ] [DEBUG]  Westworld already in hd library
+2019-12-13 10:44:06,717 [MainThread  ] [DEBUG]  Futureworld already in hd library
+2019-12-13 10:44:06,717 [MainThread  ] [DEBUG]  Cult of Chucky already in hd library
+2019-12-13 10:44:06,717 [MainThread  ] [DEBUG]  Underwater already in hd library
+2019-12-13 10:44:06,717 [MainThread  ] [DEBUG]  Venom already in hd library
+2019-12-13 10:44:06,717 [MainThread  ] [DEBUG]  Spider-Man: Into the Spider-Verse already in hd library
+2019-12-13 10:44:06,717 [MainThread  ] [DEBUG]  War for the Planet of the Apes already in hd library
+2019-12-13 10:44:06,717 [MainThread  ] [DEBUG]  Thor: The Dark World already in hd library
+2019-12-13 10:44:06,717 [MainThread  ] [DEBUG]  Incredibles 2 already in hd library
+2019-12-13 10:44:06,717 [MainThread  ] [DEBUG]  Dragon Ball Super: Broly already in hd library
+2019-12-13 10:44:06,717 [MainThread  ] [DEBUG]  Magic Camp already in hd library
+2019-12-13 10:44:06,717 [MainThread  ] [DEBUG]  Emma Mae already in hd library
+2019-12-13 10:44:06,717 [MainThread  ] [DEBUG]  ECW Heatwave 1999 already in hd library
+2019-12-13 10:44:06,717 [MainThread  ] [DEBUG]  Fireplace for Your Home already in hd library
+2019-12-13 10:44:06,718 [MainThread  ] [DEBUG]  The Family Business already in hd library
+2019-12-13 10:44:06,718 [MainThread  ] [DEBUG]  36 Hour Layover already in hd library
+2019-12-13 10:44:06,718 [MainThread  ] [DEBUG]  GoodFellas already in hd library
+2019-12-13 10:44:06,718 [MainThread  ] [DEBUG]  Ghostbusters already in hd library
+2019-12-13 10:44:06,718 [MainThread  ] [DEBUG]  Ghostbusters already in hd library
+2019-12-13 10:44:06,718 [MainThread  ] [DEBUG]  Ghostbusters II already in hd library
+2019-12-13 10:44:06,718 [MainThread  ] [DEBUG]  Ghostbusters: Afterlife already in hd library
+2019-12-13 10:44:06,718 [MainThread  ] [DEBUG]  Star Wars: Episode I - The Phantom Menace already in hd library
+2019-12-13 10:44:06,718 [MainThread  ] [DEBUG]  Star Wars: Episode II - Attack of the Clones already in hd library
+2019-12-13 10:44:06,718 [MainThread  ] [DEBUG]  Star Wars already in hd library
+2019-12-13 10:44:06,718 [MainThread  ] [DEBUG]  Mars Attacks! already in hd library
+2019-12-13 10:44:06,718 [MainThread  ] [DEBUG]  The Empire Strikes Back already in hd library
+2019-12-13 10:44:06,718 [MainThread  ] [DEBUG]  Mad Max already in hd library
+2019-12-13 10:44:06,718 [MainThread  ] [DEBUG]  Mad Max: Fury Road already in hd library
+2019-12-13 10:44:06,718 [MainThread  ] [DEBUG]  Mad Max 2 already in hd library
+2019-12-13 10:44:06,718 [MainThread  ] [DEBUG]  Good Boys already in hd library
+2019-12-13 10:44:06,718 [MainThread  ] [DEBUG]  47 Meters Down: Uncaged already in hd library
+2019-12-13 10:44:06,718 [MainThread  ] [DEBUG]  Blinded by the Light already in hd library
+2019-12-13 10:44:06,718 [MainThread  ] [DEBUG]  Aliens already in hd library
+2019-12-13 10:44:06,718 [MainThread  ] [DEBUG]  Alien³ already in hd library
+2019-12-13 10:44:06,718 [MainThread  ] [DEBUG]  Alien Resurrection already in hd library
+2019-12-13 10:44:06,718 [MainThread  ] [DEBUG]  Beautiful Boy already in hd library
+2019-12-13 10:44:06,718 [MainThread  ] [DEBUG]  The 'Burbs already in hd library
+2019-12-13 10:44:06,718 [MainThread  ] [DEBUG]  The Theory of Everything already in hd library
+2019-12-13 10:44:06,718 [MainThread  ] [DEBUG]  Suicide Squad already in hd library
+2019-12-13 10:44:06,719 [MainThread  ] [DEBUG]  Die Hard already in hd library
+2019-12-13 10:44:06,719 [MainThread  ] [DEBUG]  Die Hard 2 already in hd library
+2019-12-13 10:44:06,719 [MainThread  ] [DEBUG]  Die Hard: With a Vengeance already in hd library
+2019-12-13 10:44:06,719 [MainThread  ] [DEBUG]  Live Free or Die Hard already in hd library
+2019-12-13 10:44:06,719 [MainThread  ] [DEBUG]  A Good Day to Die Hard already in hd library
+2019-12-13 10:44:06,719 [MainThread  ] [DEBUG]  The Jerk already in hd library
+2019-12-13 10:44:06,719 [MainThread  ] [DEBUG]  Ray already in hd library
+2019-12-13 10:44:06,719 [MainThread  ] [DEBUG]  The NeverEnding Story already in hd library
+2019-12-13 10:44:06,719 [MainThread  ] [DEBUG]  The Hateful Eight already in hd library
+2019-12-13 10:44:06,719 [MainThread  ] [DEBUG]  Ocean's Twelve already in hd library
+2019-12-13 10:44:06,719 [MainThread  ] [DEBUG]  Ocean's Thirteen already in hd library
+2019-12-13 10:44:06,719 [MainThread  ] [DEBUG]  Ocean's Eight already in hd library
+2019-12-13 10:44:06,719 [MainThread  ] [DEBUG]  Amazing Grace already in hd library
+2019-12-13 10:44:06,719 [MainThread  ] [DEBUG]  Overcomer already in hd library
+2019-12-13 10:44:06,719 [MainThread  ] [DEBUG]  Private Parts already in hd library
+2019-12-13 10:44:06,719 [MainThread  ] [DEBUG]  The Notebook already in hd library
+2019-12-13 10:44:06,719 [MainThread  ] [DEBUG]  Some Came Running already in hd library
+2019-12-13 10:44:06,719 [MainThread  ] [DEBUG]  Song of the South already in hd library
+2019-12-13 10:44:06,719 [MainThread  ] [DEBUG]  Tomb Raider already in hd library
+2019-12-13 10:44:06,719 [MainThread  ] [DEBUG]  Lara Croft: Tomb Raider already in hd library
+2019-12-13 10:44:06,719 [MainThread  ] [DEBUG]  Lara Croft: Tomb Raider - The Cradle of Life already in hd library
+2019-12-13 10:44:06,719 [MainThread  ] [DEBUG]  Tomb Raider 2 already in hd library
+2019-12-13 10:44:06,719 [MainThread  ] [DEBUG]  White House Down already in hd library
+2019-12-13 10:44:06,719 [MainThread  ] [DEBUG]  Olympus Has Fallen already in hd library
+2019-12-13 10:44:06,719 [MainThread  ] [DEBUG]  London Has Fallen already in hd library
+2019-12-13 10:44:06,719 [MainThread  ] [DEBUG]  Indiana Jones and the Last Crusade already in hd library
+2019-12-13 10:44:06,719 [MainThread  ] [DEBUG]  Indiana Jones and the Temple of Doom already in hd library
+2019-12-13 10:44:06,720 [MainThread  ] [DEBUG]  Indiana Jones and the Kingdom of the Crystal Skull already in hd library
+2019-12-13 10:44:06,720 [MainThread  ] [DEBUG]  Indiana Jones 5 already in hd library
+2019-12-13 10:44:06,720 [MainThread  ] [DEBUG]  Raiders of the Lost Ark already in hd library
+2019-12-13 10:44:06,720 [MainThread  ] [DEBUG]  Angel Has Fallen already in hd library
+2019-12-13 10:44:06,720 [MainThread  ] [DEBUG]  Ready or Not already in hd library
+2019-12-13 10:44:06,720 [MainThread  ] [DEBUG]  Nanny McPhee already in hd library
+2019-12-13 10:44:06,720 [MainThread  ] [DEBUG]  Nanny McPhee and the Big Bang already in hd library
+2019-12-13 10:44:06,720 [MainThread  ] [DEBUG]  Lethal Weapon already in hd library
+2019-12-13 10:44:06,720 [MainThread  ] [DEBUG]  Lethal Weapon 4 already in hd library
+2019-12-13 10:44:06,720 [MainThread  ] [DEBUG]  Lethal Weapon 2 already in hd library
+2019-12-13 10:44:06,720 [MainThread  ] [DEBUG]  Lethal Weapon 3 already in hd library
+2019-12-13 10:44:06,720 [MainThread  ] [DEBUG]  The Peanut Butter Falcon already in hd library
+2019-12-13 10:44:06,720 [MainThread  ] [DEBUG]  Escape from New York already in hd library
+2019-12-13 10:44:06,720 [MainThread  ] [DEBUG]  Tom and Jerry: The Golden Collection - Volume 1 already in hd library
+2019-12-13 10:44:06,720 [MainThread  ] [DEBUG]  Fifty Shades of Grey already in hd library
+2019-12-13 10:44:06,720 [MainThread  ] [DEBUG]  Fifty Shades Freed already in hd library
+2019-12-13 10:44:06,720 [MainThread  ] [DEBUG]  Fifty Shades Darker already in hd library
+2019-12-13 10:44:06,720 [MainThread  ] [DEBUG]  The Laundromat already in hd library
+2019-12-13 10:44:06,720 [MainThread  ] [DEBUG]  10 Cloverfield Lane already in hd library
+2019-12-13 10:44:06,720 [MainThread  ] [DEBUG]  The Godfather already in hd library
+2019-12-13 10:44:06,720 [MainThread  ] [DEBUG]  The Godfather: Part II already in hd library
+2019-12-13 10:44:06,720 [MainThread  ] [DEBUG]  The Godfather: Part III already in hd library
+2019-12-13 10:44:06,720 [MainThread  ] [DEBUG]  The Lawrence Arms: An Evening of Extraordinary Circumstance already in hd library
+2019-12-13 10:44:06,720 [MainThread  ] [DEBUG]  Celtic Soul already in hd library
+2019-12-13 10:44:06,720 [MainThread  ] [DEBUG]  Ready Player One already in hd library
+2019-12-13 10:44:06,720 [MainThread  ] [DEBUG]  Hunter Killer already in hd library
+2019-12-13 10:44:06,720 [MainThread  ] [DEBUG]  The Wiggles: Live: Hot Potatoes! already in hd library
+2019-12-13 10:44:06,721 [MainThread  ] [DEBUG]  To All the Boys: P.S. I Still Love You already in hd library
+2019-12-13 10:44:06,721 [MainThread  ] [DEBUG]  Smith already in hd library
+2019-12-13 10:44:06,721 [MainThread  ] [DEBUG]  Steven Universe: The Movie already in hd library
+2019-12-13 10:44:06,721 [MainThread  ] [DEBUG]  Five Nights at Freddy's already in hd library
+2019-12-13 10:44:06,721 [MainThread  ] [DEBUG]  Semper Fi already in hd library
+2019-12-13 10:44:06,721 [MainThread  ] [DEBUG]  THE SSW OF THE BORDER already in hd library
+2019-12-13 10:44:06,721 [MainThread  ] [DEBUG]  When It Comes Around already in hd library
+2019-12-13 10:44:06,721 [MainThread  ] [DEBUG]  Hairy Horny Amateurs already in hd library
+2019-12-13 10:44:06,721 [MainThread  ] [DEBUG]  The World of 'The Dark Crystal' already in hd library
+2019-12-13 10:44:06,721 [MainThread  ] [DEBUG]  Call Her Ganda already in hd library
+2019-12-13 10:44:06,721 [MainThread  ] [DEBUG]  Howard the Duck already in hd library
+2019-12-13 10:44:06,721 [MainThread  ] [DEBUG]  Teen Wolf already in hd library
+2019-12-13 10:44:06,721 [MainThread  ] [DEBUG]  Johnny English Strikes Again already in hd library
+2019-12-13 10:44:06,721 [MainThread  ] [DEBUG]  First Man already in hd library
+2019-12-13 10:44:06,721 [MainThread  ] [DEBUG]  Apollo 13 already in hd library
+2019-12-13 10:44:06,721 [MainThread  ] [DEBUG]  Hidden Colors 5: The Art of Black Warfare already in hd library
+2019-12-13 10:44:06,721 [MainThread  ] [DEBUG]  Mayday already in hd library
+2019-12-13 10:44:06,721 [MainThread  ] [DEBUG]  The Coming Convergence already in hd library
+2019-12-13 10:44:06,721 [MainThread  ] [DEBUG]  Hamilton already in hd library
+2019-12-13 10:44:06,721 [MainThread  ] [DEBUG]  Looney Tunes Golden Collection, Vol. 1 already in hd library
+2019-12-13 10:44:06,721 [MainThread  ] [DEBUG]  Alma the Younger already in hd library
+2019-12-13 10:44:06,722 [MainThread  ] [DEBUG]  Fade Away already in hd library
+2019-12-13 10:44:06,722 [MainThread  ] [DEBUG]  It Chapter Two already in hd library
+2019-12-13 10:44:06,722 [MainThread  ] [DEBUG]  Ice Age already in hd library
+2019-12-13 10:44:06,722 [MainThread  ] [DEBUG]  Return of the Jedi already in hd library
+2019-12-13 10:44:06,722 [MainThread  ] [DEBUG]  How to Train Your Dragon already in hd library
+2019-12-13 10:44:06,722 [MainThread  ] [DEBUG]  How to Train Your Dragon 2 already in hd library
+2019-12-13 10:44:06,722 [MainThread  ] [DEBUG]  How to Train Your Dragon: The Hidden World already in hd library
+2019-12-13 10:44:06,722 [MainThread  ] [DEBUG]  Change in the Air already in hd library
+2019-12-13 10:44:06,722 [MainThread  ] [DEBUG]  Hustlers already in hd library
+2019-12-13 10:44:06,722 [MainThread  ] [DEBUG]  Brittany Runs a Marathon already in hd library
+2019-12-13 10:44:06,722 [MainThread  ] [DEBUG]  Identity Theft of a Cheerleader already in hd library
+2019-12-13 10:44:06,722 [MainThread  ] [DEBUG]  Teen Sex 2 already in hd library
+2019-12-13 10:44:06,722 [MainThread  ] [DEBUG]  Fist Fight already in hd library
+2019-12-13 10:44:06,722 [MainThread  ] [DEBUG]  Downton Abbey already in hd library
+2019-12-13 10:44:06,722 [MainThread  ] [DEBUG]  Ad Astra already in hd library
+2019-12-13 10:44:06,722 [MainThread  ] [DEBUG]  Rambo: Last Blood already in hd library
+2019-12-13 10:44:06,722 [MainThread  ] [DEBUG]  Don't Let Go already in hd library
+2019-12-13 10:44:06,722 [MainThread  ] [DEBUG]  Most Disturbed Person on Planet Earth already in hd library
+2019-12-13 10:44:06,722 [MainThread  ] [DEBUG]  The Lost Pyramid already in hd library
+2019-12-13 10:44:06,722 [MainThread  ] [DEBUG]  Good Witch: Tale of Two Hearts already in hd library
+2019-12-13 10:44:06,722 [MainThread  ] [DEBUG]  Abominable already in hd library
+2019-12-13 10:44:06,722 [MainThread  ] [DEBUG]  Judy already in hd library
+2019-12-13 10:44:06,722 [MainThread  ] [DEBUG]  The Millionaire already in hd library
+2019-12-13 10:44:06,722 [MainThread  ] [DEBUG]  Dino King: Journey to Fire Mountain already in hd library
+2019-12-13 10:44:06,722 [MainThread  ] [DEBUG]  The Addams Family already in hd library
+2019-12-13 10:44:06,722 [MainThread  ] [DEBUG]  The Addams Family already in hd library
+2019-12-13 10:44:06,722 [MainThread  ] [DEBUG]  Addams Family Values already in hd library
+2019-12-13 10:44:06,723 [MainThread  ] [DEBUG]  Beetlejuice already in hd library
+2019-12-13 10:44:06,723 [MainThread  ] [DEBUG]  Monster House already in hd library
+2019-12-13 10:44:06,723 [MainThread  ] [DEBUG]  The Haunted Mansion already in hd library
+2019-12-13 10:44:06,723 [MainThread  ] [DEBUG]  Halloween already in hd library
+2019-12-13 10:44:06,723 [MainThread  ] [DEBUG]  Halloween already in hd library
+2019-12-13 10:44:06,723 [MainThread  ] [DEBUG]  Halloween II already in hd library
+2019-12-13 10:44:06,723 [MainThread  ] [DEBUG]  Halloween: Resurrection already in hd library
+2019-12-13 10:44:06,723 [MainThread  ] [DEBUG]  Goosebumps 2: Haunted Halloween already in hd library
+2019-12-13 10:44:06,723 [MainThread  ] [DEBUG]  Halloween II already in hd library
+2019-12-13 10:44:06,723 [MainThread  ] [DEBUG]  Halloween H20: 20 Years Later already in hd library
+2019-12-13 10:44:06,723 [MainThread  ] [DEBUG]  Boo! A Madea Halloween already in hd library
+2019-12-13 10:44:06,723 [MainThread  ] [DEBUG]  Halloween: The Curse of Michael Myers already in hd library
+2019-12-13 10:44:06,723 [MainThread  ] [DEBUG]  Halloween III: Season of the Witch already in hd library
+2019-12-13 10:44:06,723 [MainThread  ] [DEBUG]  Boo 2! A Madea Halloween already in hd library
+2019-12-13 10:44:06,723 [MainThread  ] [DEBUG]  Halloween 5: The Revenge of Michael Myers already in hd library
+2019-12-13 10:44:06,723 [MainThread  ] [DEBUG]  Halloween 4: The Return of Michael Myers already in hd library
+2019-12-13 10:44:06,723 [MainThread  ] [DEBUG]  Ernest Scared Stupid already in hd library
+2019-12-13 10:44:06,723 [MainThread  ] [DEBUG]  It's the Great Pumpkin, Charlie Brown already in hd library
+2019-12-13 10:44:06,723 [MainThread  ] [DEBUG]  Young Frankenstein already in hd library
+2019-12-13 10:44:06,723 [MainThread  ] [DEBUG]  Hocus Pocus already in hd library
+2019-12-13 10:44:06,723 [MainThread  ] [DEBUG]  The Craft already in hd library
+2019-12-13 10:44:06,723 [MainThread  ] [DEBUG]  Casper already in hd library
+2019-12-13 10:44:06,723 [MainThread  ] [DEBUG]  Zombieland already in hd library
+2019-12-13 10:44:06,723 [MainThread  ] [DEBUG]  Zombieland: Double Tap already in hd library
+2019-12-13 10:44:06,723 [MainThread  ] [DEBUG]  ParaNorman already in hd library
+2019-12-13 10:44:06,723 [MainThread  ] [DEBUG]  Halloweentown already in hd library
+2019-12-13 10:44:06,724 [MainThread  ] [DEBUG]  Halloweentown High already in hd library
+2019-12-13 10:44:06,724 [MainThread  ] [DEBUG]  Return to Halloweentown already in hd library
+2019-12-13 10:44:06,724 [MainThread  ] [DEBUG]  Halloweentown II: Kalabar's Revenge already in hd library
+2019-12-13 10:44:06,724 [MainThread  ] [DEBUG]  The Dog Who Saved Halloween already in hd library
+2019-12-13 10:44:06,724 [MainThread  ] [DEBUG]  Ralph Breaks the Internet already in hd library
+2019-12-13 10:44:06,724 [MainThread  ] [DEBUG]  Joker already in hd library
+2019-12-13 10:44:06,724 [MainThread  ] [DEBUG]  War already in hd library
+2019-12-13 10:44:06,724 [MainThread  ] [DEBUG]  Industrial Accident: The Story of Wax Trax! Records already in hd library
+2019-12-13 10:44:06,724 [MainThread  ] [DEBUG]  Totally Exposed already in hd library
+2019-12-13 10:44:06,724 [MainThread  ] [DEBUG]  Us already in hd library
+2019-12-13 10:44:06,724 [MainThread  ] [DEBUG]  Get Out already in hd library
+2019-12-13 10:44:06,724 [MainThread  ] [DEBUG]  Glass already in hd library
+2019-12-13 10:44:06,724 [MainThread  ] [DEBUG]  Apocalypse Now already in hd library
+2019-12-13 10:44:06,724 [MainThread  ] [DEBUG]  Anastasia already in hd library
+2019-12-13 10:44:06,724 [MainThread  ] [DEBUG]  ¡Three Amigos! already in hd library
+2019-12-13 10:44:06,724 [MainThread  ] [DEBUG]  What About Bob? already in hd library
+2019-12-13 10:44:06,724 [MainThread  ] [DEBUG]  Sergeants 3 already in hd library
+2019-12-13 10:44:06,724 [MainThread  ] [DEBUG]  4 for Texas already in hd library
+2019-12-13 10:44:06,724 [MainThread  ] [DEBUG]  5 Card Stud already in hd library
+2019-12-13 10:44:06,724 [MainThread  ] [DEBUG]  Roadhouse 66 already in hd library
+2019-12-13 10:44:06,724 [MainThread  ] [DEBUG]  Road House already in hd library
+2019-12-13 10:44:06,724 [MainThread  ] [DEBUG]  Road House 2: Last Call already in hd library
+2019-12-13 10:44:06,724 [MainThread  ] [DEBUG]  Goosebumps already in hd library
+2019-12-13 10:44:06,724 [MainThread  ] [DEBUG]  Halloweenie already in hd library
+2019-12-13 10:44:06,724 [MainThread  ] [DEBUG]  Corpse Bride already in hd library
+2019-12-13 10:44:06,724 [MainThread  ] [DEBUG]  The Nightmare Before Christmas already in hd library
+2019-12-13 10:44:06,725 [MainThread  ] [DEBUG]  Linda Ronstadt: The Sound of My Voice already in hd library
+2019-12-13 10:44:06,725 [MainThread  ] [DEBUG]  Scary Stories already in hd library
+2019-12-13 10:44:06,725 [MainThread  ] [DEBUG]  Mister America already in hd library
+2019-12-13 10:44:06,725 [MainThread  ] [DEBUG]  Tough and Deadly already in hd library
+2019-12-13 10:44:06,725 [MainThread  ] [DEBUG]  The Terminal already in hd library
+2019-12-13 10:44:06,725 [MainThread  ] [DEBUG]  Sleepy Hollow already in hd library
+2019-12-13 10:44:06,725 [MainThread  ] [DEBUG]  Gemini Man already in hd library
+2019-12-13 10:44:06,725 [MainThread  ] [DEBUG]  Jexi already in hd library
+2019-12-13 10:44:06,725 [MainThread  ] [DEBUG]  Rad already in hd library
+2019-12-13 10:44:06,725 [MainThread  ] [DEBUG]  10 Things I Hate About You already in hd library
+2019-12-13 10:44:06,725 [MainThread  ] [DEBUG]  Clueless already in hd library
+2019-12-13 10:44:06,725 [MainThread  ] [DEBUG]  The Karate Kid already in hd library
+2019-12-13 10:44:06,725 [MainThread  ] [DEBUG]  Sexy Warriors already in hd library
+2019-12-13 10:44:06,725 [MainThread  ] [DEBUG]  Petscop already in hd library
+2019-12-13 10:44:06,725 [MainThread  ] [DEBUG]  Maleficent: Mistress of Evil already in hd library
+2019-12-13 10:44:06,725 [MainThread  ] [DEBUG]  Twilight already in hd library
+2019-12-13 10:44:06,725 [MainThread  ] [DEBUG]  The Twilight Saga: Eclipse already in hd library
+2019-12-13 10:44:06,725 [MainThread  ] [DEBUG]  The Twilight Saga: Breaking Dawn - Part 2 already in hd library
+2019-12-13 10:44:06,725 [MainThread  ] [DEBUG]  The Twilight Saga: New Moon already in hd library
+2019-12-13 10:44:06,725 [MainThread  ] [DEBUG]  The Twilight Saga: Breaking Dawn - Part 1 already in hd library
+2019-12-13 10:44:06,725 [MainThread  ] [DEBUG]  What About ME? already in hd library
+2019-12-13 10:44:06,725 [MainThread  ] [DEBUG]  Black and Blue already in hd library
+2019-12-13 10:44:06,725 [MainThread  ] [DEBUG]  Countdown already in hd library
+2019-12-13 10:44:06,726 [MainThread  ] [DEBUG]  Army of the Dead already in hd library
+2019-12-13 10:44:06,726 [MainThread  ] [DEBUG]  Fanboys already in hd library
+2019-12-13 10:44:06,726 [MainThread  ] [DEBUG]  Terminator 3: Rise of the Machines already in hd library
+2019-12-13 10:44:06,726 [MainThread  ] [DEBUG]  The Land Before Time already in hd library
+2019-12-13 10:44:06,726 [MainThread  ] [DEBUG]  Invicta FC 2: Baszler vs. McMann already in hd library
+2019-12-13 10:44:06,726 [MainThread  ] [DEBUG]  Invicta FC 3: Penne vs. Sugiyama already in hd library
+2019-12-13 10:44:06,726 [MainThread  ] [DEBUG]  Invicta FC 1: Coenen vs. Ruyssen already in hd library
+2019-12-13 10:44:06,726 [MainThread  ] [DEBUG]  Invicta FC 10: Waterson vs. Tiburcio already in hd library
+2019-12-13 10:44:06,726 [MainThread  ] [DEBUG]  Invicta FC 4: Esparza vs. Hyatt already in hd library
+2019-12-13 10:44:06,726 [MainThread  ] [DEBUG]  Klaus already in hd library
+2019-12-13 10:44:06,726 [MainThread  ] [DEBUG]  The Lighthouse already in hd library
+2019-12-13 10:44:06,726 [MainThread  ] [DEBUG]  The Current War already in hd library
+2019-12-13 10:44:06,726 [MainThread  ] [DEBUG]  Strippers from Another World already in hd library
+2019-12-13 10:44:06,726 [MainThread  ] [DEBUG]  High Tech Airport already in hd library
+2019-12-13 10:44:06,726 [MainThread  ] [DEBUG]  Brazzers Fan's Choice 200th DVD already in hd library
+2019-12-13 10:44:06,726 [MainThread  ] [DEBUG]  Terminator: Dark Fate already in hd library
+2019-12-13 10:44:06,726 [MainThread  ] [DEBUG]  Harriet already in hd library
+2019-12-13 10:44:06,726 [MainThread  ] [DEBUG]  Motherless Brooklyn already in hd library
+2019-12-13 10:44:06,726 [MainThread  ] [DEBUG]  Arctic Dogs already in hd library
+2019-12-13 10:44:06,726 [MainThread  ] [DEBUG]  You Got to Coordinate already in hd library
+2019-12-13 10:44:06,726 [MainThread  ] [DEBUG]  Star Wars: The Rise of Skywalker already in hd library
+2019-12-13 10:44:06,726 [MainThread  ] [DEBUG]  Avatar 2 already in hd library
+2019-12-13 10:44:06,727 [MainThread  ] [DEBUG]  In Fabric already in hd library
+2019-12-13 10:44:06,727 [MainThread  ] [DEBUG]  The Dark Knight already in hd library
+2019-12-13 10:44:06,727 [MainThread  ] [DEBUG]  Logan already in hd library
+2019-12-13 10:44:06,727 [MainThread  ] [DEBUG]  Inception already in hd library
+2019-12-13 10:44:06,727 [MainThread  ] [DEBUG]  Avatar already in hd library
+2019-12-13 10:44:06,727 [MainThread  ] [DEBUG]  The Matrix already in hd library
+2019-12-13 10:44:06,727 [MainThread  ] [DEBUG]  Bright already in hd library
+2019-12-13 10:44:06,727 [MainThread  ] [DEBUG]  Bird Box already in hd library
+2019-12-13 10:44:06,727 [MainThread  ] [DEBUG]  Spectral already in hd library
+2019-12-13 10:44:06,727 [MainThread  ] [DEBUG]  The Cloverfield Paradox already in hd library
+2019-12-13 10:44:06,727 [MainThread  ] [DEBUG]  Death Note already in hd library
+2019-12-13 10:44:06,727 [MainThread  ] [DEBUG]  The Do-Over already in hd library
+2019-12-13 10:44:06,727 [MainThread  ] [DEBUG]  Black Mirror: Bandersnatch already in hd library
+2019-12-13 10:44:06,727 [MainThread  ] [DEBUG]  Triple Frontier already in hd library
+2019-12-13 10:44:06,727 [MainThread  ] [DEBUG]  ARQ already in hd library
+2019-12-13 10:44:06,727 [MainThread  ] [DEBUG]  Okja already in hd library
+2019-12-13 10:44:06,727 [MainThread  ] [DEBUG]  Frozen already in hd library
+2019-12-13 10:44:06,727 [MainThread  ] [DEBUG]  Finding Nemo already in hd library
+2019-12-13 10:44:06,727 [MainThread  ] [DEBUG]  Up already in hd library
+2019-12-13 10:44:06,727 [MainThread  ] [DEBUG]  WALL·E already in hd library
+2019-12-13 10:44:06,727 [MainThread  ] [DEBUG]  The Incredibles already in hd library
+2019-12-13 10:44:06,727 [MainThread  ] [DEBUG]  Toy Story already in hd library
+2019-12-13 10:44:06,727 [MainThread  ] [DEBUG]  Monsters, Inc. already in hd library
+2019-12-13 10:44:06,727 [MainThread  ] [DEBUG]  Finding Dory already in hd library
+2019-12-13 10:44:06,727 [MainThread  ] [DEBUG]  Wreck-It Ralph already in hd library
+2019-12-13 10:44:06,728 [MainThread  ] [DEBUG]  Toy Story 3 already in hd library
+2019-12-13 10:44:06,728 [MainThread  ] [DEBUG]  The Shining already in hd library
+2019-12-13 10:44:06,728 [MainThread  ] [DEBUG]  Full Metal Jacket already in hd library
+2019-12-13 10:44:06,728 [MainThread  ] [DEBUG]  Predator already in hd library
+2019-12-13 10:44:06,728 [MainThread  ] [DEBUG]  The Princess Bride already in hd library
+2019-12-13 10:44:06,728 [MainThread  ] [DEBUG]  Ferris Bueller's Day Off already in hd library
+2019-12-13 10:44:06,728 [MainThread  ] [DEBUG]  Gremlins already in hd library
+2019-12-13 10:44:06,728 [MainThread  ] [DEBUG]  National Lampoon's Christmas Vacation already in hd library
+2019-12-13 10:44:06,728 [MainThread  ] [DEBUG]  The Thing already in hd library
+2019-12-13 10:44:06,728 [MainThread  ] [DEBUG]  Who Framed Roger Rabbit already in hd library
+2019-12-13 10:44:06,728 [MainThread  ] [DEBUG]  Airplane! already in hd library
+2019-12-13 10:44:06,728 [MainThread  ] [DEBUG]  Interstellar already in hd library
+2019-12-13 10:44:06,728 [MainThread  ] [DEBUG]  The Lord of the Rings: The Fellowship of the Ring already in hd library
+2019-12-13 10:44:06,728 [MainThread  ] [DEBUG]  Fight Club already in hd library
+2019-12-13 10:44:06,728 [MainThread  ] [DEBUG]  Big Hero 6 already in hd library
+2019-12-13 10:44:06,728 [MainThread  ] [DEBUG]  Inglourious Basterds already in hd library
+2019-12-13 10:44:06,728 [MainThread  ] [DEBUG]  Ghost in the Shell already in hd library
+2019-12-13 10:44:06,728 [MainThread  ] [DEBUG]  Jurassic Park already in hd library
+2019-12-13 10:44:06,728 [MainThread  ] [DEBUG]  Blade Runner 2049 already in hd library
+2019-12-13 10:44:06,728 [MainThread  ] [DEBUG]  Home Alone already in hd library
+2019-12-13 10:44:06,728 [MainThread  ] [DEBUG]  Kill Bill: Vol. 1 already in hd library
+2019-12-13 10:44:06,729 [MainThread  ] [DEBUG]  Skyfall already in hd library
+2019-12-13 10:44:06,729 [MainThread  ] [DEBUG]  Spectre already in hd library
+2019-12-13 10:44:06,729 [MainThread  ] [DEBUG]  Casino Royale already in hd library
+2019-12-13 10:44:06,729 [MainThread  ] [DEBUG]  Quantum of Solace already in hd library
+2019-12-13 10:44:06,729 [MainThread  ] [DEBUG]  GoldenEye already in hd library
+2019-12-13 10:44:06,729 [MainThread  ] [DEBUG]  Die Another Day already in hd library
+2019-12-13 10:44:06,729 [MainThread  ] [DEBUG]  Tomorrow Never Dies already in hd library
+2019-12-13 10:44:06,729 [MainThread  ] [DEBUG]  Dr. No already in hd library
+2019-12-13 10:44:06,729 [MainThread  ] [DEBUG]  Goldfinger already in hd library
+2019-12-13 10:44:06,729 [MainThread  ] [DEBUG]  The World Is Not Enough already in hd library
+2019-12-13 10:44:06,729 [MainThread  ] [DEBUG]  From Russia with Love already in hd library
+2019-12-13 10:44:06,729 [MainThread  ] [DEBUG]  Thunderball already in hd library
+2019-12-13 10:44:06,729 [MainThread  ] [DEBUG]  Diamonds Are Forever already in hd library
+2019-12-13 10:44:06,729 [MainThread  ] [DEBUG]  Moonraker already in hd library
+2019-12-13 10:44:06,729 [MainThread  ] [DEBUG]  Live and Let Die already in hd library
+2019-12-13 10:44:06,729 [MainThread  ] [DEBUG]  The Spy Who Loved Me already in hd library
+2019-12-13 10:44:06,729 [MainThread  ] [DEBUG]  A View to a Kill already in hd library
+2019-12-13 10:44:06,729 [MainThread  ] [DEBUG]  The Man with the Golden Gun already in hd library
+2019-12-13 10:44:06,729 [MainThread  ] [DEBUG]  Octopussy already in hd library
+2019-12-13 10:44:06,729 [MainThread  ] [DEBUG]  For Your Eyes Only already in hd library
+2019-12-13 10:44:06,729 [MainThread  ] [DEBUG]  Licence to Kill already in hd library
+2019-12-13 10:44:06,729 [MainThread  ] [DEBUG]  The Living Daylights already in hd library
+2019-12-13 10:44:06,729 [MainThread  ] [DEBUG]  On Her Majesty's Secret Service already in hd library
+2019-12-13 10:44:06,730 [MainThread  ] [DEBUG]  Star Wars: The Force Awakens already in hd library
+2019-12-13 10:44:06,730 [MainThread  ] [DEBUG]  Rogue One: A Star Wars Story already in hd library
+2019-12-13 10:44:06,730 [MainThread  ] [DEBUG]  Star Wars: The Last Jedi already in hd library
+2019-12-13 10:44:06,730 [MainThread  ] [DEBUG]  Star Wars: Episode III - Revenge of the Sith already in hd library
+2019-12-13 10:44:06,730 [MainThread  ] [DEBUG]  Solo: A Star Wars Story already in hd library
+2019-12-13 10:44:06,730 [MainThread  ] [DEBUG]  Ethni-City already in hd library
+2019-12-13 10:44:06,730 [MainThread  ] [DEBUG]  Drag Me Down the Aisle already in hd library
+2019-12-13 10:44:06,730 [MainThread  ] [DEBUG]  Virtual Encounters 2 already in hd library
+2019-12-13 10:44:06,730 [MainThread  ] [DEBUG]  Five Fighters from Shaolin already in hd library
+2019-12-13 10:44:06,730 [MainThread  ] [DEBUG]  Doctor Sleep already in hd library
+2019-12-13 10:44:06,730 [MainThread  ] [DEBUG]  Bad Boys for Life already in hd library
+2019-12-13 10:44:06,730 [MainThread  ] [DEBUG]  The Flash already in hd library
+2019-12-13 10:44:06,730 [MainThread  ] [DEBUG]  Moana already in hd library
+2019-12-13 10:44:06,730 [MainThread  ] [DEBUG]  The Martian already in hd library
+2019-12-13 10:44:06,730 [MainThread  ] [DEBUG]  Spider-Man: Homecoming already in hd library
+2019-12-13 10:44:06,730 [MainThread  ] [DEBUG]  Passengers already in hd library
+2019-12-13 10:44:06,730 [MainThread  ] [DEBUG]  Zootopia already in hd library
+2019-12-13 10:44:06,730 [MainThread  ] [DEBUG]  Living Among Us already in hd library
+2019-12-13 10:44:06,730 [MainThread  ] [DEBUG]  Rabid already in hd library
+2019-12-13 10:44:06,730 [MainThread  ] [DEBUG]  The Batman already in hd library
+2019-12-13 10:44:06,731 [MainThread  ] [DEBUG]  The Wolf of Wall Street already in hd library
+2019-12-13 10:44:06,731 [MainThread  ] [DEBUG]  The Dark Knight Rises already in hd library
+2019-12-13 10:44:06,731 [MainThread  ] [DEBUG]  X-Men: Apocalypse already in hd library
+2019-12-13 10:44:06,731 [MainThread  ] [DEBUG]  Inside Out already in hd library
+2019-12-13 10:44:06,731 [MainThread  ] [DEBUG]  Kingsman: The Secret Service already in hd library
+2019-12-13 10:44:06,731 [MainThread  ] [DEBUG]  Badland already in hd library
+2019-12-13 10:44:06,731 [MainThread  ] [DEBUG]  Just Mercy already in hd library
+2019-12-13 10:44:06,731 [MainThread  ] [DEBUG]  Midway already in hd library
+2019-12-13 10:44:06,731 [MainThread  ] [DEBUG]  Playing with Fire already in hd library
+2019-12-13 10:44:06,731 [MainThread  ] [DEBUG]  Last Christmas already in hd library
+2019-12-13 10:44:06,731 [MainThread  ] [DEBUG]  Pickaxe already in hd library
+2019-12-13 10:44:06,731 [MainThread  ] [DEBUG]  Running for Good already in hd library
+2019-12-13 10:44:06,731 [MainThread  ] [DEBUG]  The Lodge already in hd library
+2019-12-13 10:44:06,731 [MainThread  ] [DEBUG]  The Informer already in hd library
+2019-12-13 10:44:06,731 [MainThread  ] [DEBUG]  Sherlock Holmes 3 already in hd library
+2019-12-13 10:44:06,731 [MainThread  ] [DEBUG]  Jurassic World already in hd library
+2019-12-13 10:44:06,731 [MainThread  ] [DEBUG]  Django Unchained already in hd library
+2019-12-13 10:44:06,731 [MainThread  ] [DEBUG]  The Secret Life of Pets already in hd library
+2019-12-13 10:44:06,732 [MainThread  ] [DEBUG]  The Lord of the Rings: The Return of the King already in hd library
+2019-12-13 10:44:06,732 [MainThread  ] [DEBUG]  Batman Begins already in hd library
+2019-12-13 10:44:06,732 [MainThread  ] [DEBUG]  Sooner or Later already in hd library
+2019-12-13 10:44:06,732 [MainThread  ] [DEBUG]  Thousands... Not Billions already in hd library
+2019-12-13 10:44:06,732 [MainThread  ] [DEBUG]  Jumanji: The Next Level already in hd library
+2019-12-13 10:44:06,732 [MainThread  ] [DEBUG]  Guardians of the Galaxy Vol. 3 already in hd library
+2019-12-13 10:44:06,732 [MainThread  ] [DEBUG]  Fast & Furious 9 already in hd library
+2019-12-13 10:44:06,732 [MainThread  ] [DEBUG]  The Lord of the Rings: The Two Towers already in hd library
+2019-12-13 10:44:06,732 [MainThread  ] [DEBUG]  Forrest Gump already in hd library
+2019-12-13 10:44:06,732 [MainThread  ] [DEBUG]  The Hunger Games already in hd library
+2019-12-13 10:44:06,732 [MainThread  ] [DEBUG]  Kong: Skull Island already in hd library
+2019-12-13 10:44:06,732 [MainThread  ] [DEBUG]  Pulp Fiction already in hd library
+2019-12-13 10:44:06,732 [MainThread  ] [DEBUG]  Crown Vic already in hd library
+2019-12-13 10:44:06,732 [MainThread  ] [DEBUG]  Ford v Ferrari already in hd library
+2019-12-13 10:44:06,732 [MainThread  ] [DEBUG]  AEW Full Gear: The Buy-In already in hd library
+2019-12-13 10:44:06,732 [MainThread  ] [DEBUG]  Green Lantern Corps already in hd library
+2019-12-13 10:44:06,732 [MainThread  ] [DEBUG]  Playmobil: The Movie already in hd library
+2019-12-13 10:44:06,732 [MainThread  ] [DEBUG]  Baby Driver already in hd library
+2019-12-13 10:44:06,732 [MainThread  ] [DEBUG]  Edge of Tomorrow already in hd library
+2019-12-13 10:44:06,732 [MainThread  ] [DEBUG]  The Accountant already in hd library
+2019-12-13 10:44:06,732 [MainThread  ] [DEBUG]  The Hobbit: An Unexpected Journey already in hd library
+2019-12-13 10:44:06,732 [MainThread  ] [DEBUG]  Despicable Me already in hd library
+2019-12-13 10:44:06,733 [MainThread  ] [DEBUG]  Office Christmas Party already in hd library
+2019-12-13 10:44:06,733 [MainThread  ] [DEBUG]  Home Alone 2: Lost in New York already in hd library
+2019-12-13 10:44:06,733 [MainThread  ] [DEBUG]  Elf already in hd library
+2019-12-13 10:44:06,733 [MainThread  ] [DEBUG]  The Expendables already in hd library
+2019-12-13 10:44:06,733 [MainThread  ] [DEBUG]  Love Actually already in hd library
+2019-12-13 10:44:06,733 [MainThread  ] [DEBUG]  How the Grinch Stole Christmas already in hd library
+2019-12-13 10:44:06,733 [MainThread  ] [DEBUG]  The Expendables 3 already in hd library
+2019-12-13 10:44:06,733 [MainThread  ] [DEBUG]  The Impossible already in hd library
+2019-12-13 10:44:06,733 [MainThread  ] [DEBUG]  A Bad Moms Christmas already in hd library
+2019-12-13 10:44:06,733 [MainThread  ] [DEBUG]  The Holiday already in hd library
+2019-12-13 10:44:06,733 [MainThread  ] [DEBUG]  Kingsglaive: Final Fantasy XV already in hd library
+2019-12-13 10:44:06,733 [MainThread  ] [DEBUG]  Cowboy Bebop: The Movie already in hd library
+2019-12-13 10:44:06,733 [MainThread  ] [DEBUG]  Appleseed Alpha already in hd library
+2019-12-13 10:44:06,733 [MainThread  ] [DEBUG]  Ghost in the Shell 2.0 already in hd library
+2019-12-13 10:44:06,733 [MainThread  ] [DEBUG]  Pokémon: The Movie 2000 already in hd library
+2019-12-13 10:44:06,733 [MainThread  ] [DEBUG]  Vampire Hunter D: Bloodlust already in hd library
+2019-12-13 10:44:06,733 [MainThread  ] [DEBUG]  Pokémon Destiny Deoxys already in hd library
+2019-12-13 10:44:06,733 [MainThread  ] [DEBUG]  Mardock Scramble: The Third Exhaust already in hd library
+2019-12-13 10:44:06,733 [MainThread  ] [DEBUG]  Digimon Adventure 02: Revenge of Diaboromon already in hd library
+2019-12-13 10:44:06,733 [MainThread  ] [DEBUG]  Armitage III: Poly Matrix already in hd library
+2019-12-13 10:44:06,733 [MainThread  ] [DEBUG]  Beauty and the Beast already in hd library
+2019-12-13 10:44:06,734 [MainThread  ] [DEBUG]  The Boss Baby already in hd library
+2019-12-13 10:44:06,734 [MainThread  ] [DEBUG]  Sing already in hd library
+2019-12-13 10:44:06,734 [MainThread  ] [DEBUG]  Despicable Me 2 already in hd library
+2019-12-13 10:44:06,734 [MainThread  ] [DEBUG]  Trolls already in hd library
+2019-12-13 10:44:06,734 [MainThread  ] [DEBUG]  Minions already in hd library
+2019-12-13 10:44:06,734 [MainThread  ] [DEBUG]  Ratatouille already in hd library
+2019-12-13 10:44:06,734 [MainThread  ] [DEBUG]  Shrek already in hd library
+2019-12-13 10:44:06,734 [MainThread  ] [DEBUG]  The Jungle Book already in hd library
+2019-12-13 10:44:06,734 [MainThread  ] [DEBUG]  Tangled already in hd library
+2019-12-13 10:44:06,734 [MainThread  ] [DEBUG]  The Hunger Games: Catching Fire already in hd library
+2019-12-13 10:44:06,734 [MainThread  ] [DEBUG]  X-Men: Days of Future Past already in hd library
+2019-12-13 10:44:06,734 [MainThread  ] [DEBUG]  Justice League already in hd library
+2019-12-13 10:44:06,734 [MainThread  ] [DEBUG]  Ex Machina already in hd library
+2019-12-13 10:44:06,734 [MainThread  ] [DEBUG]  World War Z already in hd library
+2019-12-13 10:44:06,734 [MainThread  ] [DEBUG]  The Maze Runner already in hd library
+2019-12-13 10:44:06,734 [MainThread  ] [DEBUG]  Independence Day: Resurgence already in hd library
+2019-12-13 10:44:06,734 [MainThread  ] [DEBUG]  Assassin's Creed already in hd library
+2019-12-13 10:44:06,734 [MainThread  ] [DEBUG]  Alien: Covenant already in hd library
+2019-12-13 10:44:06,734 [MainThread  ] [DEBUG]  Pacific Rim already in hd library
+2019-12-13 10:44:06,734 [MainThread  ] [DEBUG]  Frozen II already in hd library
+2019-12-13 10:44:06,734 [MainThread  ] [DEBUG]  The Suicide Squad already in hd library
+2019-12-13 10:44:06,734 [MainThread  ] [DEBUG]  Avatar 4 already in hd library
+2019-12-13 10:44:06,735 [MainThread  ] [DEBUG]  Now You See Me already in hd library
+2019-12-13 10:44:06,735 [MainThread  ] [DEBUG]  The Revenant already in hd library
+2019-12-13 10:44:06,735 [MainThread  ] [DEBUG]  Hacksaw Ridge already in hd library
+2019-12-13 10:44:06,735 [MainThread  ] [DEBUG]  Split already in hd library
+2019-12-13 10:44:06,735 [MainThread  ] [DEBUG]  Jumanji: Welcome to the Jungle already in hd library
+2019-12-13 10:44:06,735 [MainThread  ] [DEBUG]  Sex and the Single Alien already in hd library
+2019-12-13 10:44:06,735 [MainThread  ] [DEBUG]  The Best Of Benny Hill already in hd library
+2019-12-13 10:44:06,735 [MainThread  ] [DEBUG]  Saving Christmas already in hd library
+2019-12-13 10:44:06,735 [MainThread  ] [DEBUG]  The Banker already in hd library
+2019-12-13 10:44:06,735 [MainThread  ] [DEBUG]  The Good Liar already in hd library
+2019-12-13 10:44:06,735 [MainThread  ] [DEBUG]  Charlie's Angels already in hd library
+2019-12-13 10:44:06,735 [MainThread  ] [DEBUG]  Intergalactic Swingers already in hd library
+2019-12-13 10:44:06,735 [MainThread  ] [DEBUG]  iMPACT Bound For Glory already in hd library
+2019-12-13 10:44:06,735 [MainThread  ] [DEBUG]  Bravengers: Age of Buldgetron already in hd library
+2019-12-13 10:44:06,735 [MainThread  ] [DEBUG]  Now You See Me 2 already in hd library
+2019-12-13 10:44:06,735 [MainThread  ] [DEBUG]  Gone Girl already in hd library
+2019-12-13 10:44:06,735 [MainThread  ] [DEBUG]  Pirates of the Caribbean: The Curse of the Black Pearl already in hd library
+2019-12-13 10:44:06,735 [MainThread  ] [DEBUG]  Bratz: Good Vibes already in hd library
+2019-12-13 10:44:06,735 [MainThread  ] [DEBUG]  The Handmaid's Tale already in hd library
+2019-12-13 10:44:06,735 [MainThread  ] [DEBUG]  Avatar 3 already in hd library
+2019-12-13 10:44:06,735 [MainThread  ] [DEBUG]  Cyborg already in hd library
+2019-12-13 10:44:06,735 [MainThread  ] [DEBUG]  Jurassic World 3 already in hd library
+2019-12-13 10:44:06,735 [MainThread  ] [DEBUG]  The Mummy already in hd library
+2019-12-13 10:44:06,735 [MainThread  ] [DEBUG]  Jason Bourne already in hd library
+2019-12-13 10:44:06,736 [MainThread  ] [DEBUG]  The Hobbit: The Desolation of Smaug already in hd library
+2019-12-13 10:44:06,736 [MainThread  ] [DEBUG]  The Imitation Game already in hd library
+2019-12-13 10:44:06,736 [MainThread  ] [DEBUG]  V for Vendetta already in hd library
+2019-12-13 10:44:06,736 [MainThread  ] [DEBUG]  The Boss Baby 2 already in hd library
+2019-12-13 10:44:06,736 [MainThread  ] [DEBUG]  Wonder Woman 1984 already in hd library
+2019-12-13 10:44:06,736 [MainThread  ] [DEBUG]  Gambit already in hd library
+2019-12-13 10:44:06,736 [MainThread  ] [DEBUG]  Se7en already in hd library
+2019-12-13 10:44:06,736 [MainThread  ] [DEBUG]  The Fate of the Furious already in hd library
+2019-12-13 10:44:06,736 [MainThread  ] [DEBUG]  Gladiator already in hd library
+2019-12-13 10:44:06,736 [MainThread  ] [DEBUG]  Kingsman: The Golden Circle already in hd library
+2019-12-13 10:44:06,736 [MainThread  ] [DEBUG]  Dunkirk already in hd library
+2019-12-13 10:44:06,736 [MainThread  ] [DEBUG]  Jesus: Countdown to Calvary already in hd library
+2019-12-13 10:44:06,736 [MainThread  ] [DEBUG]  Young Guns already in hd library
+2019-12-13 10:44:06,736 [MainThread  ] [DEBUG]  Wyatt Earp already in hd library
+2019-12-13 10:44:06,736 [MainThread  ] [DEBUG]  Rooster Cogburn already in hd library
+2019-12-13 10:44:06,736 [MainThread  ] [DEBUG]  Sands of Iwo Jima already in hd library
+2019-12-13 10:44:06,736 [MainThread  ] [DEBUG]  Black Panther II already in hd library
+2019-12-13 10:44:06,736 [MainThread  ] [DEBUG]  G.I. Joe: Ever Vigilant already in hd library
+2019-12-13 10:44:06,736 [MainThread  ] [DEBUG]  Mulan already in hd library
+2019-12-13 10:44:06,736 [MainThread  ] [DEBUG]  The Magnificent Seven already in hd library
+2019-12-13 10:44:06,736 [MainThread  ] [DEBUG]  Central Intelligence already in hd library
+2019-12-13 10:44:06,736 [MainThread  ] [DEBUG]  Jack Reacher: Never Go Back already in hd library
+2019-12-13 10:44:06,736 [MainThread  ] [DEBUG]  The Amazing Spider-Man already in hd library
+2019-12-13 10:44:06,736 [MainThread  ] [DEBUG]  Miss Peregrine's Home for Peculiar Children already in hd library
+2019-12-13 10:44:06,736 [MainThread  ] [DEBUG]  The Knight Before Christmas already in hd library
+2019-12-13 10:44:06,737 [MainThread  ] [DEBUG]  Knives Out already in hd library
+2019-12-13 10:44:06,737 [MainThread  ] [DEBUG]  Fast & Furious 10 already in hd library
+2019-12-13 10:44:06,737 [MainThread  ] [DEBUG]  The Hangover already in hd library
+2019-12-13 10:44:06,737 [MainThread  ] [DEBUG]  Shutter Island already in hd library
+2019-12-13 10:44:06,737 [MainThread  ] [DEBUG]  Hidden Figures already in hd library
+2019-12-13 10:44:06,737 [MainThread  ] [DEBUG]  Pirates of the Caribbean: Dead Men Tell No Tales already in hd library
+2019-12-13 10:44:06,737 [MainThread  ] [DEBUG]  X-Men: First Class already in hd library
+2019-12-13 10:44:06,737 [MainThread  ] [DEBUG]  Now United: Dreams Come True already in hd library
+2019-12-13 10:44:06,737 [MainThread  ] [DEBUG]  21 Bridges already in hd library
+2019-12-13 10:44:06,737 [MainThread  ] [DEBUG]  A Beautiful Day in the Neighborhood already in hd library
+2019-12-13 10:44:06,737 [MainThread  ] [DEBUG]  Queen Crab already in hd library
+2019-12-13 10:44:06,737 [MainThread  ] [DEBUG]  The Last Full Measure already in hd library
+2019-12-13 10:44:06,737 [MainThread  ] [DEBUG]  Isle of Man Tourist Trophy 2013, The TT Experience already in hd library
+2019-12-13 10:44:06,737 [MainThread  ] [DEBUG]  The Wonderful World of Disney: Magical Holiday Celebration already in hd library
+2019-12-13 10:44:06,737 [MainThread  ] [DEBUG]  AC/DC: Plug Me In already in hd library
+2019-12-13 10:44:06,737 [MainThread  ] [DEBUG]  Sonic the Hedgehog already in hd library
+2019-12-13 10:44:06,737 [MainThread  ] [DEBUG]  Divergent already in hd library
+2019-12-13 10:44:06,737 [MainThread  ] [DEBUG]  The Prestige already in hd library
+2019-12-13 10:44:06,737 [MainThread  ] [DEBUG]  Cars already in hd library
+2019-12-13 10:44:06,737 [MainThread  ] [DEBUG]  Titanic already in hd library
+2019-12-13 10:44:06,737 [MainThread  ] [DEBUG]  The Lego Movie already in hd library
+2019-12-13 10:44:06,737 [MainThread  ] [DEBUG]  A Christmas Story already in hd library
+2019-12-13 10:44:06,737 [MainThread  ] [DEBUG]  A Christmas Story 2 already in hd library
+2019-12-13 10:44:06,738 [MainThread  ] [DEBUG]  A Christmas Story Live! already in hd library
+2019-12-13 10:44:06,738 [MainThread  ] [DEBUG]  A Country Christmas Story already in hd library
+2019-12-13 10:44:06,738 [MainThread  ] [DEBUG]  A Raunchy Christmas Story already in hd library
+2019-12-13 10:44:06,738 [MainThread  ] [DEBUG]  A Christmas Love Story already in hd library
+2019-12-13 10:44:06,738 [MainThread  ] [DEBUG]  The Homecoming: A Christmas Story already in hd library
+2019-12-13 10:44:06,738 [MainThread  ] [DEBUG]  A Cinderella Story: Christmas Wish already in hd library
+2019-12-13 10:44:06,738 [MainThread  ] [DEBUG]  The Nutcracker: A Christmas Story already in hd library
+2019-12-13 10:44:06,738 [MainThread  ] [DEBUG]  The Mask already in hd library
+2019-12-13 10:44:06,738 [MainThread  ] [DEBUG]  Son of the Mask already in hd library
+2019-12-13 10:44:06,738 [MainThread  ] [DEBUG]  Top Gun: Maverick already in hd library
+2019-12-13 10:44:06,738 [MainThread  ] [DEBUG]  Doctor Strange in the Multiverse of Madness already in hd library
+2019-12-13 10:44:06,738 [MainThread  ] [DEBUG]  The New Mutants already in hd library
+2019-12-13 10:44:06,738 [MainThread  ] [DEBUG]  Coco already in hd library
+2019-12-13 10:44:06,738 [MainThread  ] [DEBUG]  The Great Wall already in hd library
+2019-12-13 10:44:06,738 [MainThread  ] [DEBUG]  Brave already in hd library
+2019-12-13 10:44:06,738 [MainThread  ] [DEBUG]  Bad Moms already in hd library
+2019-12-13 10:44:06,738 [MainThread  ] [DEBUG]  Toy Story 2 already in hd library
+2019-12-13 10:44:06,738 [MainThread  ] [DEBUG]  Halloween, Paganism, and the Bible already in hd library
+2019-12-13 10:44:06,739 [MainThread  ] [DEBUG]  Godzilla vs. Kong already in hd library
+2019-12-13 10:44:06,739 [MainThread  ] [DEBUG]  Code 8 already in hd library
+2019-12-13 10:44:06,739 [MainThread  ] [DEBUG]  Spider-Man: Into the Spider-Verse Sequel already in hd library
+2019-12-13 10:44:06,739 [MainThread  ] [DEBUG]  Life already in hd library
+2019-12-13 10:44:06,739 [MainThread  ] [DEBUG]  Sherlock Holmes already in hd library
+2019-12-13 10:44:06,739 [MainThread  ] [DEBUG]  Warcraft already in hd library
+2019-12-13 10:44:06,739 [MainThread  ] [DEBUG]  The Hunger Games: Mockingjay - Part 1 already in hd library
+2019-12-13 10:44:06,739 [MainThread  ] [DEBUG]  300 already in hd library
+2019-12-13 10:44:06,739 [MainThread  ] [DEBUG]  Daddy's Girl already in hd library
+2019-12-13 10:44:06,739 [MainThread  ] [DEBUG]  Justice League Dark already in hd library
+2019-12-13 10:44:06,739 [MainThread  ] [DEBUG]  Minecraft: The Movie already in hd library
+2019-12-13 10:44:06,739 [MainThread  ] [DEBUG]  Prometheus already in hd library
+2019-12-13 10:44:06,739 [MainThread  ] [DEBUG]  The Silence of the Lambs already in hd library
+2019-12-13 10:44:06,739 [MainThread  ] [DEBUG]  Inferno already in hd library
+2019-12-13 10:44:06,739 [MainThread  ] [DEBUG]  Sicario already in hd library
+2019-12-13 10:44:06,739 [MainThread  ] [DEBUG]  The Nice Guys already in hd library
+2019-12-13 10:44:06,739 [MainThread  ] [DEBUG]  Black Widow already in hd library
+2019-12-13 10:44:06,740 [MainThread  ] [DEBUG]  The King's Man already in hd library
+2019-12-13 10:44:06,740 [MainThread  ] [DEBUG]  Sing 2 already in hd library
+2019-12-13 10:44:06,740 [MainThread  ] [DEBUG]  Sausage Party already in hd library
+2019-12-13 10:44:06,740 [MainThread  ] [DEBUG]  Sully already in hd library
+2019-12-13 10:44:06,740 [MainThread  ] [DEBUG]  La La Land already in hd library
+2019-12-13 10:44:06,740 [MainThread  ] [DEBUG]  The Hunger Games: Mockingjay - Part 2 already in hd library
+2019-12-13 10:44:06,740 [MainThread  ] [DEBUG]  The Hobbit: The Battle of the Five Armies already in hd library
+2019-12-13 10:44:06,740 [MainThread  ] [DEBUG]  No Time To Die already in hd library
+2019-12-13 10:44:06,740 [MainThread  ] [DEBUG]  The Conjuring: The Devil Made Me Do It already in hd library
+2019-12-13 10:44:06,740 [MainThread  ] [DEBUG]  1984 already in hd library
+2019-12-13 10:44:06,740 [MainThread  ] [DEBUG]  The Green Mile already in hd library
+2019-12-13 10:44:06,740 [MainThread  ] [DEBUG]  Aladdin already in hd library
+2019-12-13 10:44:06,740 [MainThread  ] [DEBUG]  The Legend of Tarzan already in hd library
+2019-12-13 10:44:06,740 [MainThread  ] [DEBUG]  Despicable Me 3 already in hd library
+2019-12-13 10:44:06,740 [MainThread  ] [DEBUG]  The Departed already in hd library
+2019-12-13 10:44:06,740 [MainThread  ] [DEBUG]  Rapid Eye Movement already in hd library
+2019-12-13 10:44:06,740 [MainThread  ] [DEBUG]  Daniel Isn't Real already in hd library
+2019-12-13 10:44:06,740 [MainThread  ] [DEBUG]  Birds of Prey (And the Fantabulous Emancipation of One Harley Quinn) already in hd library
+2019-12-13 10:44:06,741 [MainThread  ] [DEBUG]  King Arthur: Legend of the Sword already in hd library
+2019-12-13 10:44:06,741 [MainThread  ] [DEBUG]  War Dogs already in hd library
+2019-12-13 10:44:06,741 [MainThread  ] [DEBUG]  Saving Private Ryan already in hd library
+2019-12-13 10:44:06,741 [MainThread  ] [DEBUG]  Ted already in hd library
+2019-12-13 10:44:06,741 [MainThread  ] [DEBUG]  The Matrix Reloaded already in hd library
+2019-12-13 10:44:06,741 [MainThread  ] [DEBUG]  A Charlie Brown Thanksgiving already in hd library
+2019-12-13 10:44:06,741 [MainThread  ] [DEBUG]  A Charlie Brown Christmas already in hd library
+2019-12-13 10:44:06,741 [MainThread  ] [DEBUG]  Grumpy Old Men already in hd library
+2019-12-13 10:44:06,741 [MainThread  ] [DEBUG]  Grumpier Old Men already in hd library
+2019-12-13 10:44:06,741 [MainThread  ] [DEBUG]  Planes, Trains and Automobiles already in hd library
+2019-12-13 10:44:06,741 [MainThread  ] [DEBUG]  Honey, I Shrunk the Kids already in hd library
+2019-12-13 10:44:06,741 [MainThread  ] [DEBUG]  Honey, I Shrunk the Audience already in hd library
+2019-12-13 10:44:06,741 [MainThread  ] [DEBUG]  The Making of Honey, I Shrunk the Kids already in hd library
+2019-12-13 10:44:06,741 [MainThread  ] [DEBUG]  Honey, We Shrunk Ourselves already in hd library
+2019-12-13 10:44:06,741 [MainThread  ] [DEBUG]  Honey I Blew Up the Kid already in hd library
+2019-12-13 10:44:06,741 [MainThread  ] [DEBUG]  Mrs. Santa Claus already in hd library
+2019-12-13 10:44:06,742 [MainThread  ] [DEBUG]  Santa Claus: The Movie already in hd library
+2019-12-13 10:44:06,742 [MainThread  ] [DEBUG]  Santa Claus Is Comin' to Town already in hd library
+2019-12-13 10:44:06,742 [MainThread  ] [DEBUG]  Santa Claus already in hd library
+2019-12-13 10:44:06,742 [MainThread  ] [DEBUG]  The Year Without a Santa Claus already in hd library
+2019-12-13 10:44:06,742 [MainThread  ] [DEBUG]  Santa Claus already in hd library
+2019-12-13 10:44:06,742 [MainThread  ] [DEBUG]  I Am Santa Claus already in hd library
+2019-12-13 10:44:06,742 [MainThread  ] [DEBUG]  The Life & Adventures of Santa Claus already in hd library
+2019-12-13 10:44:06,742 [MainThread  ] [DEBUG]  Gotta Catch Santa Claus already in hd library
+2019-12-13 10:44:06,742 [MainThread  ] [DEBUG]  The Year Without a Santa Claus already in hd library
+2019-12-13 10:44:06,742 [MainThread  ] [DEBUG]  I Saw Mommy Kissing Santa Claus already in hd library
+2019-12-13 10:44:06,742 [MainThread  ] [DEBUG]  The Story of Santa Claus already in hd library
+2019-12-13 10:44:06,742 [MainThread  ] [DEBUG]  Uncle Buck already in hd library
+2019-12-13 10:44:06,742 [MainThread  ] [DEBUG]  The Polar Express already in hd library
+2019-12-13 10:44:06,742 [MainThread  ] [DEBUG]  Lawrence of Arabia already in hd library
+2019-12-13 10:44:06,742 [MainThread  ] [DEBUG]  The Making of 'Lawrence of Arabia' already in hd library
+2019-12-13 10:44:06,742 [MainThread  ] [DEBUG]  Lawrence of Arabia: A Conversation with Steven Spielberg already in hd library
+2019-12-13 10:44:06,742 [MainThread  ] [DEBUG]  Lady and the Tramp already in hd library
+2019-12-13 10:44:06,742 [MainThread  ] [DEBUG]  Lady and the Tramp already in hd library
+2019-12-13 10:44:06,742 [MainThread  ] [DEBUG]  Lady and the Tramp II: Scamp's Adventure already in hd library
+2019-12-13 10:44:06,742 [MainThread  ] [DEBUG]  A Muppets Christmas: Letters to Santa already in hd library
+2019-12-13 10:44:06,742 [MainThread  ] [DEBUG]  The Muppet Christmas Carol already in hd library
+2019-12-13 10:44:06,743 [MainThread  ] [DEBUG]  The Santa Clause already in hd library
+2019-12-13 10:44:06,743 [MainThread  ] [DEBUG]  The Santa Clause 2 already in hd library
+2019-12-13 10:44:06,743 [MainThread  ] [DEBUG]  The Santa Clause 3: The Escape Clause already in hd library
+2019-12-13 10:44:06,743 [MainThread  ] [DEBUG]  Mickey's Christmas Carol already in hd library
+2019-12-13 10:44:06,743 [MainThread  ] [DEBUG]  Gone with the Wind already in hd library
+2019-12-13 10:44:06,743 [MainThread  ] [DEBUG]  Just Friends already in hd library
+2019-12-13 10:44:06,743 [MainThread  ] [DEBUG]  A Christmas Kiss already in hd library
+2019-12-13 10:44:06,743 [MainThread  ] [DEBUG]  The Nutcracker already in hd library
+2019-12-13 10:44:06,743 [MainThread  ] [DEBUG]  The Nutcracker and the Four Realms already in hd library
+2019-12-13 10:44:06,743 [MainThread  ] [DEBUG]  The Nutcracker already in hd library
+2019-12-13 10:44:06,743 [MainThread  ] [DEBUG]  Barbie in the Nutcracker already in hd library
+2019-12-13 10:44:06,743 [MainThread  ] [DEBUG]  Nutcracker: The Motion Picture already in hd library
+2019-12-13 10:44:06,743 [MainThread  ] [DEBUG]  A Nutcracker Christmas already in hd library
+2019-12-13 10:44:06,743 [MainThread  ] [DEBUG]  Tchaikovsky's The Nutcracker - Royal Ballet already in hd library
+2019-12-13 10:44:06,743 [MainThread  ] [DEBUG]  Scrooged already in hd library
+2019-12-13 10:44:06,743 [MainThread  ] [DEBUG]  The Family Man already in hd library
+2019-12-13 10:44:06,743 [MainThread  ] [DEBUG]  Amon Amarth: The Pursuit of Vikings: 25 Years In The Eye of the Storm already in hd library
+2019-12-13 10:44:06,743 [MainThread  ] [DEBUG]  Evil Streets already in hd library
+2019-12-13 10:44:06,743 [MainThread  ] [DEBUG]  Queen: Greatest Video Hits already in hd library
+2019-12-13 10:44:06,743 [MainThread  ] [DEBUG]  Cats already in hd library
+2019-12-13 10:44:06,744 [MainThread  ] [DEBUG]  A Hidden Life already in hd library
+2019-12-13 10:44:06,744 [MainThread  ] [DEBUG]  The Grudge already in hd library
+2019-12-13 10:44:06,744 [MainThread  ] [DEBUG]  Memento already in hd library
+2019-12-13 10:44:06,744 [MainThread  ] [DEBUG]  I Am Legend already in hd library
+2019-12-13 10:44:06,744 [MainThread  ] [DEBUG]  Monsters University already in hd library
+2019-12-13 10:44:06,744 [MainThread  ] [DEBUG]  Oblivion already in hd library
+2019-12-13 10:44:06,744 [MainThread  ] [DEBUG]  Pirates of the Caribbean: Dead Man's Chest already in hd library
+2019-12-13 10:44:06,744 [MainThread  ] [DEBUG]  Two of a Kind already in hd library
+2019-12-13 10:44:06,744 [MainThread  ] [DEBUG]  Mr. Jones already in hd library
+2019-12-13 10:44:06,744 [MainThread  ] [DEBUG]  Avatar 5 already in hd library
+2019-12-13 10:44:06,744 [MainThread  ] [DEBUG]  Minions: The Rise of Gru already in hd library
+2019-12-13 10:44:06,744 [MainThread  ] [DEBUG]  Men in Black already in hd library
+2019-12-13 10:44:06,744 [MainThread  ] [DEBUG]  The Bourne Identity already in hd library
+2019-12-13 10:44:06,744 [MainThread  ] [DEBUG]  The Shape of Water already in hd library
+2019-12-13 10:44:06,744 [MainThread  ] [DEBUG]  Dawn of the Planet of the Apes already in hd library
+2019-12-13 10:44:06,744 [MainThread  ] [DEBUG]  Jurassic World: Fallen Kingdom already in hd library
+2019-12-13 10:44:06,744 [MainThread  ] [DEBUG]  Christmas In Evergreen: Tidings of Joy already in hd library
+2019-12-13 10:44:06,745 [MainThread  ] [DEBUG]  Dune already in hd library
+2019-12-13 10:44:06,745 [MainThread  ] [DEBUG]  Eternals already in hd library
+2019-12-13 10:44:06,745 [MainThread  ] [DEBUG]  Léon: The Professional already in hd library
+2019-12-13 10:44:06,745 [MainThread  ] [DEBUG]  The Grand Budapest Hotel already in hd library
+2019-12-13 10:44:06,745 [MainThread  ] [DEBUG]  Looper already in hd library
+2019-12-13 10:44:06,745 [MainThread  ] [DEBUG]  Maleficent already in hd library
+2019-12-13 10:44:06,745 [MainThread  ] [DEBUG]  The Wolverine already in hd library
+2019-12-13 10:44:06,745 [MainThread  ] [DEBUG]  This World, Then the Fireworks already in hd library
+2019-12-13 10:44:06,745 [MainThread  ] [DEBUG]  Kill Teaser already in hd library
+2019-12-13 10:44:06,745 [MainThread  ] [DEBUG]  Oiled Up Natural Tits 2 already in hd library
+2019-12-13 10:44:06,745 [MainThread  ] [DEBUG]  Stranger Things already in hd library
+2019-12-13 10:44:06,745 [MainThread  ] [DEBUG]  The SpongeBob Musical: Live on Stage! already in hd library
+2019-12-13 10:44:06,745 [MainThread  ] [DEBUG]  Ghetto Dawg already in hd library
+2019-12-13 10:44:06,745 [MainThread  ] [DEBUG]  Spies in Disguise already in hd library
+2019-12-13 10:44:06,745 [MainThread  ] [DEBUG]  Queen & Slim already in hd library
+2019-12-13 10:44:06,745 [MainThread  ] [DEBUG]  Dark Waters already in hd library
+2019-12-13 10:44:06,745 [MainThread  ] [DEBUG]  Hard Night Falling already in hd library
+2019-12-13 10:44:06,746 [MainThread  ] [DEBUG]  Trolls World Tour already in hd library
+2019-12-13 10:44:06,746 [MainThread  ] [DEBUG]  Thor: Love and Thunder already in hd library
+2019-12-13 10:44:06,746 [MainThread  ] [DEBUG]  Dolittle already in hd library
+2019-12-13 10:44:06,746 [MainThread  ] [DEBUG]  Deepwater Horizon already in hd library
+2019-12-13 10:44:06,746 [MainThread  ] [DEBUG]  X-Men already in hd library
+2019-12-13 10:44:06,746 [MainThread  ] [DEBUG]  Catch Me If You Can already in hd library
+2019-12-13 10:44:06,746 [MainThread  ] [DEBUG]  21 Jump Street already in hd library
+2019-12-13 10:44:06,746 [MainThread  ] [DEBUG]  Rise of the Planet of the Apes already in hd library
+2019-12-13 10:44:06,746 [MainThread  ] [DEBUG]  Jennifer's Body already in hd library
+2019-12-13 10:44:06,746 [MainThread  ] [DEBUG]  Ellipse already in hd library
+2019-12-13 10:44:06,746 [MainThread  ] [DEBUG]  Astro Boy already in hd library
+2019-12-13 10:44:06,746 [MainThread  ] [DEBUG]  Synchronic already in hd library
+2019-12-13 10:44:06,746 [MainThread  ] [DEBUG]  The Truman Show already in hd library
+2019-12-13 10:44:06,746 [MainThread  ] [DEBUG]  Kick-Ass already in hd library
+2019-12-13 10:44:06,746 [MainThread  ] [DEBUG]  Beauty and the Beast already in hd library
+2019-12-13 10:44:06,746 [MainThread  ] [DEBUG]  Valerian and the City of a Thousand Planets already in hd library
+2019-12-13 10:44:06,746 [MainThread  ] [DEBUG]  The Lego Batman Movie already in hd library
+2019-12-13 10:44:06,746 [MainThread  ] [DEBUG]  6 Underground already in hd library
+2019-12-13 10:44:06,746 [MainThread  ] [DEBUG]  Uncharted already in hd library
+2019-12-13 10:44:06,746 [MainThread  ] [DEBUG]  Uncut Gems already in hd library
+2019-12-13 10:44:06,747 [MainThread  ] [DEBUG]  Her already in hd library
+2019-12-13 10:44:06,747 [MainThread  ] [DEBUG]  The Girl on the Train already in hd library
+2019-12-13 10:44:06,747 [MainThread  ] [DEBUG]  Mission: Impossible - Rogue Nation already in hd library
+2019-12-13 10:44:06,747 [MainThread  ] [DEBUG]  Whiplash already in hd library
+2019-12-13 10:44:06,747 [MainThread  ] [DEBUG]  Elysium already in hd library

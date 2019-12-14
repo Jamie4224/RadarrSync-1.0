@@ -1,0 +1,1268 @@
+2019-12-13 10:00:54,022 [MainThread  ] [DEBUG]  Starting new HTTP connection (1): 127.0.0.1
+2019-12-13 10:00:54,231 [MainThread  ] [DEBUG]  http://127.0.0.1:7874 "GET /api/movie?apikey=a91ce27ed8604fe49ad9dd662ed7b503 HTTP/1.1" 200 None
+2019-12-13 10:00:54,323 [MainThread  ] [DEBUG]  Starting new HTTP connection (1): 127.0.0.1
+2019-12-13 10:00:54,895 [MainThread  ] [DEBUG]  http://127.0.0.1:7877 "GET /api/movie?apikey=1094990414034b618a7412d26b7aa4ea HTTP/1.1" 200 None
+2019-12-13 10:00:55,038 [MainThread  ] [DEBUG]  Captain Marvel already in hdr library
+2019-12-13 10:00:55,038 [MainThread  ] [DEBUG]  Apollo 11 already in hdr library
+2019-12-13 10:00:55,038 [MainThread  ] [DEBUG]  Bohemian Rhapsody already in hdr library
+2019-12-13 10:00:55,038 [MainThread  ] [DEBUG]  Aquaman already in hdr library
+2019-12-13 10:00:55,038 [MainThread  ] [DEBUG]  Guardians of the Galaxy Vol. 2 already in hdr library
+2019-12-13 10:00:55,038 [MainThread  ] [DEBUG]  Hotel Mumbai already in hdr library
+2019-12-13 10:00:55,038 [MainThread  ] [DEBUG]  Bumblebee already in hdr library
+2019-12-13 10:00:55,038 [MainThread  ] [DEBUG]  A Star Is Born already in hdr library
+2019-12-13 10:00:55,038 [MainThread  ] [DEBUG]  Guardians of the Galaxy already in hdr library
+2019-12-13 10:00:55,038 [MainThread  ] [DEBUG]  Mission: Impossible - Fallout already in hdr library
+2019-12-13 10:00:55,038 [MainThread  ] [DEBUG]  Yesterday already in hdr library
+2019-12-13 10:00:55,038 [MainThread  ] [DEBUG]  Avengers: Infinity War already in hdr library
+2019-12-13 10:00:55,038 [MainThread  ] [DEBUG]  The Lion King already in hdr library
+2019-12-13 10:00:55,038 [MainThread  ] [DEBUG]  Crawl already in hdr library
+2019-12-13 10:00:55,038 [MainThread  ] [DEBUG]  Stuber already in hdr library
+2019-12-13 10:00:55,038 [MainThread  ] [DEBUG]  Midsommar already in hdr library
+2019-12-13 10:00:55,038 [MainThread  ] [DEBUG]  Spider-Man: Far from Home already in hdr library
+2019-12-13 10:00:55,038 [MainThread  ] [DEBUG]  Annabelle Comes Home already in hdr library
+2019-12-13 10:00:55,038 [MainThread  ] [DEBUG]  Anna already in hdr library
+2019-12-13 10:00:55,039 [MainThread  ] [DEBUG]  Child's Play already in hdr library
+2019-12-13 10:00:55,039 [MainThread  ] [DEBUG]  Toy Story 4 already in hdr library
+2019-12-13 10:00:55,039 [MainThread  ] [DEBUG]  Men in Black: International already in hdr library
+2019-12-13 10:00:55,039 [MainThread  ] [DEBUG]  Shaft already in hdr library
+2019-12-13 10:00:55,039 [MainThread  ] [DEBUG]  Dark Phoenix already in hdr library
+2019-12-13 10:00:55,039 [MainThread  ] [DEBUG]  Late Night already in hdr library
+2019-12-13 10:00:55,039 [MainThread  ] [DEBUG]  The Secret Life of Pets 2 already in hdr library
+2019-12-13 10:00:55,039 [MainThread  ] [DEBUG]  Godzilla: King of the Monsters already in hdr library
+2019-12-13 10:00:55,039 [MainThread  ] [DEBUG]  Ma already in hdr library
+2019-12-13 10:00:55,039 [MainThread  ] [DEBUG]  Rocketman already in hdr library
+2019-12-13 10:00:55,039 [MainThread  ] [DEBUG]  Aladdin already in hdr library
+2019-12-13 10:00:55,039 [MainThread  ] [DEBUG]  Booksmart already in hdr library
+2019-12-13 10:00:55,039 [MainThread  ] [DEBUG]  Brightburn already in hdr library
+2019-12-13 10:00:55,039 [MainThread  ] [DEBUG]  John Wick: Chapter 3 - Parabellum already in hdr library
+2019-12-13 10:00:55,039 [MainThread  ] [DEBUG]  The Hustle already in hdr library
+2019-12-13 10:00:55,039 [MainThread  ] [DEBUG]  Poms already in hdr library
+2019-12-13 10:00:55,039 [MainThread  ] [DEBUG]  Tolkien already in hdr library
+2019-12-13 10:00:55,039 [MainThread  ] [DEBUG]  The Intruder already in hdr library
+2019-12-13 10:00:55,039 [MainThread  ] [DEBUG]  Long Shot already in hdr library
+2019-12-13 10:00:55,039 [MainThread  ] [DEBUG]  UglyDolls already in hdr library
+2019-12-13 10:00:55,039 [MainThread  ] [DEBUG]  Avengers: Endgame already in hdr library
+2019-12-13 10:00:55,039 [MainThread  ] [DEBUG]  The Curse of La Llorona already in hdr library
+2019-12-13 10:00:55,039 [MainThread  ] [DEBUG]  Hellboy already in hdr library
+2019-12-13 10:00:55,039 [MainThread  ] [DEBUG]  Missing Link already in hdr library
+2019-12-13 10:00:55,040 [MainThread  ] [DEBUG]  Deadpool already in hdr library
+2019-12-13 10:00:55,040 [MainThread  ] [DEBUG]  Deadpool 2 already in hdr library
+2019-12-13 10:00:55,040 [MainThread  ] [DEBUG]  Once Upon a Deadpool already in hdr library
+2019-12-13 10:00:55,040 [MainThread  ] [DEBUG]  Deadpool: No Good Deed already in hdr library
+2019-12-13 10:00:55,040 [MainThread  ] [DEBUG]  Deadpool 3 already in hdr library
+2019-12-13 10:00:55,040 [MainThread  ] [DEBUG]  Deadpool: A Typical Tuesday already in hdr library
+2019-12-13 10:00:55,040 [MainThread  ] [DEBUG]  Deadpool: From Comics to Screen... to Screen already in hdr library
+2019-12-13 10:00:55,040 [MainThread  ] [DEBUG]  Deadpool Musical: Beauty and the Beast Gaston Parody already in hdr library
+2019-12-13 10:00:55,040 [MainThread  ] [DEBUG]  Deadpool & Black Panther: Back in Red & Black already in hdr library
+2019-12-13 10:00:55,040 [MainThread  ] [DEBUG]  X-Force already in hdr library
+2019-12-13 10:00:55,040 [MainThread  ] [DEBUG]  The Goldfinch already in hdr library
+2019-12-13 10:00:55,040 [MainThread  ] [DEBUG]  High on the Hog already in hdr library
+2019-12-13 10:00:55,040 [MainThread  ] [DEBUG]  Fantastic Beasts: The Crimes of Grindelwald already in hdr library
+2019-12-13 10:00:55,040 [MainThread  ] [DEBUG]  Fantastic Beasts and Where to Find Them already in hdr library
+2019-12-13 10:00:55,040 [MainThread  ] [DEBUG]  Fantastic Beasts 3 already in hdr library
+2019-12-13 10:00:55,040 [MainThread  ] [DEBUG]  Fantastic Beasts 4 already in hdr library
+2019-12-13 10:00:55,040 [MainThread  ] [DEBUG]  Fantastic Beasts 5 already in hdr library
+2019-12-13 10:00:55,040 [MainThread  ] [DEBUG]  The Girl with the Dragon Tattoo already in hdr library
+2019-12-13 10:00:55,040 [MainThread  ] [DEBUG]  The Girl in the Spider's Web already in hdr library
+2019-12-13 10:00:55,040 [MainThread  ] [DEBUG]  Doctor Strange already in hdr library
+2019-12-13 10:00:55,040 [MainThread  ] [DEBUG]  A Dog's Journey already in hdr library
+2019-12-13 10:00:55,040 [MainThread  ] [DEBUG]  The Shawshank Redemption already in hdr library
+2019-12-13 10:00:55,040 [MainThread  ] [DEBUG]  Harry Potter and the Philosopher's Stone already in hdr library
+2019-12-13 10:00:55,040 [MainThread  ] [DEBUG]  Harry Potter and the Chamber of Secrets already in hdr library
+2019-12-13 10:00:55,040 [MainThread  ] [DEBUG]  Harry Potter and the Prisoner of Azkaban already in hdr library
+2019-12-13 10:00:55,040 [MainThread  ] [DEBUG]  Harry Potter and the Goblet of Fire already in hdr library
+2019-12-13 10:00:55,040 [MainThread  ] [DEBUG]  Harry Potter and the Order of the Phoenix already in hdr library
+2019-12-13 10:00:55,040 [MainThread  ] [DEBUG]  Harry Potter and the Half-Blood Prince already in hdr library
+2019-12-13 10:00:55,041 [MainThread  ] [DEBUG]  Harry Potter and the Deathly Hallows: Part 1 already in hdr library
+2019-12-13 10:00:55,041 [MainThread  ] [DEBUG]  Harry Potter and the Deathly Hallows: Part 2 already in hdr library
+2019-12-13 10:00:55,041 [MainThread  ] [DEBUG]  28 Days already in hdr library
+2019-12-13 10:00:55,041 [MainThread  ] [DEBUG]  28 Days Later already in hdr library
+2019-12-13 10:00:55,041 [MainThread  ] [DEBUG]  28 Weeks Later already in hdr library
+2019-12-13 10:00:55,041 [MainThread  ] [DEBUG]  American Hustle already in hdr library
+2019-12-13 10:00:55,041 [MainThread  ] [DEBUG]  Annabelle already in hdr library
+2019-12-13 10:00:55,041 [MainThread  ] [DEBUG]  Annabelle: Creation already in hdr library
+2019-12-13 10:00:55,041 [MainThread  ] [DEBUG]  The Avengers already in hdr library
+2019-12-13 10:00:55,041 [MainThread  ] [DEBUG]  Avengers: Age of Ultron already in hdr library
+2019-12-13 10:00:55,041 [MainThread  ] [DEBUG]  Batman already in hdr library
+2019-12-13 10:00:55,041 [MainThread  ] [DEBUG]  Batman Returns already in hdr library
+2019-12-13 10:00:55,041 [MainThread  ] [DEBUG]  Baywatch already in hdr library
+2019-12-13 10:00:55,041 [MainThread  ] [DEBUG]  Blade Runner already in hdr library
+2019-12-13 10:00:55,041 [MainThread  ] [DEBUG]  Blast from the Past already in hdr library
+2019-12-13 10:00:55,041 [MainThread  ] [DEBUG]  The Cannonball Run already in hdr library
+2019-12-13 10:00:55,041 [MainThread  ] [DEBUG]  Dumbo already in hdr library
+2019-12-13 10:00:55,041 [MainThread  ] [DEBUG]  Encino Man already in hdr library
+2019-12-13 10:00:55,041 [MainThread  ] [DEBUG]  Envy already in hdr library
+2019-12-13 10:00:55,041 [MainThread  ] [DEBUG]  Friday already in hdr library
+2019-12-13 10:00:55,041 [MainThread  ] [DEBUG]  Friday After Next already in hdr library
+2019-12-13 10:00:55,041 [MainThread  ] [DEBUG]  Game Night already in hdr library
+2019-12-13 10:00:55,041 [MainThread  ] [DEBUG]  The Goonies already in hdr library
+2019-12-13 10:00:55,041 [MainThread  ] [DEBUG]  The Hitman's Bodyguard already in hdr library
+2019-12-13 10:00:55,041 [MainThread  ] [DEBUG]  Into the Wild already in hdr library
+2019-12-13 10:00:55,041 [MainThread  ] [DEBUG]  Iron Eagle already in hdr library
+2019-12-13 10:00:55,041 [MainThread  ] [DEBUG]  Isn't It Romantic already in hdr library
+2019-12-13 10:00:55,042 [MainThread  ] [DEBUG]  It already in hdr library
+2019-12-13 10:00:55,042 [MainThread  ] [DEBUG]  Killers already in hdr library
+2019-12-13 10:00:55,042 [MainThread  ] [DEBUG]  Last Friday already in hdr library
+2019-12-13 10:00:55,042 [MainThread  ] [DEBUG]  The Last Starfighter already in hdr library
+2019-12-13 10:00:55,042 [MainThread  ] [DEBUG]  The Lion King already in hdr library
+2019-12-13 10:00:55,042 [MainThread  ] [DEBUG]  The Love Guru already in hdr library
+2019-12-13 10:00:55,042 [MainThread  ] [DEBUG]  Love in Paradise already in hdr library
+2019-12-13 10:00:55,042 [MainThread  ] [DEBUG]  The Majestic already in hdr library
+2019-12-13 10:00:55,042 [MainThread  ] [DEBUG]  Man of Steel already in hdr library
+2019-12-13 10:00:55,042 [MainThread  ] [DEBUG]  Mystery, Alaska already in hdr library
+2019-12-13 10:00:55,042 [MainThread  ] [DEBUG]  National Lampoon's European Vacation already in hdr library
+2019-12-13 10:00:55,042 [MainThread  ] [DEBUG]  National Lampoon's Vacation already in hdr library
+2019-12-13 10:00:55,042 [MainThread  ] [DEBUG]  Next Friday already in hdr library
+2019-12-13 10:00:55,042 [MainThread  ] [DEBUG]  O Brother, Where Art Thou? already in hdr library
+2019-12-13 10:00:55,042 [MainThread  ] [DEBUG]  Ocean's Eleven already in hdr library
+2019-12-13 10:00:55,042 [MainThread  ] [DEBUG]  Ocean's Eleven already in hdr library
+2019-12-13 10:00:55,042 [MainThread  ] [DEBUG]  October Sky already in hdr library
+2019-12-13 10:00:55,042 [MainThread  ] [DEBUG]  Out Cold already in hdr library
+2019-12-13 10:00:55,042 [MainThread  ] [DEBUG]  Paul Blart: Mall Cop 2 already in hdr library
+2019-12-13 10:00:55,042 [MainThread  ] [DEBUG]  PCU already in hdr library
+2019-12-13 10:00:55,042 [MainThread  ] [DEBUG]  A Perfect World already in hdr library
+2019-12-13 10:00:55,042 [MainThread  ] [DEBUG]  Pokémon Detective Pikachu already in hdr library
+2019-12-13 10:00:55,042 [MainThread  ] [DEBUG]  The Proposal already in hdr library
+2019-12-13 10:00:55,042 [MainThread  ] [DEBUG]  Rocky already in hdr library
+2019-12-13 10:00:55,042 [MainThread  ] [DEBUG]  The Rocky Horror Picture Show already in hdr library
+2019-12-13 10:00:55,042 [MainThread  ] [DEBUG]  Scarface already in hdr library
+2019-12-13 10:00:55,042 [MainThread  ] [DEBUG]  Senior Trip already in hdr library
+2019-12-13 10:00:55,042 [MainThread  ] [DEBUG]  Shazam! already in hdr library
+2019-12-13 10:00:55,043 [MainThread  ] [DEBUG]  A Simple Favor already in hdr library
+2019-12-13 10:00:55,043 [MainThread  ] [DEBUG]  Smokey and the Bandit II already in hdr library
+2019-12-13 10:00:55,043 [MainThread  ] [DEBUG]  Spaceballs already in hdr library
+2019-12-13 10:00:55,043 [MainThread  ] [DEBUG]  Summer '03 already in hdr library
+2019-12-13 10:00:55,043 [MainThread  ] [DEBUG]  Summer Catch already in hdr library
+2019-12-13 10:00:55,043 [MainThread  ] [DEBUG]  Tag already in hdr library
+2019-12-13 10:00:55,043 [MainThread  ] [DEBUG]  Top Gun already in hdr library
+2019-12-13 10:00:55,043 [MainThread  ] [DEBUG]  Trick 'r Treat already in hdr library
+2019-12-13 10:00:55,043 [MainThread  ] [DEBUG]  The Way Way Back already in hdr library
+2019-12-13 10:00:55,043 [MainThread  ] [DEBUG]  Wish I Was Here already in hdr library
+2019-12-13 10:00:55,043 [MainThread  ] [DEBUG]  Wonder Park already in hdr library
+2019-12-13 10:00:55,043 [MainThread  ] [DEBUG]  Wonder Woman already in hdr library
+2019-12-13 10:00:55,043 [MainThread  ] [DEBUG]  Caddyshack already in hdr library
+2019-12-13 10:00:55,043 [MainThread  ] [DEBUG]  Goodbye, Mr. Chips already in hdr library
+2019-12-13 10:00:55,043 [MainThread  ] [DEBUG]  Pride and Prejudice already in hdr library
+2019-12-13 10:00:55,043 [MainThread  ] [DEBUG]  Pride and Prejudice and Zombies already in hdr library
+2019-12-13 10:00:55,043 [MainThread  ] [DEBUG]  Abraham Lincoln: Vampire Hunter already in hdr library
+2019-12-13 10:00:55,043 [MainThread  ] [DEBUG]  Army of Darkness already in hdr library
+2019-12-13 10:00:55,043 [MainThread  ] [DEBUG]  The Karate Kid already in hdr library
+2019-12-13 10:00:55,043 [MainThread  ] [DEBUG]  The Karate Kid Part II already in hdr library
+2019-12-13 10:00:55,043 [MainThread  ] [DEBUG]  The Next Karate Kid already in hdr library
+2019-12-13 10:00:55,043 [MainThread  ] [DEBUG]  Tombstone already in hdr library
+2019-12-13 10:00:55,043 [MainThread  ] [DEBUG]  Chappie already in hdr library
+2019-12-13 10:00:55,043 [MainThread  ] [DEBUG]  District 9 already in hdr library
+2019-12-13 10:00:55,043 [MainThread  ] [DEBUG]  Ender's Game already in hdr library
+2019-12-13 10:00:55,043 [MainThread  ] [DEBUG]  Pixels already in hdr library
+2019-12-13 10:00:55,043 [MainThread  ] [DEBUG]  Dickie Roberts: Former Child Star already in hdr library
+2019-12-13 10:00:55,044 [MainThread  ] [DEBUG]  Teen Titans Go! To the Movies already in hdr library
+2019-12-13 10:00:55,044 [MainThread  ] [DEBUG]  Alita: Battle Angel already in hdr library
+2019-12-13 10:00:55,044 [MainThread  ] [DEBUG]  Batman v Superman: Dawn of Justice already in hdr library
+2019-12-13 10:00:55,044 [MainThread  ] [DEBUG]  The Terminator already in hdr library
+2019-12-13 10:00:55,044 [MainThread  ] [DEBUG]  Terminator 2: Judgment Day already in hdr library
+2019-12-13 10:00:55,044 [MainThread  ] [DEBUG]  Once Upon a Time… in Hollywood already in hdr library
+2019-12-13 10:00:55,044 [MainThread  ] [DEBUG]  The Farewell already in hdr library
+2019-12-13 10:00:55,044 [MainThread  ] [DEBUG]  Clown Motel: Spirits Arise already in hdr library
+2019-12-13 10:00:55,044 [MainThread  ] [DEBUG]  The Mule already in hdr library
+2019-12-13 10:00:55,044 [MainThread  ] [DEBUG]  Hackers already in hdr library
+2019-12-13 10:00:55,044 [MainThread  ] [DEBUG]  Blackhat already in hdr library
+2019-12-13 10:00:55,044 [MainThread  ] [DEBUG]  Sneakers already in hdr library
+2019-12-13 10:00:55,044 [MainThread  ] [DEBUG]  The Net already in hdr library
+2019-12-13 10:00:55,044 [MainThread  ] [DEBUG]  Stargate already in hdr library
+2019-12-13 10:00:55,044 [MainThread  ] [DEBUG]  Gravity already in hdr library
+2019-12-13 10:00:55,044 [MainThread  ] [DEBUG]  Transformers already in hdr library
+2019-12-13 10:00:55,044 [MainThread  ] [DEBUG]  Transformers: Age of Extinction already in hdr library
+2019-12-13 10:00:55,044 [MainThread  ] [DEBUG]  Transformers: Revenge of the Fallen already in hdr library
+2019-12-13 10:00:55,044 [MainThread  ] [DEBUG]  Transformers: The Last Knight already in hdr library
+2019-12-13 10:00:55,044 [MainThread  ] [DEBUG]  Sharknado already in hdr library
+2019-12-13 10:00:55,044 [MainThread  ] [DEBUG]  Sharknado 2: The Second One already in hdr library
+2019-12-13 10:00:55,044 [MainThread  ] [DEBUG]  Sharknado 3: Oh Hell No! already in hdr library
+2019-12-13 10:00:55,044 [MainThread  ] [DEBUG]  Sharknado 4: The 4th Awakens already in hdr library
+2019-12-13 10:00:55,044 [MainThread  ] [DEBUG]  Sharknado 5: Global Swarming already in hdr library
+2019-12-13 10:00:55,044 [MainThread  ] [DEBUG]  The Last Sharknado: It's About Time already in hdr library
+2019-12-13 10:00:55,044 [MainThread  ] [DEBUG]  Sharknado: Feeding Frenzy already in hdr library
+2019-12-13 10:00:55,044 [MainThread  ] [DEBUG]  Sharknado: Heart of Sharkness already in hdr library
+2019-12-13 10:00:55,045 [MainThread  ] [DEBUG]  Lavalantula already in hdr library
+2019-12-13 10:00:55,045 [MainThread  ] [DEBUG]  The Ladybug already in hdr library
+2019-12-13 10:00:55,045 [MainThread  ] [DEBUG]  Sweet Home Alabama already in hdr library
+2019-12-13 10:00:55,045 [MainThread  ] [DEBUG]  Total Recall already in hdr library
+2019-12-13 10:00:55,045 [MainThread  ] [DEBUG]  Total Recall already in hdr library
+2019-12-13 10:00:55,045 [MainThread  ] [DEBUG]  Smokey and the Bandit Part 3 already in hdr library
+2019-12-13 10:00:55,045 [MainThread  ] [DEBUG]  Smokey and the Bandit already in hdr library
+2019-12-13 10:00:55,045 [MainThread  ] [DEBUG]  RoboCop already in hdr library
+2019-12-13 10:00:55,045 [MainThread  ] [DEBUG]  Old School already in hdr library
+2019-12-13 10:00:55,045 [MainThread  ] [DEBUG]  Road Trip already in hdr library
+2019-12-13 10:00:55,045 [MainThread  ] [DEBUG]  Major League already in hdr library
+2019-12-13 10:00:55,045 [MainThread  ] [DEBUG]  The Dark Crystal already in hdr library
+2019-12-13 10:00:55,045 [MainThread  ] [DEBUG]  Willow already in hdr library
+2019-12-13 10:00:55,045 [MainThread  ] [DEBUG]  Little Miss Sunshine already in hdr library
+2019-12-13 10:00:55,045 [MainThread  ] [DEBUG]  Dan in Real Life already in hdr library
+2019-12-13 10:00:55,045 [MainThread  ] [DEBUG]  John Wick already in hdr library
+2019-12-13 10:00:55,045 [MainThread  ] [DEBUG]  John Wick: Chapter 2 already in hdr library
+2019-12-13 10:00:55,045 [MainThread  ] [DEBUG]  John Wick: Chapter 4 already in hdr library
+2019-12-13 10:00:55,045 [MainThread  ] [DEBUG]  Captain America: The First Avenger already in hdr library
+2019-12-13 10:00:55,045 [MainThread  ] [DEBUG]  Alien already in hdr library
+2019-12-13 10:00:55,045 [MainThread  ] [DEBUG]  Arrival already in hdr library
+2019-12-13 10:00:55,045 [MainThread  ] [DEBUG]  Mad Max Beyond Thunderdome already in hdr library
+2019-12-13 10:00:55,045 [MainThread  ] [DEBUG]  E.T. the Extra-Terrestrial already in hdr library
+2019-12-13 10:00:55,046 [MainThread  ] [DEBUG]  The Fifth Element already in hdr library
+2019-12-13 10:00:55,046 [MainThread  ] [DEBUG]  Back to the Future already in hdr library
+2019-12-13 10:00:55,046 [MainThread  ] [DEBUG]  Back to the Future Part II already in hdr library
+2019-12-13 10:00:55,046 [MainThread  ] [DEBUG]  Back to the Future Part III already in hdr library
+2019-12-13 10:00:55,046 [MainThread  ] [DEBUG]  The Wizard already in hdr library
+2019-12-13 10:00:55,046 [MainThread  ] [DEBUG]  Rio Bravo already in hdr library
+2019-12-13 10:00:55,046 [MainThread  ] [DEBUG]  Executive Decision already in hdr library
+2019-12-13 10:00:55,046 [MainThread  ] [DEBUG]  Flight of the Navigator already in hdr library
+2019-12-13 10:00:55,046 [MainThread  ] [DEBUG]  Breakfast at Tiffany's already in hdr library
+2019-12-13 10:00:55,046 [MainThread  ] [DEBUG]  The Breakfast Club already in hdr library
+2019-12-13 10:00:55,046 [MainThread  ] [DEBUG]  *batteries not included already in hdr library
+2019-12-13 10:00:55,046 [MainThread  ] [DEBUG]  Star Trek: The Motion Picture already in hdr library
+2019-12-13 10:00:55,046 [MainThread  ] [DEBUG]  Flight already in hdr library
+2019-12-13 10:00:55,046 [MainThread  ] [DEBUG]  The Rock already in hdr library
+2019-12-13 10:00:55,046 [MainThread  ] [DEBUG]  Edward Scissorhands already in hdr library
+2019-12-13 10:00:55,046 [MainThread  ] [DEBUG]  The Emperor's Club already in hdr library
+2019-12-13 10:00:55,046 [MainThread  ] [DEBUG]  Highlander already in hdr library
+2019-12-13 10:00:55,046 [MainThread  ] [DEBUG]  New in Town already in hdr library
+2019-12-13 10:00:55,046 [MainThread  ] [DEBUG]  Jo Koy: Don't Make Him Angry already in hdr library
+2019-12-13 10:00:55,046 [MainThread  ] [DEBUG]  Jo Koy: Lights Out already in hdr library
+2019-12-13 10:00:55,046 [MainThread  ] [DEBUG]  Labyrinth already in hdr library
+2019-12-13 10:00:55,046 [MainThread  ] [DEBUG]  The Mighty Ducks already in hdr library
+2019-12-13 10:00:55,046 [MainThread  ] [DEBUG]  D2: The Mighty Ducks already in hdr library
+2019-12-13 10:00:55,046 [MainThread  ] [DEBUG]  D3: The Mighty Ducks already in hdr library
+2019-12-13 10:00:55,046 [MainThread  ] [DEBUG]  Halloween already in hdr library
+2019-12-13 10:00:55,046 [MainThread  ] [DEBUG]  Iron Man already in hdr library
+2019-12-13 10:00:55,047 [MainThread  ] [DEBUG]  Iron Man 2 already in hdr library
+2019-12-13 10:00:55,047 [MainThread  ] [DEBUG]  Iron Man 3 already in hdr library
+2019-12-13 10:00:55,047 [MainThread  ] [DEBUG]  Captain America: The Winter Soldier already in hdr library
+2019-12-13 10:00:55,047 [MainThread  ] [DEBUG]  Captain America: Civil War already in hdr library
+2019-12-13 10:00:55,047 [MainThread  ] [DEBUG]  Thor already in hdr library
+2019-12-13 10:00:55,047 [MainThread  ] [DEBUG]  Thor: Ragnarok already in hdr library
+2019-12-13 10:00:55,047 [MainThread  ] [DEBUG]  Unplanned already in hdr library
+2019-12-13 10:00:55,047 [MainThread  ] [DEBUG]  Jojo Rabbit already in hdr library
+2019-12-13 10:00:55,047 [MainThread  ] [DEBUG]  Fast & Furious Presents: Hobbs & Shaw already in hdr library
+2019-12-13 10:00:55,047 [MainThread  ] [DEBUG]  Brian Banks already in hdr library
+2019-12-13 10:00:55,047 [MainThread  ] [DEBUG]  My Girl already in hdr library
+2019-12-13 10:00:55,047 [MainThread  ] [DEBUG]  My Girl 2 already in hdr library
+2019-12-13 10:00:55,047 [MainThread  ] [DEBUG]  Fatal Pulse already in hdr library
+2019-12-13 10:00:55,047 [MainThread  ] [DEBUG]  Big Trouble already in hdr library
+2019-12-13 10:00:55,047 [MainThread  ] [DEBUG]  Big already in hdr library
+2019-12-13 10:00:55,047 [MainThread  ] [DEBUG]  Little Big League already in hdr library
+2019-12-13 10:00:55,047 [MainThread  ] [DEBUG]  Star Trek already in hdr library
+2019-12-13 10:00:55,047 [MainThread  ] [DEBUG]  Star Trek Into Darkness already in hdr library
+2019-12-13 10:00:55,047 [MainThread  ] [DEBUG]  Star Trek Beyond already in hdr library
+2019-12-13 10:00:55,047 [MainThread  ] [DEBUG]  Where'd You Go, Bernadette already in hdr library
+2019-12-13 10:00:55,047 [MainThread  ] [DEBUG]  Wild Hearts Can't Be Broken already in hdr library
+2019-12-13 10:00:55,047 [MainThread  ] [DEBUG]  Jaws 2 already in hdr library
+2019-12-13 10:00:55,047 [MainThread  ] [DEBUG]  Jaws already in hdr library
+2019-12-13 10:00:55,047 [MainThread  ] [DEBUG]  Star Trek: Generations already in hdr library
+2019-12-13 10:00:55,047 [MainThread  ] [DEBUG]  Star Trek V: The Final Frontier already in hdr library
+2019-12-13 10:00:55,048 [MainThread  ] [DEBUG]  Star Trek IV: The Voyage Home already in hdr library
+2019-12-13 10:00:55,048 [MainThread  ] [DEBUG]  Black Panther already in hdr library
+2019-12-13 10:00:55,048 [MainThread  ] [DEBUG]  The Incredible Hulk already in hdr library
+2019-12-13 10:00:55,048 [MainThread  ] [DEBUG]  Ant-Man and the Wasp already in hdr library
+2019-12-13 10:00:55,048 [MainThread  ] [DEBUG]  Ant-Man already in hdr library
+2019-12-13 10:00:55,048 [MainThread  ] [DEBUG]  The Amazing Spider-Man 2 already in hdr library
+2019-12-13 10:00:55,048 [MainThread  ] [DEBUG]  Spider-Man 2 already in hdr library
+2019-12-13 10:00:55,048 [MainThread  ] [DEBUG]  Spider-Man already in hdr library
+2019-12-13 10:00:55,048 [MainThread  ] [DEBUG]  Spider-Man 3 already in hdr library
+2019-12-13 10:00:55,048 [MainThread  ] [DEBUG]  The Art of Racing in the Rain already in hdr library
+2019-12-13 10:00:55,048 [MainThread  ] [DEBUG]  An American Girl Story - Maryellen 1955: Extraordinary Christmas already in hdr library
+2019-12-13 10:00:55,048 [MainThread  ] [DEBUG]  The Sun Is Also a Star already in hdr library
+2019-12-13 10:00:55,048 [MainThread  ] [DEBUG]  Aurora Teagarden Mysteries: A Game of Cat and Mouse already in hdr library
+2019-12-13 10:00:55,048 [MainThread  ] [DEBUG]  Red Shoes 2019 already in hdr library
+2019-12-13 10:00:55,048 [MainThread  ] [DEBUG]  The Slammin' Salmon already in hdr library
+2019-12-13 10:00:55,048 [MainThread  ] [DEBUG]  Beerfest already in hdr library
+2019-12-13 10:00:55,048 [MainThread  ] [DEBUG]  Beer already in hdr library
+2019-12-13 10:00:55,048 [MainThread  ] [DEBUG]  Robin and the 7 Hoods already in hdr library
+2019-12-13 10:00:55,048 [MainThread  ] [DEBUG]  International Velvet already in hdr library
+2019-12-13 10:00:55,048 [MainThread  ] [DEBUG]  Scary Stories to Tell in the Dark already in hdr library
+2019-12-13 10:00:55,048 [MainThread  ] [DEBUG]  Dora and the Lost City of Gold already in hdr library
+2019-12-13 10:00:55,048 [MainThread  ] [DEBUG]  The Kitchen already in hdr library
+2019-12-13 10:00:55,048 [MainThread  ] [DEBUG]  Bring the Soul: The Movie already in hdr library
+2019-12-13 10:00:55,049 [MainThread  ] [DEBUG]  Aurora Teagarden Mysteries: An Inheritance to Die For already in hdr library
+2019-12-13 10:00:55,049 [MainThread  ] [DEBUG]  The Angry Birds Movie 2 already in hdr library
+2019-12-13 10:00:55,049 [MainThread  ] [DEBUG]  Teacher already in hdr library
+2019-12-13 10:00:55,049 [MainThread  ] [DEBUG]  Weird Science already in hdr library
+2019-12-13 10:00:55,049 [MainThread  ] [DEBUG]  Patton already in hdr library
+2019-12-13 10:00:55,049 [MainThread  ] [DEBUG]  The Green Berets already in hdr library
+2019-12-13 10:00:55,049 [MainThread  ] [DEBUG]  Super Troopers already in hdr library
+2019-12-13 10:00:55,049 [MainThread  ] [DEBUG]  Super Troopers 2 already in hdr library
+2019-12-13 10:00:55,049 [MainThread  ] [DEBUG]  Charlie Bartlett already in hdr library
+2019-12-13 10:00:55,049 [MainThread  ] [DEBUG]  Nick and Norah's Infinite Playlist already in hdr library
+2019-12-13 10:00:55,049 [MainThread  ] [DEBUG]  Westworld already in hdr library
+2019-12-13 10:00:55,049 [MainThread  ] [DEBUG]  Futureworld already in hdr library
+2019-12-13 10:00:55,049 [MainThread  ] [DEBUG]  Cult of Chucky already in hdr library
+2019-12-13 10:00:55,049 [MainThread  ] [DEBUG]  Underwater already in hdr library
+2019-12-13 10:00:55,049 [MainThread  ] [DEBUG]  Venom already in hdr library
+2019-12-13 10:00:55,049 [MainThread  ] [DEBUG]  Spider-Man: Into the Spider-Verse already in hdr library
+2019-12-13 10:00:55,049 [MainThread  ] [DEBUG]  War for the Planet of the Apes already in hdr library
+2019-12-13 10:00:55,049 [MainThread  ] [DEBUG]  Thor: The Dark World already in hdr library
+2019-12-13 10:00:55,049 [MainThread  ] [DEBUG]  Incredibles 2 already in hdr library
+2019-12-13 10:00:55,049 [MainThread  ] [DEBUG]  Dragon Ball Super: Broly already in hdr library
+2019-12-13 10:00:55,049 [MainThread  ] [DEBUG]  Magic Camp already in hdr library
+2019-12-13 10:00:55,049 [MainThread  ] [DEBUG]  Emma Mae already in hdr library
+2019-12-13 10:00:55,049 [MainThread  ] [DEBUG]  ECW Heatwave 1999 already in hdr library
+2019-12-13 10:00:55,049 [MainThread  ] [DEBUG]  Fireplace for Your Home already in hdr library
+2019-12-13 10:00:55,049 [MainThread  ] [DEBUG]  The Family Business already in hdr library
+2019-12-13 10:00:55,050 [MainThread  ] [DEBUG]  36 Hour Layover already in hdr library
+2019-12-13 10:00:55,050 [MainThread  ] [DEBUG]  GoodFellas already in hdr library
+2019-12-13 10:00:55,050 [MainThread  ] [DEBUG]  Ghostbusters already in hdr library
+2019-12-13 10:00:55,050 [MainThread  ] [DEBUG]  Ghostbusters already in hdr library
+2019-12-13 10:00:55,050 [MainThread  ] [DEBUG]  Ghostbusters II already in hdr library
+2019-12-13 10:00:55,050 [MainThread  ] [DEBUG]  Ghostbusters: Afterlife already in hdr library
+2019-12-13 10:00:55,050 [MainThread  ] [DEBUG]  Star Wars: Episode I - The Phantom Menace already in hdr library
+2019-12-13 10:00:55,050 [MainThread  ] [DEBUG]  Star Wars: Episode II - Attack of the Clones already in hdr library
+2019-12-13 10:00:55,050 [MainThread  ] [DEBUG]  Star Wars already in hdr library
+2019-12-13 10:00:55,050 [MainThread  ] [DEBUG]  Mars Attacks! already in hdr library
+2019-12-13 10:00:55,050 [MainThread  ] [DEBUG]  The Empire Strikes Back already in hdr library
+2019-12-13 10:00:55,050 [MainThread  ] [DEBUG]  Mad Max already in hdr library
+2019-12-13 10:00:55,050 [MainThread  ] [DEBUG]  Mad Max: Fury Road already in hdr library
+2019-12-13 10:00:55,050 [MainThread  ] [DEBUG]  Mad Max 2 already in hdr library
+2019-12-13 10:00:55,050 [MainThread  ] [DEBUG]  Good Boys already in hdr library
+2019-12-13 10:00:55,050 [MainThread  ] [DEBUG]  47 Meters Down: Uncaged already in hdr library
+2019-12-13 10:00:55,050 [MainThread  ] [DEBUG]  Blinded by the Light already in hdr library
+2019-12-13 10:00:55,050 [MainThread  ] [DEBUG]  Aliens already in hdr library
+2019-12-13 10:00:55,050 [MainThread  ] [DEBUG]  Alien³ already in hdr library
+2019-12-13 10:00:55,050 [MainThread  ] [DEBUG]  Alien Resurrection already in hdr library
+2019-12-13 10:00:55,050 [MainThread  ] [DEBUG]  Beautiful Boy already in hdr library
+2019-12-13 10:00:55,050 [MainThread  ] [DEBUG]  The 'Burbs already in hdr library
+2019-12-13 10:00:55,050 [MainThread  ] [DEBUG]  The Theory of Everything already in hdr library
+2019-12-13 10:00:55,050 [MainThread  ] [DEBUG]  Suicide Squad already in hdr library
+2019-12-13 10:00:55,050 [MainThread  ] [DEBUG]  Die Hard already in hdr library
+2019-12-13 10:00:55,050 [MainThread  ] [DEBUG]  Die Hard 2 already in hdr library
+2019-12-13 10:00:55,051 [MainThread  ] [DEBUG]  Die Hard: With a Vengeance already in hdr library
+2019-12-13 10:00:55,051 [MainThread  ] [DEBUG]  Live Free or Die Hard already in hdr library
+2019-12-13 10:00:55,051 [MainThread  ] [DEBUG]  A Good Day to Die Hard already in hdr library
+2019-12-13 10:00:55,051 [MainThread  ] [DEBUG]  The Jerk already in hdr library
+2019-12-13 10:00:55,051 [MainThread  ] [DEBUG]  Ray already in hdr library
+2019-12-13 10:00:55,051 [MainThread  ] [DEBUG]  The NeverEnding Story already in hdr library
+2019-12-13 10:00:55,051 [MainThread  ] [DEBUG]  The Hateful Eight already in hdr library
+2019-12-13 10:00:55,051 [MainThread  ] [DEBUG]  Ocean's Twelve already in hdr library
+2019-12-13 10:00:55,051 [MainThread  ] [DEBUG]  Ocean's Thirteen already in hdr library
+2019-12-13 10:00:55,051 [MainThread  ] [DEBUG]  Ocean's Eight already in hdr library
+2019-12-13 10:00:55,051 [MainThread  ] [DEBUG]  Amazing Grace already in hdr library
+2019-12-13 10:00:55,051 [MainThread  ] [DEBUG]  Overcomer already in hdr library
+2019-12-13 10:00:55,051 [MainThread  ] [DEBUG]  Private Parts already in hdr library
+2019-12-13 10:00:55,051 [MainThread  ] [DEBUG]  The Notebook already in hdr library
+2019-12-13 10:00:55,051 [MainThread  ] [DEBUG]  Some Came Running already in hdr library
+2019-12-13 10:00:55,051 [MainThread  ] [DEBUG]  Song of the South already in hdr library
+2019-12-13 10:00:55,051 [MainThread  ] [DEBUG]  Tomb Raider already in hdr library
+2019-12-13 10:00:55,051 [MainThread  ] [DEBUG]  Lara Croft: Tomb Raider already in hdr library
+2019-12-13 10:00:55,051 [MainThread  ] [DEBUG]  Lara Croft: Tomb Raider - The Cradle of Life already in hdr library
+2019-12-13 10:00:55,051 [MainThread  ] [DEBUG]  Tomb Raider 2 already in hdr library
+2019-12-13 10:00:55,051 [MainThread  ] [DEBUG]  White House Down already in hdr library
+2019-12-13 10:00:55,051 [MainThread  ] [DEBUG]  Olympus Has Fallen already in hdr library
+2019-12-13 10:00:55,051 [MainThread  ] [DEBUG]  London Has Fallen already in hdr library
+2019-12-13 10:00:55,051 [MainThread  ] [DEBUG]  Indiana Jones and the Last Crusade already in hdr library
+2019-12-13 10:00:55,051 [MainThread  ] [DEBUG]  Indiana Jones and the Temple of Doom already in hdr library
+2019-12-13 10:00:55,051 [MainThread  ] [DEBUG]  Indiana Jones and the Kingdom of the Crystal Skull already in hdr library
+2019-12-13 10:00:55,052 [MainThread  ] [DEBUG]  Indiana Jones 5 already in hdr library
+2019-12-13 10:00:55,052 [MainThread  ] [DEBUG]  Raiders of the Lost Ark already in hdr library
+2019-12-13 10:00:55,052 [MainThread  ] [DEBUG]  Angel Has Fallen already in hdr library
+2019-12-13 10:00:55,052 [MainThread  ] [DEBUG]  Ready or Not already in hdr library
+2019-12-13 10:00:55,052 [MainThread  ] [DEBUG]  Nanny McPhee already in hdr library
+2019-12-13 10:00:55,052 [MainThread  ] [DEBUG]  Nanny McPhee and the Big Bang already in hdr library
+2019-12-13 10:00:55,052 [MainThread  ] [DEBUG]  Lethal Weapon already in hdr library
+2019-12-13 10:00:55,052 [MainThread  ] [DEBUG]  Lethal Weapon 4 already in hdr library
+2019-12-13 10:00:55,052 [MainThread  ] [DEBUG]  Lethal Weapon 2 already in hdr library
+2019-12-13 10:00:55,052 [MainThread  ] [DEBUG]  Lethal Weapon 3 already in hdr library
+2019-12-13 10:00:55,052 [MainThread  ] [DEBUG]  The Peanut Butter Falcon already in hdr library
+2019-12-13 10:00:55,052 [MainThread  ] [DEBUG]  Escape from New York already in hdr library
+2019-12-13 10:00:55,052 [MainThread  ] [DEBUG]  Tom and Jerry: The Golden Collection - Volume 1 already in hdr library
+2019-12-13 10:00:55,052 [MainThread  ] [DEBUG]  Fifty Shades of Grey already in hdr library
+2019-12-13 10:00:55,052 [MainThread  ] [DEBUG]  Fifty Shades Freed already in hdr library
+2019-12-13 10:00:55,052 [MainThread  ] [DEBUG]  Fifty Shades Darker already in hdr library
+2019-12-13 10:00:55,052 [MainThread  ] [DEBUG]  The Laundromat already in hdr library
+2019-12-13 10:00:55,052 [MainThread  ] [DEBUG]  10 Cloverfield Lane already in hdr library
+2019-12-13 10:00:55,052 [MainThread  ] [DEBUG]  The Godfather already in hdr library
+2019-12-13 10:00:55,052 [MainThread  ] [DEBUG]  The Godfather: Part II already in hdr library
+2019-12-13 10:00:55,052 [MainThread  ] [DEBUG]  The Godfather: Part III already in hdr library
+2019-12-13 10:00:55,052 [MainThread  ] [DEBUG]  The Lawrence Arms: An Evening of Extraordinary Circumstance already in hdr library
+2019-12-13 10:00:55,052 [MainThread  ] [DEBUG]  Celtic Soul already in hdr library
+2019-12-13 10:00:55,052 [MainThread  ] [DEBUG]  Ready Player One already in hdr library
+2019-12-13 10:00:55,052 [MainThread  ] [DEBUG]  Hunter Killer already in hdr library
+2019-12-13 10:00:55,053 [MainThread  ] [DEBUG]  The Wiggles: Live: Hot Potatoes! already in hdr library
+2019-12-13 10:00:55,053 [MainThread  ] [DEBUG]  To All the Boys: P.S. I Still Love You already in hdr library
+2019-12-13 10:00:55,053 [MainThread  ] [DEBUG]  Smith already in hdr library
+2019-12-13 10:00:55,053 [MainThread  ] [DEBUG]  Steven Universe: The Movie already in hdr library
+2019-12-13 10:00:55,053 [MainThread  ] [DEBUG]  Five Nights at Freddy's already in hdr library
+2019-12-13 10:00:55,053 [MainThread  ] [DEBUG]  Semper Fi already in hdr library
+2019-12-13 10:00:55,053 [MainThread  ] [DEBUG]  THE SSW OF THE BORDER already in hdr library
+2019-12-13 10:00:55,053 [MainThread  ] [DEBUG]  When It Comes Around already in hdr library
+2019-12-13 10:00:55,053 [MainThread  ] [DEBUG]  Hairy Horny Amateurs already in hdr library
+2019-12-13 10:00:55,053 [MainThread  ] [DEBUG]  The World of 'The Dark Crystal' already in hdr library
+2019-12-13 10:00:55,053 [MainThread  ] [DEBUG]  Call Her Ganda already in hdr library
+2019-12-13 10:00:55,053 [MainThread  ] [DEBUG]  Howard the Duck already in hdr library
+2019-12-13 10:00:55,053 [MainThread  ] [DEBUG]  Teen Wolf already in hdr library
+2019-12-13 10:00:55,053 [MainThread  ] [DEBUG]  Johnny English Strikes Again already in hdr library
+2019-12-13 10:00:55,053 [MainThread  ] [DEBUG]  First Man already in hdr library
+2019-12-13 10:00:55,053 [MainThread  ] [DEBUG]  Apollo 13 already in hdr library
+2019-12-13 10:00:55,053 [MainThread  ] [DEBUG]  Hidden Colors 5: The Art of Black Warfare already in hdr library
+2019-12-13 10:00:55,053 [MainThread  ] [DEBUG]  Mayday already in hdr library
+2019-12-13 10:00:55,053 [MainThread  ] [DEBUG]  The Coming Convergence already in hdr library
+2019-12-13 10:00:55,053 [MainThread  ] [DEBUG]  Hamilton already in hdr library
+2019-12-13 10:00:55,053 [MainThread  ] [DEBUG]  Looney Tunes Golden Collection, Vol. 1 already in hdr library
+2019-12-13 10:00:55,053 [MainThread  ] [DEBUG]  Alma the Younger already in hdr library
+2019-12-13 10:00:55,053 [MainThread  ] [DEBUG]  Fade Away already in hdr library
+2019-12-13 10:00:55,053 [MainThread  ] [DEBUG]  It Chapter Two already in hdr library
+2019-12-13 10:00:55,053 [MainThread  ] [DEBUG]  Ice Age already in hdr library
+2019-12-13 10:00:55,054 [MainThread  ] [DEBUG]  Return of the Jedi already in hdr library
+2019-12-13 10:00:55,054 [MainThread  ] [DEBUG]  How to Train Your Dragon already in hdr library
+2019-12-13 10:00:55,054 [MainThread  ] [DEBUG]  How to Train Your Dragon 2 already in hdr library
+2019-12-13 10:00:55,054 [MainThread  ] [DEBUG]  How to Train Your Dragon: The Hidden World already in hdr library
+2019-12-13 10:00:55,054 [MainThread  ] [DEBUG]  Change in the Air already in hdr library
+2019-12-13 10:00:55,054 [MainThread  ] [DEBUG]  Hustlers already in hdr library
+2019-12-13 10:00:55,054 [MainThread  ] [DEBUG]  Brittany Runs a Marathon already in hdr library
+2019-12-13 10:00:55,054 [MainThread  ] [DEBUG]  Identity Theft of a Cheerleader already in hdr library
+2019-12-13 10:00:55,054 [MainThread  ] [DEBUG]  Teen Sex 2 already in hdr library
+2019-12-13 10:00:55,054 [MainThread  ] [DEBUG]  Fist Fight already in hdr library
+2019-12-13 10:00:55,054 [MainThread  ] [DEBUG]  Downton Abbey already in hdr library
+2019-12-13 10:00:55,054 [MainThread  ] [DEBUG]  Ad Astra already in hdr library
+2019-12-13 10:00:55,054 [MainThread  ] [DEBUG]  Rambo: Last Blood already in hdr library
+2019-12-13 10:00:55,054 [MainThread  ] [DEBUG]  Don't Let Go already in hdr library
+2019-12-13 10:00:55,054 [MainThread  ] [DEBUG]  Most Disturbed Person on Planet Earth already in hdr library
+2019-12-13 10:00:55,054 [MainThread  ] [DEBUG]  The Lost Pyramid already in hdr library
+2019-12-13 10:00:55,054 [MainThread  ] [DEBUG]  Good Witch: Tale of Two Hearts already in hdr library
+2019-12-13 10:00:55,054 [MainThread  ] [DEBUG]  Abominable already in hdr library
+2019-12-13 10:00:55,054 [MainThread  ] [DEBUG]  Judy already in hdr library
+2019-12-13 10:00:55,054 [MainThread  ] [DEBUG]  The Millionaire already in hdr library
+2019-12-13 10:00:55,054 [MainThread  ] [DEBUG]  Dino King: Journey to Fire Mountain already in hdr library
+2019-12-13 10:00:55,054 [MainThread  ] [DEBUG]  The Addams Family already in hdr library
+2019-12-13 10:00:55,054 [MainThread  ] [DEBUG]  The Addams Family already in hdr library
+2019-12-13 10:00:55,054 [MainThread  ] [DEBUG]  Addams Family Values already in hdr library
+2019-12-13 10:00:55,054 [MainThread  ] [DEBUG]  Beetlejuice already in hdr library
+2019-12-13 10:00:55,054 [MainThread  ] [DEBUG]  Monster House already in hdr library
+2019-12-13 10:00:55,054 [MainThread  ] [DEBUG]  The Haunted Mansion already in hdr library
+2019-12-13 10:00:55,055 [MainThread  ] [DEBUG]  Halloween already in hdr library
+2019-12-13 10:00:55,055 [MainThread  ] [DEBUG]  Halloween already in hdr library
+2019-12-13 10:00:55,055 [MainThread  ] [DEBUG]  Halloween II already in hdr library
+2019-12-13 10:00:55,055 [MainThread  ] [DEBUG]  Halloween: Resurrection already in hdr library
+2019-12-13 10:00:55,055 [MainThread  ] [DEBUG]  Goosebumps 2: Haunted Halloween already in hdr library
+2019-12-13 10:00:55,055 [MainThread  ] [DEBUG]  Halloween II already in hdr library
+2019-12-13 10:00:55,055 [MainThread  ] [DEBUG]  Halloween H20: 20 Years Later already in hdr library
+2019-12-13 10:00:55,055 [MainThread  ] [DEBUG]  Boo! A Madea Halloween already in hdr library
+2019-12-13 10:00:55,055 [MainThread  ] [DEBUG]  Halloween: The Curse of Michael Myers already in hdr library
+2019-12-13 10:00:55,055 [MainThread  ] [DEBUG]  Halloween III: Season of the Witch already in hdr library
+2019-12-13 10:00:55,055 [MainThread  ] [DEBUG]  Boo 2! A Madea Halloween already in hdr library
+2019-12-13 10:00:55,055 [MainThread  ] [DEBUG]  Halloween 5: The Revenge of Michael Myers already in hdr library
+2019-12-13 10:00:55,055 [MainThread  ] [DEBUG]  Halloween 4: The Return of Michael Myers already in hdr library
+2019-12-13 10:00:55,055 [MainThread  ] [DEBUG]  Ernest Scared Stupid already in hdr library
+2019-12-13 10:00:55,055 [MainThread  ] [DEBUG]  It's the Great Pumpkin, Charlie Brown already in hdr library
+2019-12-13 10:00:55,055 [MainThread  ] [DEBUG]  Young Frankenstein already in hdr library
+2019-12-13 10:00:55,055 [MainThread  ] [DEBUG]  Hocus Pocus already in hdr library
+2019-12-13 10:00:55,055 [MainThread  ] [DEBUG]  The Craft already in hdr library
+2019-12-13 10:00:55,055 [MainThread  ] [DEBUG]  Casper already in hdr library
+2019-12-13 10:00:55,055 [MainThread  ] [DEBUG]  Zombieland already in hdr library
+2019-12-13 10:00:55,055 [MainThread  ] [DEBUG]  Zombieland: Double Tap already in hdr library
+2019-12-13 10:00:55,055 [MainThread  ] [DEBUG]  ParaNorman already in hdr library
+2019-12-13 10:00:55,055 [MainThread  ] [DEBUG]  Halloweentown already in hdr library
+2019-12-13 10:00:55,055 [MainThread  ] [DEBUG]  Halloweentown High already in hdr library
+2019-12-13 10:00:55,055 [MainThread  ] [DEBUG]  Return to Halloweentown already in hdr library
+2019-12-13 10:00:55,055 [MainThread  ] [DEBUG]  Halloweentown II: Kalabar's Revenge already in hdr library
+2019-12-13 10:00:55,056 [MainThread  ] [DEBUG]  The Dog Who Saved Halloween already in hdr library
+2019-12-13 10:00:55,056 [MainThread  ] [DEBUG]  Ralph Breaks the Internet already in hdr library
+2019-12-13 10:00:55,056 [MainThread  ] [DEBUG]  Joker already in hdr library
+2019-12-13 10:00:55,056 [MainThread  ] [DEBUG]  War already in hdr library
+2019-12-13 10:00:55,056 [MainThread  ] [DEBUG]  Industrial Accident: The Story of Wax Trax! Records already in hdr library
+2019-12-13 10:00:55,056 [MainThread  ] [DEBUG]  Totally Exposed already in hdr library
+2019-12-13 10:00:55,056 [MainThread  ] [DEBUG]  Us already in hdr library
+2019-12-13 10:00:55,056 [MainThread  ] [DEBUG]  Get Out already in hdr library
+2019-12-13 10:00:55,056 [MainThread  ] [DEBUG]  Glass already in hdr library
+2019-12-13 10:00:55,056 [MainThread  ] [DEBUG]  Apocalypse Now already in hdr library
+2019-12-13 10:00:55,056 [MainThread  ] [DEBUG]  Anastasia already in hdr library
+2019-12-13 10:00:55,056 [MainThread  ] [DEBUG]  ¡Three Amigos! already in hdr library
+2019-12-13 10:00:55,056 [MainThread  ] [DEBUG]  What About Bob? already in hdr library
+2019-12-13 10:00:55,056 [MainThread  ] [DEBUG]  Sergeants 3 already in hdr library
+2019-12-13 10:00:55,056 [MainThread  ] [DEBUG]  4 for Texas already in hdr library
+2019-12-13 10:00:55,056 [MainThread  ] [DEBUG]  5 Card Stud already in hdr library
+2019-12-13 10:00:55,056 [MainThread  ] [DEBUG]  Roadhouse 66 already in hdr library
+2019-12-13 10:00:55,056 [MainThread  ] [DEBUG]  Road House already in hdr library
+2019-12-13 10:00:55,056 [MainThread  ] [DEBUG]  Road House 2: Last Call already in hdr library
+2019-12-13 10:00:55,056 [MainThread  ] [DEBUG]  Goosebumps already in hdr library
+2019-12-13 10:00:55,056 [MainThread  ] [DEBUG]  Halloweenie already in hdr library
+2019-12-13 10:00:55,056 [MainThread  ] [DEBUG]  Corpse Bride already in hdr library
+2019-12-13 10:00:55,056 [MainThread  ] [DEBUG]  The Nightmare Before Christmas already in hdr library
+2019-12-13 10:00:55,056 [MainThread  ] [DEBUG]  Linda Ronstadt: The Sound of My Voice already in hdr library
+2019-12-13 10:00:55,056 [MainThread  ] [DEBUG]  Scary Stories already in hdr library
+2019-12-13 10:00:55,056 [MainThread  ] [DEBUG]  Mister America already in hdr library
+2019-12-13 10:00:55,056 [MainThread  ] [DEBUG]  Tough and Deadly already in hdr library
+2019-12-13 10:00:55,057 [MainThread  ] [DEBUG]  The Terminal already in hdr library
+2019-12-13 10:00:55,057 [MainThread  ] [DEBUG]  Sleepy Hollow already in hdr library
+2019-12-13 10:00:55,057 [MainThread  ] [DEBUG]  Gemini Man already in hdr library
+2019-12-13 10:00:55,057 [MainThread  ] [DEBUG]  Jexi already in hdr library
+2019-12-13 10:00:55,057 [MainThread  ] [DEBUG]  Rad already in hdr library
+2019-12-13 10:00:55,057 [MainThread  ] [DEBUG]  10 Things I Hate About You already in hdr library
+2019-12-13 10:00:55,057 [MainThread  ] [DEBUG]  Clueless already in hdr library
+2019-12-13 10:00:55,057 [MainThread  ] [DEBUG]  The Karate Kid already in hdr library
+2019-12-13 10:00:55,057 [MainThread  ] [DEBUG]  Sexy Warriors already in hdr library
+2019-12-13 10:00:55,057 [MainThread  ] [DEBUG]  Petscop already in hdr library
+2019-12-13 10:00:55,057 [MainThread  ] [DEBUG]  Maleficent: Mistress of Evil already in hdr library
+2019-12-13 10:00:55,057 [MainThread  ] [DEBUG]  Twilight already in hdr library
+2019-12-13 10:00:55,057 [MainThread  ] [DEBUG]  The Twilight Saga: Eclipse already in hdr library
+2019-12-13 10:00:55,057 [MainThread  ] [DEBUG]  The Twilight Saga: Breaking Dawn - Part 2 already in hdr library
+2019-12-13 10:00:55,057 [MainThread  ] [DEBUG]  The Twilight Saga: New Moon already in hdr library
+2019-12-13 10:00:55,057 [MainThread  ] [DEBUG]  The Twilight Saga: Breaking Dawn - Part 1 already in hdr library
+2019-12-13 10:00:55,057 [MainThread  ] [DEBUG]  What About ME? already in hdr library
+2019-12-13 10:00:55,057 [MainThread  ] [DEBUG]  Black and Blue already in hdr library
+2019-12-13 10:00:55,057 [MainThread  ] [DEBUG]  Countdown already in hdr library
+2019-12-13 10:00:55,057 [MainThread  ] [DEBUG]  Army of the Dead already in hdr library
+2019-12-13 10:00:55,057 [MainThread  ] [DEBUG]  Fanboys already in hdr library
+2019-12-13 10:00:55,057 [MainThread  ] [DEBUG]  Terminator 3: Rise of the Machines already in hdr library
+2019-12-13 10:00:55,057 [MainThread  ] [DEBUG]  The Land Before Time already in hdr library
+2019-12-13 10:00:55,057 [MainThread  ] [DEBUG]  Invicta FC 2: Baszler vs. McMann already in hdr library
+2019-12-13 10:00:55,057 [MainThread  ] [DEBUG]  Invicta FC 3: Penne vs. Sugiyama already in hdr library
+2019-12-13 10:00:55,058 [MainThread  ] [DEBUG]  Invicta FC 1: Coenen vs. Ruyssen already in hdr library
+2019-12-13 10:00:55,058 [MainThread  ] [DEBUG]  Invicta FC 10: Waterson vs. Tiburcio already in hdr library
+2019-12-13 10:00:55,058 [MainThread  ] [DEBUG]  Invicta FC 4: Esparza vs. Hyatt already in hdr library
+2019-12-13 10:00:55,058 [MainThread  ] [DEBUG]  Klaus already in hdr library
+2019-12-13 10:00:55,058 [MainThread  ] [DEBUG]  The Lighthouse already in hdr library
+2019-12-13 10:00:55,058 [MainThread  ] [DEBUG]  The Current War already in hdr library
+2019-12-13 10:00:55,058 [MainThread  ] [DEBUG]  Strippers from Another World already in hdr library
+2019-12-13 10:00:55,058 [MainThread  ] [DEBUG]  High Tech Airport already in hdr library
+2019-12-13 10:00:55,058 [MainThread  ] [DEBUG]  Brazzers Fan's Choice 200th DVD already in hdr library
+2019-12-13 10:00:55,058 [MainThread  ] [DEBUG]  Terminator: Dark Fate already in hdr library
+2019-12-13 10:00:55,058 [MainThread  ] [DEBUG]  Harriet already in hdr library
+2019-12-13 10:00:55,058 [MainThread  ] [DEBUG]  Motherless Brooklyn already in hdr library
+2019-12-13 10:00:55,058 [MainThread  ] [DEBUG]  Arctic Dogs already in hdr library
+2019-12-13 10:00:55,058 [MainThread  ] [DEBUG]  You Got to Coordinate already in hdr library
+2019-12-13 10:00:55,058 [MainThread  ] [DEBUG]  Star Wars: The Rise of Skywalker already in hdr library
+2019-12-13 10:00:55,058 [MainThread  ] [DEBUG]  Avatar 2 already in hdr library
+2019-12-13 10:00:55,058 [MainThread  ] [DEBUG]  In Fabric already in hdr library
+2019-12-13 10:00:55,058 [MainThread  ] [DEBUG]  The Dark Knight already in hdr library
+2019-12-13 10:00:55,058 [MainThread  ] [DEBUG]  Logan already in hdr library
+2019-12-13 10:00:55,058 [MainThread  ] [DEBUG]  Inception already in hdr library
+2019-12-13 10:00:55,058 [MainThread  ] [DEBUG]  Avatar already in hdr library
+2019-12-13 10:00:55,058 [MainThread  ] [DEBUG]  The Matrix already in hdr library
+2019-12-13 10:00:55,059 [MainThread  ] [DEBUG]  Bright already in hdr library
+2019-12-13 10:00:55,059 [MainThread  ] [DEBUG]  Bird Box already in hdr library
+2019-12-13 10:00:55,059 [MainThread  ] [DEBUG]  Spectral already in hdr library
+2019-12-13 10:00:55,059 [MainThread  ] [DEBUG]  The Cloverfield Paradox already in hdr library
+2019-12-13 10:00:55,059 [MainThread  ] [DEBUG]  Death Note already in hdr library
+2019-12-13 10:00:55,059 [MainThread  ] [DEBUG]  The Do-Over already in hdr library
+2019-12-13 10:00:55,059 [MainThread  ] [DEBUG]  Black Mirror: Bandersnatch already in hdr library
+2019-12-13 10:00:55,059 [MainThread  ] [DEBUG]  Triple Frontier already in hdr library
+2019-12-13 10:00:55,059 [MainThread  ] [DEBUG]  ARQ already in hdr library
+2019-12-13 10:00:55,059 [MainThread  ] [DEBUG]  Okja already in hdr library
+2019-12-13 10:00:55,059 [MainThread  ] [DEBUG]  Frozen already in hdr library
+2019-12-13 10:00:55,059 [MainThread  ] [DEBUG]  Finding Nemo already in hdr library
+2019-12-13 10:00:55,059 [MainThread  ] [DEBUG]  Up already in hdr library
+2019-12-13 10:00:55,059 [MainThread  ] [DEBUG]  WALL·E already in hdr library
+2019-12-13 10:00:55,059 [MainThread  ] [DEBUG]  The Incredibles already in hdr library
+2019-12-13 10:00:55,059 [MainThread  ] [DEBUG]  Toy Story already in hdr library
+2019-12-13 10:00:55,059 [MainThread  ] [DEBUG]  Monsters, Inc. already in hdr library
+2019-12-13 10:00:55,059 [MainThread  ] [DEBUG]  Finding Dory already in hdr library
+2019-12-13 10:00:55,059 [MainThread  ] [DEBUG]  Wreck-It Ralph already in hdr library
+2019-12-13 10:00:55,059 [MainThread  ] [DEBUG]  Toy Story 3 already in hdr library
+2019-12-13 10:00:55,059 [MainThread  ] [DEBUG]  The Shining already in hdr library
+2019-12-13 10:00:55,060 [MainThread  ] [DEBUG]  Full Metal Jacket already in hdr library
+2019-12-13 10:00:55,060 [MainThread  ] [DEBUG]  Predator already in hdr library
+2019-12-13 10:00:55,060 [MainThread  ] [DEBUG]  The Princess Bride already in hdr library
+2019-12-13 10:00:55,060 [MainThread  ] [DEBUG]  Ferris Bueller's Day Off already in hdr library
+2019-12-13 10:00:55,060 [MainThread  ] [DEBUG]  Gremlins already in hdr library
+2019-12-13 10:00:55,060 [MainThread  ] [DEBUG]  National Lampoon's Christmas Vacation already in hdr library
+2019-12-13 10:00:55,060 [MainThread  ] [DEBUG]  The Thing already in hdr library
+2019-12-13 10:00:55,060 [MainThread  ] [DEBUG]  Who Framed Roger Rabbit already in hdr library
+2019-12-13 10:00:55,060 [MainThread  ] [DEBUG]  Airplane! already in hdr library
+2019-12-13 10:00:55,060 [MainThread  ] [DEBUG]  Interstellar already in hdr library
+2019-12-13 10:00:55,060 [MainThread  ] [DEBUG]  The Lord of the Rings: The Fellowship of the Ring already in hdr library
+2019-12-13 10:00:55,060 [MainThread  ] [DEBUG]  Fight Club already in hdr library
+2019-12-13 10:00:55,060 [MainThread  ] [DEBUG]  Big Hero 6 already in hdr library
+2019-12-13 10:00:55,060 [MainThread  ] [DEBUG]  Inglourious Basterds already in hdr library
+2019-12-13 10:00:55,060 [MainThread  ] [DEBUG]  Ghost in the Shell already in hdr library
+2019-12-13 10:00:55,060 [MainThread  ] [DEBUG]  Jurassic Park already in hdr library
+2019-12-13 10:00:55,060 [MainThread  ] [DEBUG]  Blade Runner 2049 already in hdr library
+2019-12-13 10:00:55,060 [MainThread  ] [DEBUG]  Home Alone already in hdr library
+2019-12-13 10:00:55,060 [MainThread  ] [DEBUG]  Kill Bill: Vol. 1 already in hdr library
+2019-12-13 10:00:55,060 [MainThread  ] [DEBUG]  Skyfall already in hdr library
+2019-12-13 10:00:55,060 [MainThread  ] [DEBUG]  Spectre already in hdr library
+2019-12-13 10:00:55,060 [MainThread  ] [DEBUG]  Casino Royale already in hdr library
+2019-12-13 10:00:55,061 [MainThread  ] [DEBUG]  Quantum of Solace already in hdr library
+2019-12-13 10:00:55,061 [MainThread  ] [DEBUG]  GoldenEye already in hdr library
+2019-12-13 10:00:55,061 [MainThread  ] [DEBUG]  Die Another Day already in hdr library
+2019-12-13 10:00:55,061 [MainThread  ] [DEBUG]  Tomorrow Never Dies already in hdr library
+2019-12-13 10:00:55,061 [MainThread  ] [DEBUG]  Dr. No already in hdr library
+2019-12-13 10:00:55,061 [MainThread  ] [DEBUG]  Goldfinger already in hdr library
+2019-12-13 10:00:55,061 [MainThread  ] [DEBUG]  The World Is Not Enough already in hdr library
+2019-12-13 10:00:55,061 [MainThread  ] [DEBUG]  From Russia with Love already in hdr library
+2019-12-13 10:00:55,061 [MainThread  ] [DEBUG]  Thunderball already in hdr library
+2019-12-13 10:00:55,061 [MainThread  ] [DEBUG]  Diamonds Are Forever already in hdr library
+2019-12-13 10:00:55,061 [MainThread  ] [DEBUG]  Moonraker already in hdr library
+2019-12-13 10:00:55,061 [MainThread  ] [DEBUG]  Live and Let Die already in hdr library
+2019-12-13 10:00:55,061 [MainThread  ] [DEBUG]  The Spy Who Loved Me already in hdr library
+2019-12-13 10:00:55,061 [MainThread  ] [DEBUG]  A View to a Kill already in hdr library
+2019-12-13 10:00:55,061 [MainThread  ] [DEBUG]  The Man with the Golden Gun already in hdr library
+2019-12-13 10:00:55,061 [MainThread  ] [DEBUG]  Octopussy already in hdr library
+2019-12-13 10:00:55,061 [MainThread  ] [DEBUG]  For Your Eyes Only already in hdr library
+2019-12-13 10:00:55,061 [MainThread  ] [DEBUG]  Licence to Kill already in hdr library
+2019-12-13 10:00:55,061 [MainThread  ] [DEBUG]  The Living Daylights already in hdr library
+2019-12-13 10:00:55,061 [MainThread  ] [DEBUG]  On Her Majesty's Secret Service already in hdr library
+2019-12-13 10:00:55,061 [MainThread  ] [DEBUG]  Star Wars: The Force Awakens already in hdr library
+2019-12-13 10:00:55,061 [MainThread  ] [DEBUG]  Rogue One: A Star Wars Story already in hdr library
+2019-12-13 10:00:55,061 [MainThread  ] [DEBUG]  Star Wars: The Last Jedi already in hdr library
+2019-12-13 10:00:55,062 [MainThread  ] [DEBUG]  Star Wars: Episode III - Revenge of the Sith already in hdr library
+2019-12-13 10:00:55,062 [MainThread  ] [DEBUG]  Solo: A Star Wars Story already in hdr library
+2019-12-13 10:00:55,062 [MainThread  ] [DEBUG]  Ethni-City already in hdr library
+2019-12-13 10:00:55,062 [MainThread  ] [DEBUG]  Drag Me Down the Aisle already in hdr library
+2019-12-13 10:00:55,062 [MainThread  ] [DEBUG]  Virtual Encounters 2 already in hdr library
+2019-12-13 10:00:55,062 [MainThread  ] [DEBUG]  Five Fighters from Shaolin already in hdr library
+2019-12-13 10:00:55,062 [MainThread  ] [DEBUG]  Doctor Sleep already in hdr library
+2019-12-13 10:00:55,062 [MainThread  ] [DEBUG]  Bad Boys for Life already in hdr library
+2019-12-13 10:00:55,062 [MainThread  ] [DEBUG]  The Flash already in hdr library
+2019-12-13 10:00:55,062 [MainThread  ] [DEBUG]  Moana already in hdr library
+2019-12-13 10:00:55,062 [MainThread  ] [DEBUG]  The Martian already in hdr library
+2019-12-13 10:00:55,062 [MainThread  ] [DEBUG]  Spider-Man: Homecoming already in hdr library
+2019-12-13 10:00:55,062 [MainThread  ] [DEBUG]  Passengers already in hdr library
+2019-12-13 10:00:55,062 [MainThread  ] [DEBUG]  Zootopia already in hdr library
+2019-12-13 10:00:55,062 [MainThread  ] [DEBUG]  Living Among Us already in hdr library
+2019-12-13 10:00:55,062 [MainThread  ] [DEBUG]  Rabid already in hdr library
+2019-12-13 10:00:55,062 [MainThread  ] [DEBUG]  The Batman already in hdr library
+2019-12-13 10:00:55,062 [MainThread  ] [DEBUG]  The Wolf of Wall Street already in hdr library
+2019-12-13 10:00:55,062 [MainThread  ] [DEBUG]  The Dark Knight Rises already in hdr library
+2019-12-13 10:00:55,062 [MainThread  ] [DEBUG]  X-Men: Apocalypse already in hdr library
+2019-12-13 10:00:55,062 [MainThread  ] [DEBUG]  Inside Out already in hdr library
+2019-12-13 10:00:55,062 [MainThread  ] [DEBUG]  Kingsman: The Secret Service already in hdr library
+2019-12-13 10:00:55,062 [MainThread  ] [DEBUG]  Badland already in hdr library
+2019-12-13 10:00:55,062 [MainThread  ] [DEBUG]  Just Mercy already in hdr library
+2019-12-13 10:00:55,063 [MainThread  ] [DEBUG]  Midway already in hdr library
+2019-12-13 10:00:55,063 [MainThread  ] [DEBUG]  Playing with Fire already in hdr library
+2019-12-13 10:00:55,063 [MainThread  ] [DEBUG]  Last Christmas already in hdr library
+2019-12-13 10:00:55,063 [MainThread  ] [DEBUG]  Pickaxe already in hdr library
+2019-12-13 10:00:55,063 [MainThread  ] [DEBUG]  Running for Good already in hdr library
+2019-12-13 10:00:55,063 [MainThread  ] [DEBUG]  The Lodge already in hdr library
+2019-12-13 10:00:55,063 [MainThread  ] [DEBUG]  The Informer already in hdr library
+2019-12-13 10:00:55,063 [MainThread  ] [DEBUG]  Sherlock Holmes 3 already in hdr library
+2019-12-13 10:00:55,063 [MainThread  ] [DEBUG]  Jurassic World already in hdr library
+2019-12-13 10:00:55,063 [MainThread  ] [DEBUG]  Django Unchained already in hdr library
+2019-12-13 10:00:55,063 [MainThread  ] [DEBUG]  The Secret Life of Pets already in hdr library
+2019-12-13 10:00:55,063 [MainThread  ] [DEBUG]  The Lord of the Rings: The Return of the King already in hdr library
+2019-12-13 10:00:55,063 [MainThread  ] [DEBUG]  Batman Begins already in hdr library
+2019-12-13 10:00:55,063 [MainThread  ] [DEBUG]  Sooner or Later already in hdr library
+2019-12-13 10:00:55,063 [MainThread  ] [DEBUG]  Thousands... Not Billions already in hdr library
+2019-12-13 10:00:55,063 [MainThread  ] [DEBUG]  Jumanji: The Next Level already in hdr library
+2019-12-13 10:00:55,063 [MainThread  ] [DEBUG]  Guardians of the Galaxy Vol. 3 already in hdr library
+2019-12-13 10:00:55,063 [MainThread  ] [DEBUG]  Fast & Furious 9 already in hdr library
+2019-12-13 10:00:55,063 [MainThread  ] [DEBUG]  The Lord of the Rings: The Two Towers already in hdr library
+2019-12-13 10:00:55,063 [MainThread  ] [DEBUG]  Forrest Gump already in hdr library
+2019-12-13 10:00:55,064 [MainThread  ] [DEBUG]  The Hunger Games already in hdr library
+2019-12-13 10:00:55,064 [MainThread  ] [DEBUG]  Kong: Skull Island already in hdr library
+2019-12-13 10:00:55,064 [MainThread  ] [DEBUG]  Pulp Fiction already in hdr library
+2019-12-13 10:00:55,064 [MainThread  ] [DEBUG]  Crown Vic already in hdr library
+2019-12-13 10:00:55,064 [MainThread  ] [DEBUG]  Ford v Ferrari already in hdr library
+2019-12-13 10:00:55,064 [MainThread  ] [DEBUG]  AEW Full Gear: The Buy-In already in hdr library
+2019-12-13 10:00:55,064 [MainThread  ] [DEBUG]  Green Lantern Corps already in hdr library
+2019-12-13 10:00:55,064 [MainThread  ] [DEBUG]  Playmobil: The Movie already in hdr library
+2019-12-13 10:00:55,064 [MainThread  ] [DEBUG]  Baby Driver already in hdr library
+2019-12-13 10:00:55,064 [MainThread  ] [DEBUG]  Edge of Tomorrow already in hdr library
+2019-12-13 10:00:55,064 [MainThread  ] [DEBUG]  The Accountant already in hdr library
+2019-12-13 10:00:55,064 [MainThread  ] [DEBUG]  The Hobbit: An Unexpected Journey already in hdr library
+2019-12-13 10:00:55,064 [MainThread  ] [DEBUG]  Despicable Me already in hdr library
+2019-12-13 10:00:55,064 [MainThread  ] [DEBUG]  Office Christmas Party already in hdr library
+2019-12-13 10:00:55,064 [MainThread  ] [DEBUG]  Home Alone 2: Lost in New York already in hdr library
+2019-12-13 10:00:55,064 [MainThread  ] [DEBUG]  Elf already in hdr library
+2019-12-13 10:00:55,064 [MainThread  ] [DEBUG]  The Expendables already in hdr library
+2019-12-13 10:00:55,064 [MainThread  ] [DEBUG]  Love Actually already in hdr library
+2019-12-13 10:00:55,064 [MainThread  ] [DEBUG]  How the Grinch Stole Christmas already in hdr library
+2019-12-13 10:00:55,064 [MainThread  ] [DEBUG]  The Expendables 3 already in hdr library
+2019-12-13 10:00:55,065 [MainThread  ] [DEBUG]  The Impossible already in hdr library
+2019-12-13 10:00:55,065 [MainThread  ] [DEBUG]  A Bad Moms Christmas already in hdr library
+2019-12-13 10:00:55,065 [MainThread  ] [DEBUG]  The Holiday already in hdr library
+2019-12-13 10:00:55,065 [MainThread  ] [DEBUG]  Kingsglaive: Final Fantasy XV already in hdr library
+2019-12-13 10:00:55,065 [MainThread  ] [DEBUG]  Cowboy Bebop: The Movie already in hdr library
+2019-12-13 10:00:55,065 [MainThread  ] [DEBUG]  Appleseed Alpha already in hdr library
+2019-12-13 10:00:55,065 [MainThread  ] [DEBUG]  Ghost in the Shell 2.0 already in hdr library
+2019-12-13 10:00:55,065 [MainThread  ] [DEBUG]  Pokémon: The Movie 2000 already in hdr library
+2019-12-13 10:00:55,065 [MainThread  ] [DEBUG]  Vampire Hunter D: Bloodlust already in hdr library
+2019-12-13 10:00:55,065 [MainThread  ] [DEBUG]  Pokémon Destiny Deoxys already in hdr library
+2019-12-13 10:00:55,065 [MainThread  ] [DEBUG]  Mardock Scramble: The Third Exhaust already in hdr library
+2019-12-13 10:00:55,065 [MainThread  ] [DEBUG]  Digimon Adventure 02: Revenge of Diaboromon already in hdr library
+2019-12-13 10:00:55,065 [MainThread  ] [DEBUG]  Armitage III: Poly Matrix already in hdr library
+2019-12-13 10:00:55,065 [MainThread  ] [DEBUG]  Beauty and the Beast already in hdr library
+2019-12-13 10:00:55,065 [MainThread  ] [DEBUG]  The Boss Baby already in hdr library
+2019-12-13 10:00:55,065 [MainThread  ] [DEBUG]  Sing already in hdr library
+2019-12-13 10:00:55,065 [MainThread  ] [DEBUG]  Despicable Me 2 already in hdr library
+2019-12-13 10:00:55,065 [MainThread  ] [DEBUG]  Trolls already in hdr library
+2019-12-13 10:00:55,065 [MainThread  ] [DEBUG]  Minions already in hdr library
+2019-12-13 10:00:55,065 [MainThread  ] [DEBUG]  Ratatouille already in hdr library
+2019-12-13 10:00:55,066 [MainThread  ] [DEBUG]  Shrek already in hdr library
+2019-12-13 10:00:55,066 [MainThread  ] [DEBUG]  The Jungle Book already in hdr library
+2019-12-13 10:00:55,066 [MainThread  ] [DEBUG]  Tangled already in hdr library
+2019-12-13 10:00:55,066 [MainThread  ] [DEBUG]  The Hunger Games: Catching Fire already in hdr library
+2019-12-13 10:00:55,066 [MainThread  ] [DEBUG]  X-Men: Days of Future Past already in hdr library
+2019-12-13 10:00:55,066 [MainThread  ] [DEBUG]  Justice League already in hdr library
+2019-12-13 10:00:55,066 [MainThread  ] [DEBUG]  Ex Machina already in hdr library
+2019-12-13 10:00:55,066 [MainThread  ] [DEBUG]  World War Z already in hdr library
+2019-12-13 10:00:55,066 [MainThread  ] [DEBUG]  The Maze Runner already in hdr library
+2019-12-13 10:00:55,066 [MainThread  ] [DEBUG]  Independence Day: Resurgence already in hdr library
+2019-12-13 10:00:55,066 [MainThread  ] [DEBUG]  Assassin's Creed already in hdr library
+2019-12-13 10:00:55,066 [MainThread  ] [DEBUG]  Alien: Covenant already in hdr library
+2019-12-13 10:00:55,066 [MainThread  ] [DEBUG]  Pacific Rim already in hdr library
+2019-12-13 10:00:55,067 [MainThread  ] [DEBUG]  Frozen II already in hdr library
+2019-12-13 10:00:55,067 [MainThread  ] [DEBUG]  The Suicide Squad already in hdr library
+2019-12-13 10:00:55,067 [MainThread  ] [DEBUG]  Avatar 4 already in hdr library
+2019-12-13 10:00:55,067 [MainThread  ] [DEBUG]  Now You See Me already in hdr library
+2019-12-13 10:00:55,067 [MainThread  ] [DEBUG]  The Revenant already in hdr library
+2019-12-13 10:00:55,067 [MainThread  ] [DEBUG]  Hacksaw Ridge already in hdr library
+2019-12-13 10:00:55,067 [MainThread  ] [DEBUG]  Split already in hdr library
+2019-12-13 10:00:55,067 [MainThread  ] [DEBUG]  Jumanji: Welcome to the Jungle already in hdr library
+2019-12-13 10:00:55,067 [MainThread  ] [DEBUG]  Sex and the Single Alien already in hdr library
+2019-12-13 10:00:55,067 [MainThread  ] [DEBUG]  The Best Of Benny Hill already in hdr library
+2019-12-13 10:00:55,067 [MainThread  ] [DEBUG]  Saving Christmas already in hdr library
+2019-12-13 10:00:55,067 [MainThread  ] [DEBUG]  The Banker already in hdr library
+2019-12-13 10:00:55,067 [MainThread  ] [DEBUG]  The Good Liar already in hdr library
+2019-12-13 10:00:55,067 [MainThread  ] [DEBUG]  Charlie's Angels already in hdr library
+2019-12-13 10:00:55,067 [MainThread  ] [DEBUG]  Intergalactic Swingers already in hdr library
+2019-12-13 10:00:55,067 [MainThread  ] [DEBUG]  iMPACT Bound For Glory already in hdr library
+2019-12-13 10:00:55,067 [MainThread  ] [DEBUG]  Bravengers: Age of Buldgetron already in hdr library
+2019-12-13 10:00:55,067 [MainThread  ] [DEBUG]  Now You See Me 2 already in hdr library
+2019-12-13 10:00:55,067 [MainThread  ] [DEBUG]  Gone Girl already in hdr library
+2019-12-13 10:00:55,067 [MainThread  ] [DEBUG]  Pirates of the Caribbean: The Curse of the Black Pearl already in hdr library
+2019-12-13 10:00:55,067 [MainThread  ] [DEBUG]  Bratz: Good Vibes already in hdr library
+2019-12-13 10:00:55,067 [MainThread  ] [DEBUG]  The Handmaid's Tale already in hdr library
+2019-12-13 10:00:55,067 [MainThread  ] [DEBUG]  Avatar 3 already in hdr library
+2019-12-13 10:00:55,067 [MainThread  ] [DEBUG]  Cyborg already in hdr library
+2019-12-13 10:00:55,068 [MainThread  ] [DEBUG]  Jurassic World 3 already in hdr library
+2019-12-13 10:00:55,068 [MainThread  ] [DEBUG]  The Mummy already in hdr library
+2019-12-13 10:00:55,068 [MainThread  ] [DEBUG]  Jason Bourne already in hdr library
+2019-12-13 10:00:55,068 [MainThread  ] [DEBUG]  The Hobbit: The Desolation of Smaug already in hdr library
+2019-12-13 10:00:55,068 [MainThread  ] [DEBUG]  The Imitation Game already in hdr library
+2019-12-13 10:00:55,068 [MainThread  ] [DEBUG]  V for Vendetta already in hdr library
+2019-12-13 10:00:55,068 [MainThread  ] [DEBUG]  The Boss Baby 2 already in hdr library
+2019-12-13 10:00:55,068 [MainThread  ] [DEBUG]  Wonder Woman 1984 already in hdr library
+2019-12-13 10:00:55,068 [MainThread  ] [DEBUG]  Gambit already in hdr library
+2019-12-13 10:00:55,068 [MainThread  ] [DEBUG]  Se7en already in hdr library
+2019-12-13 10:00:55,068 [MainThread  ] [DEBUG]  The Fate of the Furious already in hdr library
+2019-12-13 10:00:55,068 [MainThread  ] [DEBUG]  Gladiator already in hdr library
+2019-12-13 10:00:55,068 [MainThread  ] [DEBUG]  Kingsman: The Golden Circle already in hdr library
+2019-12-13 10:00:55,068 [MainThread  ] [DEBUG]  Dunkirk already in hdr library
+2019-12-13 10:00:55,068 [MainThread  ] [DEBUG]  Jesus: Countdown to Calvary already in hdr library
+2019-12-13 10:00:55,068 [MainThread  ] [DEBUG]  Young Guns already in hdr library
+2019-12-13 10:00:55,068 [MainThread  ] [DEBUG]  Wyatt Earp already in hdr library
+2019-12-13 10:00:55,068 [MainThread  ] [DEBUG]  Rooster Cogburn already in hdr library
+2019-12-13 10:00:55,068 [MainThread  ] [DEBUG]  Sands of Iwo Jima already in hdr library
+2019-12-13 10:00:55,068 [MainThread  ] [DEBUG]  Black Panther II already in hdr library
+2019-12-13 10:00:55,068 [MainThread  ] [DEBUG]  G.I. Joe: Ever Vigilant already in hdr library
+2019-12-13 10:00:55,068 [MainThread  ] [DEBUG]  Mulan already in hdr library
+2019-12-13 10:00:55,068 [MainThread  ] [DEBUG]  The Magnificent Seven already in hdr library
+2019-12-13 10:00:55,068 [MainThread  ] [DEBUG]  Central Intelligence already in hdr library
+2019-12-13 10:00:55,069 [MainThread  ] [DEBUG]  Jack Reacher: Never Go Back already in hdr library
+2019-12-13 10:00:55,069 [MainThread  ] [DEBUG]  The Amazing Spider-Man already in hdr library
+2019-12-13 10:00:55,069 [MainThread  ] [DEBUG]  Miss Peregrine's Home for Peculiar Children already in hdr library
+2019-12-13 10:00:55,069 [MainThread  ] [DEBUG]  The Knight Before Christmas already in hdr library
+2019-12-13 10:00:55,069 [MainThread  ] [DEBUG]  Knives Out already in hdr library
+2019-12-13 10:00:55,069 [MainThread  ] [DEBUG]  Fast & Furious 10 already in hdr library
+2019-12-13 10:00:55,069 [MainThread  ] [DEBUG]  The Hangover already in hdr library
+2019-12-13 10:00:55,069 [MainThread  ] [DEBUG]  Shutter Island already in hdr library
+2019-12-13 10:00:55,069 [MainThread  ] [DEBUG]  Hidden Figures already in hdr library
+2019-12-13 10:00:55,069 [MainThread  ] [DEBUG]  Pirates of the Caribbean: Dead Men Tell No Tales already in hdr library
+2019-12-13 10:00:55,069 [MainThread  ] [DEBUG]  X-Men: First Class already in hdr library
+2019-12-13 10:00:55,069 [MainThread  ] [DEBUG]  Now United: Dreams Come True already in hdr library
+2019-12-13 10:00:55,069 [MainThread  ] [DEBUG]  21 Bridges already in hdr library
+2019-12-13 10:00:55,069 [MainThread  ] [DEBUG]  A Beautiful Day in the Neighborhood already in hdr library
+2019-12-13 10:00:55,069 [MainThread  ] [DEBUG]  Queen Crab already in hdr library
+2019-12-13 10:00:55,069 [MainThread  ] [DEBUG]  The Last Full Measure already in hdr library
+2019-12-13 10:00:55,069 [MainThread  ] [DEBUG]  Isle of Man Tourist Trophy 2013, The TT Experience already in hdr library
+2019-12-13 10:00:55,069 [MainThread  ] [DEBUG]  The Wonderful World of Disney: Magical Holiday Celebration already in hdr library
+2019-12-13 10:00:55,069 [MainThread  ] [DEBUG]  AC/DC: Plug Me In already in hdr library
+2019-12-13 10:00:55,069 [MainThread  ] [DEBUG]  Sonic the Hedgehog already in hdr library
+2019-12-13 10:00:55,069 [MainThread  ] [DEBUG]  Divergent already in hdr library
+2019-12-13 10:00:55,069 [MainThread  ] [DEBUG]  The Prestige already in hdr library
+2019-12-13 10:00:55,069 [MainThread  ] [DEBUG]  Cars already in hdr library
+2019-12-13 10:00:55,070 [MainThread  ] [DEBUG]  Titanic already in hdr library
+2019-12-13 10:00:55,070 [MainThread  ] [DEBUG]  The Lego Movie already in hdr library
+2019-12-13 10:00:55,070 [MainThread  ] [DEBUG]  A Christmas Story already in hdr library
+2019-12-13 10:00:55,070 [MainThread  ] [DEBUG]  A Christmas Story 2 already in hdr library
+2019-12-13 10:00:55,070 [MainThread  ] [DEBUG]  A Christmas Story Live! already in hdr library
+2019-12-13 10:00:55,070 [MainThread  ] [DEBUG]  A Country Christmas Story already in hdr library
+2019-12-13 10:00:55,070 [MainThread  ] [DEBUG]  A Raunchy Christmas Story already in hdr library
+2019-12-13 10:00:55,070 [MainThread  ] [DEBUG]  A Christmas Love Story already in hdr library
+2019-12-13 10:00:55,070 [MainThread  ] [DEBUG]  The Homecoming: A Christmas Story already in hdr library
+2019-12-13 10:00:55,070 [MainThread  ] [DEBUG]  A Cinderella Story: Christmas Wish already in hdr library
+2019-12-13 10:00:55,070 [MainThread  ] [DEBUG]  The Nutcracker: A Christmas Story already in hdr library
+2019-12-13 10:00:55,070 [MainThread  ] [DEBUG]  The Mask already in hdr library
+2019-12-13 10:00:55,070 [MainThread  ] [DEBUG]  Son of the Mask already in hdr library
+2019-12-13 10:00:55,070 [MainThread  ] [DEBUG]  Top Gun: Maverick already in hdr library
+2019-12-13 10:00:55,070 [MainThread  ] [DEBUG]  Doctor Strange in the Multiverse of Madness already in hdr library
+2019-12-13 10:00:55,070 [MainThread  ] [DEBUG]  The New Mutants already in hdr library
+2019-12-13 10:00:55,070 [MainThread  ] [DEBUG]  Coco already in hdr library
+2019-12-13 10:00:55,070 [MainThread  ] [DEBUG]  The Great Wall already in hdr library
+2019-12-13 10:00:55,070 [MainThread  ] [DEBUG]  Brave already in hdr library
+2019-12-13 10:00:55,070 [MainThread  ] [DEBUG]  Bad Moms already in hdr library
+2019-12-13 10:00:55,070 [MainThread  ] [DEBUG]  Toy Story 2 already in hdr library
+2019-12-13 10:00:55,070 [MainThread  ] [DEBUG]  Halloween, Paganism, and the Bible already in hdr library
+2019-12-13 10:00:55,070 [MainThread  ] [DEBUG]  Godzilla vs. Kong already in hdr library
+2019-12-13 10:00:55,070 [MainThread  ] [DEBUG]  Code 8 already in hdr library
+2019-12-13 10:00:55,071 [MainThread  ] [DEBUG]  Spider-Man: Into the Spider-Verse Sequel already in hdr library
+2019-12-13 10:00:55,071 [MainThread  ] [DEBUG]  Life already in hdr library
+2019-12-13 10:00:55,071 [MainThread  ] [DEBUG]  Sherlock Holmes already in hdr library
+2019-12-13 10:00:55,071 [MainThread  ] [DEBUG]  Warcraft already in hdr library
+2019-12-13 10:00:55,071 [MainThread  ] [DEBUG]  The Hunger Games: Mockingjay - Part 1 already in hdr library
+2019-12-13 10:00:55,071 [MainThread  ] [DEBUG]  300 already in hdr library
+2019-12-13 10:00:55,071 [MainThread  ] [DEBUG]  Daddy's Girl already in hdr library
+2019-12-13 10:00:55,071 [MainThread  ] [DEBUG]  Justice League Dark already in hdr library
+2019-12-13 10:00:55,071 [MainThread  ] [DEBUG]  Minecraft: The Movie already in hdr library
+2019-12-13 10:00:55,071 [MainThread  ] [DEBUG]  Prometheus already in hdr library
+2019-12-13 10:00:55,071 [MainThread  ] [DEBUG]  The Silence of the Lambs already in hdr library
+2019-12-13 10:00:55,071 [MainThread  ] [DEBUG]  Inferno already in hdr library
+2019-12-13 10:00:55,071 [MainThread  ] [DEBUG]  Sicario already in hdr library
+2019-12-13 10:00:55,071 [MainThread  ] [DEBUG]  The Nice Guys already in hdr library
+2019-12-13 10:00:55,071 [MainThread  ] [DEBUG]  Black Widow already in hdr library
+2019-12-13 10:00:55,071 [MainThread  ] [DEBUG]  The King's Man already in hdr library
+2019-12-13 10:00:55,071 [MainThread  ] [DEBUG]  Sing 2 already in hdr library
+2019-12-13 10:00:55,082 [MainThread  ] [DEBUG]  Sausage Party already in hdr library
+2019-12-13 10:00:55,082 [MainThread  ] [DEBUG]  Sully already in hdr library
+2019-12-13 10:00:55,082 [MainThread  ] [DEBUG]  La La Land already in hdr library
+2019-12-13 10:00:55,082 [MainThread  ] [DEBUG]  The Hunger Games: Mockingjay - Part 2 already in hdr library
+2019-12-13 10:00:55,082 [MainThread  ] [DEBUG]  The Hobbit: The Battle of the Five Armies already in hdr library
+2019-12-13 10:00:55,082 [MainThread  ] [DEBUG]  No Time To Die already in hdr library
+2019-12-13 10:00:55,083 [MainThread  ] [DEBUG]  The Conjuring: The Devil Made Me Do It already in hdr library
+2019-12-13 10:00:55,083 [MainThread  ] [DEBUG]  1984 already in hdr library
+2019-12-13 10:00:55,083 [MainThread  ] [DEBUG]  The Green Mile already in hdr library
+2019-12-13 10:00:55,083 [MainThread  ] [DEBUG]  Aladdin already in hdr library
+2019-12-13 10:00:55,083 [MainThread  ] [DEBUG]  The Legend of Tarzan already in hdr library
+2019-12-13 10:00:55,083 [MainThread  ] [DEBUG]  Despicable Me 3 already in hdr library
+2019-12-13 10:00:55,083 [MainThread  ] [DEBUG]  The Departed already in hdr library
+2019-12-13 10:00:55,083 [MainThread  ] [DEBUG]  Rapid Eye Movement already in hdr library
+2019-12-13 10:00:55,083 [MainThread  ] [DEBUG]  Daniel Isn't Real already in hdr library
+2019-12-13 10:00:55,083 [MainThread  ] [DEBUG]  Birds of Prey (And the Fantabulous Emancipation of One Harley Quinn) already in hdr library
+2019-12-13 10:00:55,083 [MainThread  ] [DEBUG]  King Arthur: Legend of the Sword already in hdr library
+2019-12-13 10:00:55,083 [MainThread  ] [DEBUG]  War Dogs already in hdr library
+2019-12-13 10:00:55,083 [MainThread  ] [DEBUG]  Saving Private Ryan already in hdr library
+2019-12-13 10:00:55,083 [MainThread  ] [DEBUG]  Ted already in hdr library
+2019-12-13 10:00:55,083 [MainThread  ] [DEBUG]  The Matrix Reloaded already in hdr library
+2019-12-13 10:00:55,083 [MainThread  ] [DEBUG]  A Charlie Brown Thanksgiving already in hdr library
+2019-12-13 10:00:55,083 [MainThread  ] [DEBUG]  A Charlie Brown Christmas already in hdr library
+2019-12-13 10:00:55,083 [MainThread  ] [DEBUG]  Grumpy Old Men already in hdr library
+2019-12-13 10:00:55,083 [MainThread  ] [DEBUG]  Grumpier Old Men already in hdr library
+2019-12-13 10:00:55,083 [MainThread  ] [DEBUG]  Planes, Trains and Automobiles already in hdr library
+2019-12-13 10:00:55,083 [MainThread  ] [DEBUG]  Honey, I Shrunk the Kids already in hdr library
+2019-12-13 10:00:55,083 [MainThread  ] [DEBUG]  Honey, I Shrunk the Audience already in hdr library
+2019-12-13 10:00:55,084 [MainThread  ] [DEBUG]  The Making of Honey, I Shrunk the Kids already in hdr library
+2019-12-13 10:00:55,084 [MainThread  ] [DEBUG]  Honey, We Shrunk Ourselves already in hdr library
+2019-12-13 10:00:55,084 [MainThread  ] [DEBUG]  Honey I Blew Up the Kid already in hdr library
+2019-12-13 10:00:55,084 [MainThread  ] [DEBUG]  Mrs. Santa Claus already in hdr library
+2019-12-13 10:00:55,084 [MainThread  ] [DEBUG]  Santa Claus: The Movie already in hdr library
+2019-12-13 10:00:55,084 [MainThread  ] [DEBUG]  Santa Claus Is Comin' to Town already in hdr library
+2019-12-13 10:00:55,084 [MainThread  ] [DEBUG]  Santa Claus already in hdr library
+2019-12-13 10:00:55,084 [MainThread  ] [DEBUG]  The Year Without a Santa Claus already in hdr library
+2019-12-13 10:00:55,084 [MainThread  ] [DEBUG]  Santa Claus already in hdr library
+2019-12-13 10:00:55,084 [MainThread  ] [DEBUG]  I Am Santa Claus already in hdr library
+2019-12-13 10:00:55,084 [MainThread  ] [DEBUG]  The Life & Adventures of Santa Claus already in hdr library
+2019-12-13 10:00:55,084 [MainThread  ] [DEBUG]  Gotta Catch Santa Claus already in hdr library
+2019-12-13 10:00:55,084 [MainThread  ] [DEBUG]  The Year Without a Santa Claus already in hdr library
+2019-12-13 10:00:55,084 [MainThread  ] [DEBUG]  I Saw Mommy Kissing Santa Claus already in hdr library
+2019-12-13 10:00:55,084 [MainThread  ] [DEBUG]  The Story of Santa Claus already in hdr library
+2019-12-13 10:00:55,084 [MainThread  ] [DEBUG]  Uncle Buck already in hdr library
+2019-12-13 10:00:55,084 [MainThread  ] [DEBUG]  The Polar Express already in hdr library
+2019-12-13 10:00:55,084 [MainThread  ] [DEBUG]  Lawrence of Arabia already in hdr library
+2019-12-13 10:00:55,084 [MainThread  ] [DEBUG]  The Making of 'Lawrence of Arabia' already in hdr library
+2019-12-13 10:00:55,084 [MainThread  ] [DEBUG]  Lawrence of Arabia: A Conversation with Steven Spielberg already in hdr library
+2019-12-13 10:00:55,084 [MainThread  ] [DEBUG]  Lady and the Tramp already in hdr library
+2019-12-13 10:00:55,085 [MainThread  ] [DEBUG]  Lady and the Tramp already in hdr library
+2019-12-13 10:00:55,085 [MainThread  ] [DEBUG]  Lady and the Tramp II: Scamp's Adventure already in hdr library
+2019-12-13 10:00:55,085 [MainThread  ] [DEBUG]  A Muppets Christmas: Letters to Santa already in hdr library
+2019-12-13 10:00:55,085 [MainThread  ] [DEBUG]  The Muppet Christmas Carol already in hdr library
+2019-12-13 10:00:55,085 [MainThread  ] [DEBUG]  The Santa Clause already in hdr library
+2019-12-13 10:00:55,085 [MainThread  ] [DEBUG]  The Santa Clause 2 already in hdr library
+2019-12-13 10:00:55,085 [MainThread  ] [DEBUG]  The Santa Clause 3: The Escape Clause already in hdr library
+2019-12-13 10:00:55,085 [MainThread  ] [DEBUG]  Mickey's Christmas Carol already in hdr library
+2019-12-13 10:00:55,085 [MainThread  ] [DEBUG]  Gone with the Wind already in hdr library
+2019-12-13 10:00:55,085 [MainThread  ] [DEBUG]  Just Friends already in hdr library
+2019-12-13 10:00:55,085 [MainThread  ] [DEBUG]  A Christmas Kiss already in hdr library
+2019-12-13 10:00:55,085 [MainThread  ] [DEBUG]  The Nutcracker already in hdr library
+2019-12-13 10:00:55,085 [MainThread  ] [DEBUG]  The Nutcracker and the Four Realms already in hdr library
+2019-12-13 10:00:55,085 [MainThread  ] [DEBUG]  The Nutcracker already in hdr library
+2019-12-13 10:00:55,085 [MainThread  ] [DEBUG]  Barbie in the Nutcracker already in hdr library
+2019-12-13 10:00:55,085 [MainThread  ] [DEBUG]  Nutcracker: The Motion Picture already in hdr library
+2019-12-13 10:00:55,085 [MainThread  ] [DEBUG]  A Nutcracker Christmas already in hdr library
+2019-12-13 10:00:55,085 [MainThread  ] [DEBUG]  Tchaikovsky's The Nutcracker - Royal Ballet already in hdr library
+2019-12-13 10:00:55,085 [MainThread  ] [DEBUG]  Scrooged already in hdr library
+2019-12-13 10:00:55,085 [MainThread  ] [DEBUG]  The Family Man already in hdr library
+2019-12-13 10:00:55,085 [MainThread  ] [DEBUG]  Amon Amarth: The Pursuit of Vikings: 25 Years In The Eye of the Storm already in hdr library
+2019-12-13 10:00:55,086 [MainThread  ] [DEBUG]  Evil Streets already in hdr library
+2019-12-13 10:00:55,086 [MainThread  ] [DEBUG]  Queen: Greatest Video Hits already in hdr library
+2019-12-13 10:00:55,086 [MainThread  ] [DEBUG]  Cats already in hdr library
+2019-12-13 10:00:55,086 [MainThread  ] [DEBUG]  A Hidden Life already in hdr library
+2019-12-13 10:00:55,086 [MainThread  ] [DEBUG]  The Grudge already in hdr library
+2019-12-13 10:00:55,086 [MainThread  ] [DEBUG]  Memento already in hdr library
+2019-12-13 10:00:55,086 [MainThread  ] [DEBUG]  I Am Legend already in hdr library
+2019-12-13 10:00:55,086 [MainThread  ] [DEBUG]  Monsters University already in hdr library
+2019-12-13 10:00:55,086 [MainThread  ] [DEBUG]  Oblivion already in hdr library
+2019-12-13 10:00:55,086 [MainThread  ] [DEBUG]  Pirates of the Caribbean: Dead Man's Chest already in hdr library
+2019-12-13 10:00:55,086 [MainThread  ] [DEBUG]  Two of a Kind already in hdr library
+2019-12-13 10:00:55,086 [MainThread  ] [DEBUG]  Mr. Jones already in hdr library
+2019-12-13 10:00:55,086 [MainThread  ] [DEBUG]  Avatar 5 already in hdr library
+2019-12-13 10:00:55,086 [MainThread  ] [DEBUG]  Minions: The Rise of Gru already in hdr library
+2019-12-13 10:00:55,086 [MainThread  ] [DEBUG]  Men in Black already in hdr library
+2019-12-13 10:00:55,086 [MainThread  ] [DEBUG]  The Bourne Identity already in hdr library
+2019-12-13 10:00:55,086 [MainThread  ] [DEBUG]  The Shape of Water already in hdr library
+2019-12-13 10:00:55,086 [MainThread  ] [DEBUG]  Dawn of the Planet of the Apes already in hdr library
+2019-12-13 10:00:55,086 [MainThread  ] [DEBUG]  Jurassic World: Fallen Kingdom already in hdr library
+2019-12-13 10:00:55,086 [MainThread  ] [DEBUG]  Christmas In Evergreen: Tidings of Joy already in hdr library
+2019-12-13 10:00:55,086 [MainThread  ] [DEBUG]  Dune already in hdr library
+2019-12-13 10:00:55,086 [MainThread  ] [DEBUG]  Eternals already in hdr library
+2019-12-13 10:00:55,087 [MainThread  ] [DEBUG]  Léon: The Professional already in hdr library
+2019-12-13 10:00:55,087 [MainThread  ] [DEBUG]  The Grand Budapest Hotel already in hdr library
+2019-12-13 10:00:55,087 [MainThread  ] [DEBUG]  Looper already in hdr library
+2019-12-13 10:00:55,087 [MainThread  ] [DEBUG]  Maleficent already in hdr library
+2019-12-13 10:00:55,087 [MainThread  ] [DEBUG]  The Wolverine already in hdr library
+2019-12-13 10:00:55,087 [MainThread  ] [DEBUG]  This World, Then the Fireworks already in hdr library
+2019-12-13 10:00:55,087 [MainThread  ] [DEBUG]  Kill Teaser already in hdr library
+2019-12-13 10:00:55,087 [MainThread  ] [DEBUG]  Oiled Up Natural Tits 2 already in hdr library
+2019-12-13 10:00:55,087 [MainThread  ] [DEBUG]  Stranger Things already in hdr library
+2019-12-13 10:00:55,087 [MainThread  ] [DEBUG]  The SpongeBob Musical: Live on Stage! already in hdr library
+2019-12-13 10:00:55,087 [MainThread  ] [DEBUG]  Ghetto Dawg already in hdr library
+2019-12-13 10:00:55,087 [MainThread  ] [DEBUG]  Spies in Disguise already in hdr library
+2019-12-13 10:00:55,087 [MainThread  ] [DEBUG]  Queen & Slim already in hdr library
+2019-12-13 10:00:55,087 [MainThread  ] [DEBUG]  Dark Waters already in hdr library
+2019-12-13 10:00:55,087 [MainThread  ] [DEBUG]  Hard Night Falling already in hdr library
+2019-12-13 10:00:55,087 [MainThread  ] [DEBUG]  Updating movie path from: /mnt/unionfs/MOVIES4K/Trolls World Tour (2020) to /mnt/unionfs/MOVIESHDR/Trolls World Tour (2020)
+2019-12-13 10:00:55,087 [MainThread  ] [DEBUG]  server: hdr
+2019-12-13 10:00:55,087 [MainThread  ] [DEBUG]  title: Trolls World Tour
+2019-12-13 10:00:55,087 [MainThread  ] [DEBUG]  qualityProfileId: 7
+2019-12-13 10:00:55,087 [MainThread  ] [DEBUG]  titleSlug: trolls-world-tour-446893
+2019-12-13 10:00:55,087 [MainThread  ] [DEBUG]  http://127.0.0.1:7874/MediaCover/3053/poster.jpg
+2019-12-13 10:00:55,087 [MainThread  ] [DEBUG]  http://127.0.0.1:7874/MediaCover/3053/fanart.jpg
+2019-12-13 10:00:55,087 [MainThread  ] [DEBUG]  tmdbId: 446893
+2019-12-13 10:00:55,087 [MainThread  ] [DEBUG]  path: /mnt/unionfs/MOVIESHDR/Trolls World Tour (2020)
+2019-12-13 10:00:55,088 [MainThread  ] [DEBUG]  monitored: True
+2019-12-13 10:00:55,088 [MainThread  ] [DEBUG]  payload: {'title': 'Trolls World Tour', 'qualityProfileId': '7', 'titleSlug': 'trolls-world-tour-446893', 'tmdbId': 446893, 'path': '/mnt/unionfs/MOVIESHDR/Trolls World Tour (2020)', 'monitored': True, 'images': [{'coverType': 'poster', 'url': 'http://127.0.0.1:7874/MediaCover/3053/poster.jpg'}, {'coverType': 'fanart', 'url': 'http://127.0.0.1:7874/MediaCover/3053/fanart.jpg'}], 'profileId': '7', 'minimumAvailability': 'released'}
+2019-12-13 10:00:55,088 [MainThread  ] [DEBUG]  Sleeping for: 5 seconds.
+2019-12-13 10:01:00,371 [MainThread  ] [DEBUG]  http://127.0.0.1:7877 "POST /api/movie?apikey=1094990414034b618a7412d26b7aa4ea HTTP/1.1" 201 None
+2019-12-13 10:01:00,371 [MainThread  ] [INFO ]  adding Trolls World Tour to Radarr hdr server
+2019-12-13 10:01:00,371 [MainThread  ] [DEBUG]  Updating movie path from: /mnt/unionfs/MOVIES4K/Thor Love and Thunder (2021) to /mnt/unionfs/MOVIESHDR/Thor Love and Thunder (2021)
+2019-12-13 10:01:00,371 [MainThread  ] [DEBUG]  server: hdr
+2019-12-13 10:01:00,372 [MainThread  ] [DEBUG]  title: Thor: Love and Thunder
+2019-12-13 10:01:00,372 [MainThread  ] [DEBUG]  qualityProfileId: 7
+2019-12-13 10:01:00,372 [MainThread  ] [DEBUG]  titleSlug: thor-love-and-thunder-616037
+2019-12-13 10:01:00,372 [MainThread  ] [DEBUG]  http://127.0.0.1:7874/MediaCover/3054/poster.jpg
+2019-12-13 10:01:00,372 [MainThread  ] [DEBUG]  http://127.0.0.1:7874/MediaCover/3054/fanart.jpg
+2019-12-13 10:01:00,372 [MainThread  ] [DEBUG]  tmdbId: 616037
+2019-12-13 10:01:00,372 [MainThread  ] [DEBUG]  path: /mnt/unionfs/MOVIESHDR/Thor Love and Thunder (2021)
+2019-12-13 10:01:00,372 [MainThread  ] [DEBUG]  monitored: True
+2019-12-13 10:01:00,372 [MainThread  ] [DEBUG]  payload: {'title': 'Thor: Love and Thunder', 'qualityProfileId': '7', 'titleSlug': 'thor-love-and-thunder-616037', 'tmdbId': 616037, 'path': '/mnt/unionfs/MOVIESHDR/Thor Love and Thunder (2021)', 'monitored': True, 'images': [{'coverType': 'poster', 'url': 'http://127.0.0.1:7874/MediaCover/3054/poster.jpg'}, {'coverType': 'fanart', 'url': 'http://127.0.0.1:7874/MediaCover/3054/fanart.jpg'}], 'profileId': '7', 'minimumAvailability': 'released'}
+2019-12-13 10:01:00,372 [MainThread  ] [DEBUG]  Sleeping for: 5 seconds.
+2019-12-13 10:01:05,572 [MainThread  ] [DEBUG]  http://127.0.0.1:7877 "POST /api/movie?apikey=1094990414034b618a7412d26b7aa4ea HTTP/1.1" 201 None
+2019-12-13 10:01:05,573 [MainThread  ] [INFO ]  adding Thor: Love and Thunder to Radarr hdr server
+2019-12-13 10:01:05,573 [MainThread  ] [DEBUG]  Updating movie path from: /mnt/unionfs/MOVIES4K/Dolittle (2020) to /mnt/unionfs/MOVIESHDR/Dolittle (2020)
+2019-12-13 10:01:05,573 [MainThread  ] [DEBUG]  server: hdr
+2019-12-13 10:01:05,573 [MainThread  ] [DEBUG]  title: Dolittle
+2019-12-13 10:01:05,573 [MainThread  ] [DEBUG]  qualityProfileId: 7
+2019-12-13 10:01:05,573 [MainThread  ] [DEBUG]  titleSlug: dolittle-448119
+2019-12-13 10:01:05,573 [MainThread  ] [DEBUG]  http://127.0.0.1:7874/MediaCover/3055/poster.jpg
+2019-12-13 10:01:05,573 [MainThread  ] [DEBUG]  http://127.0.0.1:7874/MediaCover/3055/fanart.jpg
+2019-12-13 10:01:05,574 [MainThread  ] [DEBUG]  tmdbId: 448119
+2019-12-13 10:01:05,574 [MainThread  ] [DEBUG]  path: /mnt/unionfs/MOVIESHDR/Dolittle (2020)
+2019-12-13 10:01:05,574 [MainThread  ] [DEBUG]  monitored: True
+2019-12-13 10:01:05,574 [MainThread  ] [DEBUG]  payload: {'title': 'Dolittle', 'qualityProfileId': '7', 'titleSlug': 'dolittle-448119', 'tmdbId': 448119, 'path': '/mnt/unionfs/MOVIESHDR/Dolittle (2020)', 'monitored': True, 'images': [{'coverType': 'poster', 'url': 'http://127.0.0.1:7874/MediaCover/3055/poster.jpg'}, {'coverType': 'fanart', 'url': 'http://127.0.0.1:7874/MediaCover/3055/fanart.jpg'}], 'profileId': '7', 'minimumAvailability': 'released'}
+2019-12-13 10:01:05,574 [MainThread  ] [DEBUG]  Sleeping for: 5 seconds.
+2019-12-13 10:01:10,774 [MainThread  ] [DEBUG]  http://127.0.0.1:7877 "POST /api/movie?apikey=1094990414034b618a7412d26b7aa4ea HTTP/1.1" 201 None
+2019-12-13 10:01:10,775 [MainThread  ] [INFO ]  adding Dolittle to Radarr hdr server
+2019-12-13 10:01:10,775 [MainThread  ] [DEBUG]  Updating movie path from: /mnt/unionfs/MOVIES4K/Deepwater Horizon (2016) to /mnt/unionfs/MOVIESHDR/Deepwater Horizon (2016)
+2019-12-13 10:01:10,775 [MainThread  ] [DEBUG]  server: hdr
+2019-12-13 10:01:10,775 [MainThread  ] [DEBUG]  title: Deepwater Horizon
+2019-12-13 10:01:10,775 [MainThread  ] [DEBUG]  qualityProfileId: 7
+2019-12-13 10:01:10,775 [MainThread  ] [DEBUG]  titleSlug: deepwater-horizon-296524
+2019-12-13 10:01:10,775 [MainThread  ] [DEBUG]  http://127.0.0.1:7874/MediaCover/3056/poster.jpg
+2019-12-13 10:01:10,775 [MainThread  ] [DEBUG]  http://127.0.0.1:7874/MediaCover/3056/fanart.jpg
+2019-12-13 10:01:10,775 [MainThread  ] [DEBUG]  tmdbId: 296524
+2019-12-13 10:01:10,775 [MainThread  ] [DEBUG]  path: /mnt/unionfs/MOVIESHDR/Deepwater Horizon (2016)
+2019-12-13 10:01:10,775 [MainThread  ] [DEBUG]  monitored: True
+2019-12-13 10:01:10,775 [MainThread  ] [DEBUG]  payload: {'title': 'Deepwater Horizon', 'qualityProfileId': '7', 'titleSlug': 'deepwater-horizon-296524', 'tmdbId': 296524, 'path': '/mnt/unionfs/MOVIESHDR/Deepwater Horizon (2016)', 'monitored': True, 'images': [{'coverType': 'poster', 'url': 'http://127.0.0.1:7874/MediaCover/3056/poster.jpg'}, {'coverType': 'fanart', 'url': 'http://127.0.0.1:7874/MediaCover/3056/fanart.jpg'}], 'profileId': '7', 'minimumAvailability': 'released'}
+2019-12-13 10:01:10,775 [MainThread  ] [DEBUG]  Sleeping for: 5 seconds.
+2019-12-13 10:01:15,977 [MainThread  ] [DEBUG]  http://127.0.0.1:7877 "POST /api/movie?apikey=1094990414034b618a7412d26b7aa4ea HTTP/1.1" 201 None
+2019-12-13 10:01:15,978 [MainThread  ] [INFO ]  adding Deepwater Horizon to Radarr hdr server
+2019-12-13 10:01:15,978 [MainThread  ] [DEBUG]  Updating movie path from: /mnt/unionfs/MOVIES4K/X-Men (2000) to /mnt/unionfs/MOVIESHDR/X-Men (2000)
+2019-12-13 10:01:15,978 [MainThread  ] [DEBUG]  server: hdr
+2019-12-13 10:01:15,978 [MainThread  ] [DEBUG]  title: X-Men
+2019-12-13 10:01:15,978 [MainThread  ] [DEBUG]  qualityProfileId: 7
+2019-12-13 10:01:15,978 [MainThread  ] [DEBUG]  titleSlug: x-men-36657
+2019-12-13 10:01:15,978 [MainThread  ] [DEBUG]  http://127.0.0.1:7874/MediaCover/3057/poster.jpg
+2019-12-13 10:01:15,978 [MainThread  ] [DEBUG]  http://127.0.0.1:7874/MediaCover/3057/fanart.jpg
+2019-12-13 10:01:15,978 [MainThread  ] [DEBUG]  tmdbId: 36657
+2019-12-13 10:01:15,978 [MainThread  ] [DEBUG]  path: /mnt/unionfs/MOVIESHDR/X-Men (2000)
+2019-12-13 10:01:15,978 [MainThread  ] [DEBUG]  monitored: True
+2019-12-13 10:01:15,978 [MainThread  ] [DEBUG]  payload: {'title': 'X-Men', 'qualityProfileId': '7', 'titleSlug': 'x-men-36657', 'tmdbId': 36657, 'path': '/mnt/unionfs/MOVIESHDR/X-Men (2000)', 'monitored': True, 'images': [{'coverType': 'poster', 'url': 'http://127.0.0.1:7874/MediaCover/3057/poster.jpg'}, {'coverType': 'fanart', 'url': 'http://127.0.0.1:7874/MediaCover/3057/fanart.jpg'}], 'profileId': '7', 'minimumAvailability': 'released'}
+2019-12-13 10:01:15,978 [MainThread  ] [DEBUG]  Sleeping for: 5 seconds.
+2019-12-13 10:01:21,195 [MainThread  ] [DEBUG]  http://127.0.0.1:7877 "POST /api/movie?apikey=1094990414034b618a7412d26b7aa4ea HTTP/1.1" 201 None
+2019-12-13 10:01:21,196 [MainThread  ] [INFO ]  adding X-Men to Radarr hdr server
+2019-12-13 10:01:21,196 [MainThread  ] [DEBUG]  Updating movie path from: /mnt/unionfs/MOVIES4K/Catch Me If You Can (2002) to /mnt/unionfs/MOVIESHDR/Catch Me If You Can (2002)
+2019-12-13 10:01:21,196 [MainThread  ] [DEBUG]  server: hdr
+2019-12-13 10:01:21,196 [MainThread  ] [DEBUG]  title: Catch Me If You Can
+2019-12-13 10:01:21,196 [MainThread  ] [DEBUG]  qualityProfileId: 7
+2019-12-13 10:01:21,197 [MainThread  ] [DEBUG]  titleSlug: catch-me-if-you-can-640
+2019-12-13 10:01:21,197 [MainThread  ] [DEBUG]  http://127.0.0.1:7874/MediaCover/3058/poster.jpg
+2019-12-13 10:01:21,197 [MainThread  ] [DEBUG]  http://127.0.0.1:7874/MediaCover/3058/fanart.jpg
+2019-12-13 10:01:21,197 [MainThread  ] [DEBUG]  tmdbId: 640
+2019-12-13 10:01:21,197 [MainThread  ] [DEBUG]  path: /mnt/unionfs/MOVIESHDR/Catch Me If You Can (2002)
+2019-12-13 10:01:21,197 [MainThread  ] [DEBUG]  monitored: True
+2019-12-13 10:01:21,197 [MainThread  ] [DEBUG]  payload: {'title': 'Catch Me If You Can', 'qualityProfileId': '7', 'titleSlug': 'catch-me-if-you-can-640', 'tmdbId': 640, 'path': '/mnt/unionfs/MOVIESHDR/Catch Me If You Can (2002)', 'monitored': True, 'images': [{'coverType': 'poster', 'url': 'http://127.0.0.1:7874/MediaCover/3058/poster.jpg'}, {'coverType': 'fanart', 'url': 'http://127.0.0.1:7874/MediaCover/3058/fanart.jpg'}], 'profileId': '7', 'minimumAvailability': 'released'}
+2019-12-13 10:01:21,197 [MainThread  ] [DEBUG]  Sleeping for: 5 seconds.
+2019-12-13 10:01:26,387 [MainThread  ] [DEBUG]  http://127.0.0.1:7877 "POST /api/movie?apikey=1094990414034b618a7412d26b7aa4ea HTTP/1.1" 201 None
+2019-12-13 10:01:26,388 [MainThread  ] [INFO ]  adding Catch Me If You Can to Radarr hdr server
+2019-12-13 10:01:26,388 [MainThread  ] [DEBUG]  Updating movie path from: /mnt/unionfs/MOVIES4K/21 Jump Street (2012) to /mnt/unionfs/MOVIESHDR/21 Jump Street (2012)
+2019-12-13 10:01:26,388 [MainThread  ] [DEBUG]  server: hdr
+2019-12-13 10:01:26,388 [MainThread  ] [DEBUG]  title: 21 Jump Street
+2019-12-13 10:01:26,388 [MainThread  ] [DEBUG]  qualityProfileId: 7
+2019-12-13 10:01:26,388 [MainThread  ] [DEBUG]  titleSlug: 21-jump-street-64688
+2019-12-13 10:01:26,388 [MainThread  ] [DEBUG]  http://127.0.0.1:7874/MediaCover/3059/poster.jpg
+2019-12-13 10:01:26,388 [MainThread  ] [DEBUG]  http://127.0.0.1:7874/MediaCover/3059/fanart.jpg
+2019-12-13 10:01:26,388 [MainThread  ] [DEBUG]  tmdbId: 64688
+2019-12-13 10:01:26,388 [MainThread  ] [DEBUG]  path: /mnt/unionfs/MOVIESHDR/21 Jump Street (2012)
+2019-12-13 10:01:26,388 [MainThread  ] [DEBUG]  monitored: True
+2019-12-13 10:01:26,388 [MainThread  ] [DEBUG]  payload: {'title': '21 Jump Street', 'qualityProfileId': '7', 'titleSlug': '21-jump-street-64688', 'tmdbId': 64688, 'path': '/mnt/unionfs/MOVIESHDR/21 Jump Street (2012)', 'monitored': True, 'images': [{'coverType': 'poster', 'url': 'http://127.0.0.1:7874/MediaCover/3059/poster.jpg'}, {'coverType': 'fanart', 'url': 'http://127.0.0.1:7874/MediaCover/3059/fanart.jpg'}], 'profileId': '7', 'minimumAvailability': 'released'}
+2019-12-13 10:01:26,388 [MainThread  ] [DEBUG]  Sleeping for: 5 seconds.
+2019-12-13 10:01:31,578 [MainThread  ] [DEBUG]  http://127.0.0.1:7877 "POST /api/movie?apikey=1094990414034b618a7412d26b7aa4ea HTTP/1.1" 201 None
+2019-12-13 10:01:31,579 [MainThread  ] [INFO ]  adding 21 Jump Street to Radarr hdr server
+2019-12-13 10:01:31,579 [MainThread  ] [DEBUG]  Updating movie path from: /mnt/unionfs/MOVIES4K/Rise of the Planet of the Apes (2011) to /mnt/unionfs/MOVIESHDR/Rise of the Planet of the Apes (2011)
+2019-12-13 10:01:31,579 [MainThread  ] [DEBUG]  server: hdr
+2019-12-13 10:01:31,579 [MainThread  ] [DEBUG]  title: Rise of the Planet of the Apes
+2019-12-13 10:01:31,579 [MainThread  ] [DEBUG]  qualityProfileId: 7
+2019-12-13 10:01:31,579 [MainThread  ] [DEBUG]  titleSlug: rise-of-the-planet-of-the-apes-61791
+2019-12-13 10:01:31,579 [MainThread  ] [DEBUG]  http://127.0.0.1:7874/MediaCover/3060/poster.jpg
+2019-12-13 10:01:31,579 [MainThread  ] [DEBUG]  http://127.0.0.1:7874/MediaCover/3060/fanart.jpg
+2019-12-13 10:01:31,579 [MainThread  ] [DEBUG]  tmdbId: 61791
+2019-12-13 10:01:31,579 [MainThread  ] [DEBUG]  path: /mnt/unionfs/MOVIESHDR/Rise of the Planet of the Apes (2011)
+2019-12-13 10:01:31,580 [MainThread  ] [DEBUG]  monitored: True
+2019-12-13 10:01:31,580 [MainThread  ] [DEBUG]  payload: {'title': 'Rise of the Planet of the Apes', 'qualityProfileId': '7', 'titleSlug': 'rise-of-the-planet-of-the-apes-61791', 'tmdbId': 61791, 'path': '/mnt/unionfs/MOVIESHDR/Rise of the Planet of the Apes (2011)', 'monitored': True, 'images': [{'coverType': 'poster', 'url': 'http://127.0.0.1:7874/MediaCover/3060/poster.jpg'}, {'coverType': 'fanart', 'url': 'http://127.0.0.1:7874/MediaCover/3060/fanart.jpg'}], 'profileId': '7', 'minimumAvailability': 'released'}
+2019-12-13 10:01:31,580 [MainThread  ] [DEBUG]  Sleeping for: 5 seconds.
+2019-12-13 10:01:36,817 [MainThread  ] [DEBUG]  http://127.0.0.1:7877 "POST /api/movie?apikey=1094990414034b618a7412d26b7aa4ea HTTP/1.1" 201 None
+2019-12-13 10:01:36,818 [MainThread  ] [INFO ]  adding Rise of the Planet of the Apes to Radarr hdr server
+2019-12-13 10:01:36,818 [MainThread  ] [DEBUG]  Updating movie path from: /mnt/unionfs/MOVIES4K/Jennifer's Body (2009) to /mnt/unionfs/MOVIESHDR/Jennifer's Body (2009)
+2019-12-13 10:01:36,818 [MainThread  ] [DEBUG]  server: hdr
+2019-12-13 10:01:36,818 [MainThread  ] [DEBUG]  title: Jennifer's Body
+2019-12-13 10:01:36,818 [MainThread  ] [DEBUG]  qualityProfileId: 7
+2019-12-13 10:01:36,818 [MainThread  ] [DEBUG]  titleSlug: jennifers-body-19994
+2019-12-13 10:01:36,818 [MainThread  ] [DEBUG]  http://127.0.0.1:7874/MediaCover/3061/poster.jpg
+2019-12-13 10:01:36,818 [MainThread  ] [DEBUG]  http://127.0.0.1:7874/MediaCover/3061/fanart.jpg
+2019-12-13 10:01:36,818 [MainThread  ] [DEBUG]  tmdbId: 19994
+2019-12-13 10:01:36,818 [MainThread  ] [DEBUG]  path: /mnt/unionfs/MOVIESHDR/Jennifer's Body (2009)
+2019-12-13 10:01:36,818 [MainThread  ] [DEBUG]  monitored: True
+2019-12-13 10:01:36,818 [MainThread  ] [DEBUG]  payload: {'title': "Jennifer's Body", 'qualityProfileId': '7', 'titleSlug': 'jennifers-body-19994', 'tmdbId': 19994, 'path': "/mnt/unionfs/MOVIESHDR/Jennifer's Body (2009)", 'monitored': True, 'images': [{'coverType': 'poster', 'url': 'http://127.0.0.1:7874/MediaCover/3061/poster.jpg'}, {'coverType': 'fanart', 'url': 'http://127.0.0.1:7874/MediaCover/3061/fanart.jpg'}], 'profileId': '7', 'minimumAvailability': 'released'}
+2019-12-13 10:01:36,818 [MainThread  ] [DEBUG]  Sleeping for: 5 seconds.
+2019-12-13 10:01:42,048 [MainThread  ] [DEBUG]  http://127.0.0.1:7877 "POST /api/movie?apikey=1094990414034b618a7412d26b7aa4ea HTTP/1.1" 201 None
+2019-12-13 10:01:42,049 [MainThread  ] [INFO ]  adding Jennifer's Body to Radarr hdr server
+2019-12-13 10:01:42,049 [MainThread  ] [DEBUG]  Updating movie path from: /mnt/unionfs/MOVIES4K/Ellipse (2019) to /mnt/unionfs/MOVIESHDR/Ellipse (2019)
+2019-12-13 10:01:42,049 [MainThread  ] [DEBUG]  server: hdr
+2019-12-13 10:01:42,049 [MainThread  ] [DEBUG]  title: Ellipse
+2019-12-13 10:01:42,049 [MainThread  ] [DEBUG]  qualityProfileId: 7
+2019-12-13 10:01:42,049 [MainThread  ] [DEBUG]  titleSlug: ellipse-645541
+2019-12-13 10:01:42,049 [MainThread  ] [DEBUG]  http://127.0.0.1:7874/MediaCover/3062/poster.jpg
+2019-12-13 10:01:42,049 [MainThread  ] [DEBUG]  http://127.0.0.1:7874/MediaCover/3062/fanart.jpg
+2019-12-13 10:01:42,049 [MainThread  ] [DEBUG]  tmdbId: 645541
+2019-12-13 10:01:42,049 [MainThread  ] [DEBUG]  path: /mnt/unionfs/MOVIESHDR/Ellipse (2019)
+2019-12-13 10:01:42,049 [MainThread  ] [DEBUG]  monitored: True
+2019-12-13 10:01:42,049 [MainThread  ] [DEBUG]  payload: {'title': 'Ellipse', 'qualityProfileId': '7', 'titleSlug': 'ellipse-645541', 'tmdbId': 645541, 'path': '/mnt/unionfs/MOVIESHDR/Ellipse (2019)', 'monitored': True, 'images': [{'coverType': 'poster', 'url': 'http://127.0.0.1:7874/MediaCover/3062/poster.jpg'}, {'coverType': 'fanart', 'url': 'http://127.0.0.1:7874/MediaCover/3062/fanart.jpg'}], 'profileId': '7', 'minimumAvailability': 'released'}
+2019-12-13 10:01:42,050 [MainThread  ] [DEBUG]  Sleeping for: 5 seconds.
+2019-12-13 10:01:47,243 [MainThread  ] [DEBUG]  http://127.0.0.1:7877 "POST /api/movie?apikey=1094990414034b618a7412d26b7aa4ea HTTP/1.1" 201 None
+2019-12-13 10:01:47,243 [MainThread  ] [INFO ]  adding Ellipse to Radarr hdr server
+2019-12-13 10:01:47,243 [MainThread  ] [DEBUG]  Updating movie path from: /mnt/unionfs/MOVIES4K/Astro Boy (2020) to /mnt/unionfs/MOVIESHDR/Astro Boy (2020)
+2019-12-13 10:01:47,243 [MainThread  ] [DEBUG]  server: hdr
+2019-12-13 10:01:47,243 [MainThread  ] [DEBUG]  title: Astro Boy
+2019-12-13 10:01:47,243 [MainThread  ] [DEBUG]  qualityProfileId: 7
+2019-12-13 10:01:47,243 [MainThread  ] [DEBUG]  titleSlug: astro-boy-324553
+2019-12-13 10:01:47,243 [MainThread  ] [DEBUG]  http://127.0.0.1:7874/MediaCover/3063/poster.jpg
+2019-12-13 10:01:47,243 [MainThread  ] [DEBUG]  http://127.0.0.1:7874/MediaCover/3063/fanart.jpg
+2019-12-13 10:01:47,243 [MainThread  ] [DEBUG]  tmdbId: 324553
+2019-12-13 10:01:47,244 [MainThread  ] [DEBUG]  path: /mnt/unionfs/MOVIESHDR/Astro Boy (2020)
+2019-12-13 10:01:47,244 [MainThread  ] [DEBUG]  monitored: True
+2019-12-13 10:01:47,244 [MainThread  ] [DEBUG]  payload: {'title': 'Astro Boy', 'qualityProfileId': '7', 'titleSlug': 'astro-boy-324553', 'tmdbId': 324553, 'path': '/mnt/unionfs/MOVIESHDR/Astro Boy (2020)', 'monitored': True, 'images': [{'coverType': 'poster', 'url': 'http://127.0.0.1:7874/MediaCover/3063/poster.jpg'}, {'coverType': 'fanart', 'url': 'http://127.0.0.1:7874/MediaCover/3063/fanart.jpg'}], 'profileId': '7', 'minimumAvailability': 'released'}
+2019-12-13 10:01:47,244 [MainThread  ] [DEBUG]  Sleeping for: 5 seconds.
+2019-12-13 10:01:52,441 [MainThread  ] [DEBUG]  http://127.0.0.1:7877 "POST /api/movie?apikey=1094990414034b618a7412d26b7aa4ea HTTP/1.1" 201 None
+2019-12-13 10:01:52,441 [MainThread  ] [INFO ]  adding Astro Boy to Radarr hdr server
+2019-12-13 10:01:52,442 [MainThread  ] [DEBUG]  Updating movie path from: /mnt/unionfs/MOVIES4K/Synchronic (2020) to /mnt/unionfs/MOVIESHDR/Synchronic (2020)
+2019-12-13 10:01:52,442 [MainThread  ] [DEBUG]  server: hdr
+2019-12-13 10:01:52,442 [MainThread  ] [DEBUG]  title: Synchronic
+2019-12-13 10:01:52,442 [MainThread  ] [DEBUG]  qualityProfileId: 7
+2019-12-13 10:01:52,442 [MainThread  ] [DEBUG]  titleSlug: synchronic-549294
+2019-12-13 10:01:52,442 [MainThread  ] [DEBUG]  http://127.0.0.1:7874/MediaCover/3064/poster.jpg
+2019-12-13 10:01:52,442 [MainThread  ] [DEBUG]  http://127.0.0.1:7874/MediaCover/3064/fanart.jpg
+2019-12-13 10:01:52,442 [MainThread  ] [DEBUG]  tmdbId: 549294
+2019-12-13 10:01:52,442 [MainThread  ] [DEBUG]  path: /mnt/unionfs/MOVIESHDR/Synchronic (2020)
+2019-12-13 10:01:52,442 [MainThread  ] [DEBUG]  monitored: True
+2019-12-13 10:01:52,442 [MainThread  ] [DEBUG]  payload: {'title': 'Synchronic', 'qualityProfileId': '7', 'titleSlug': 'synchronic-549294', 'tmdbId': 549294, 'path': '/mnt/unionfs/MOVIESHDR/Synchronic (2020)', 'monitored': True, 'images': [{'coverType': 'poster', 'url': 'http://127.0.0.1:7874/MediaCover/3064/poster.jpg'}, {'coverType': 'fanart', 'url': 'http://127.0.0.1:7874/MediaCover/3064/fanart.jpg'}], 'profileId': '7', 'minimumAvailability': 'released'}
+2019-12-13 10:01:52,442 [MainThread  ] [DEBUG]  Sleeping for: 5 seconds.
+2019-12-13 10:01:57,644 [MainThread  ] [DEBUG]  http://127.0.0.1:7877 "POST /api/movie?apikey=1094990414034b618a7412d26b7aa4ea HTTP/1.1" 201 None
+2019-12-13 10:01:57,644 [MainThread  ] [INFO ]  adding Synchronic to Radarr hdr server
+2019-12-13 10:01:57,644 [MainThread  ] [DEBUG]  Updating movie path from: /mnt/unionfs/MOVIES4K/The Truman Show (1998) to /mnt/unionfs/MOVIESHDR/The Truman Show (1998)
+2019-12-13 10:01:57,644 [MainThread  ] [DEBUG]  server: hdr
+2019-12-13 10:01:57,644 [MainThread  ] [DEBUG]  title: The Truman Show
+2019-12-13 10:01:57,644 [MainThread  ] [DEBUG]  qualityProfileId: 7
+2019-12-13 10:01:57,645 [MainThread  ] [DEBUG]  titleSlug: the-truman-show-37165
+2019-12-13 10:01:57,645 [MainThread  ] [DEBUG]  http://127.0.0.1:7874/MediaCover/3065/poster.jpg
+2019-12-13 10:01:57,645 [MainThread  ] [DEBUG]  http://127.0.0.1:7874/MediaCover/3065/fanart.jpg
+2019-12-13 10:01:57,645 [MainThread  ] [DEBUG]  tmdbId: 37165
+2019-12-13 10:01:57,645 [MainThread  ] [DEBUG]  path: /mnt/unionfs/MOVIESHDR/The Truman Show (1998)
+2019-12-13 10:01:57,645 [MainThread  ] [DEBUG]  monitored: True
+2019-12-13 10:01:57,645 [MainThread  ] [DEBUG]  payload: {'title': 'The Truman Show', 'qualityProfileId': '7', 'titleSlug': 'the-truman-show-37165', 'tmdbId': 37165, 'path': '/mnt/unionfs/MOVIESHDR/The Truman Show (1998)', 'monitored': True, 'images': [{'coverType': 'poster', 'url': 'http://127.0.0.1:7874/MediaCover/3065/poster.jpg'}, {'coverType': 'fanart', 'url': 'http://127.0.0.1:7874/MediaCover/3065/fanart.jpg'}], 'profileId': '7', 'minimumAvailability': 'released'}
+2019-12-13 10:01:57,645 [MainThread  ] [DEBUG]  Sleeping for: 5 seconds.
+2019-12-13 10:02:02,825 [MainThread  ] [DEBUG]  http://127.0.0.1:7877 "POST /api/movie?apikey=1094990414034b618a7412d26b7aa4ea HTTP/1.1" 201 None
+2019-12-13 10:02:02,825 [MainThread  ] [INFO ]  adding The Truman Show to Radarr hdr server
+2019-12-13 10:02:02,826 [MainThread  ] [DEBUG]  Updating movie path from: /mnt/unionfs/MOVIES4K/Kick-Ass (2010) to /mnt/unionfs/MOVIESHDR/Kick-Ass (2010)
+2019-12-13 10:02:02,826 [MainThread  ] [DEBUG]  server: hdr
+2019-12-13 10:02:02,826 [MainThread  ] [DEBUG]  title: Kick-Ass
+2019-12-13 10:02:02,826 [MainThread  ] [DEBUG]  qualityProfileId: 7
+2019-12-13 10:02:02,826 [MainThread  ] [DEBUG]  titleSlug: kick-ass-23483
+2019-12-13 10:02:02,826 [MainThread  ] [DEBUG]  http://127.0.0.1:7874/MediaCover/3066/poster.jpg
+2019-12-13 10:02:02,826 [MainThread  ] [DEBUG]  http://127.0.0.1:7874/MediaCover/3066/fanart.jpg
+2019-12-13 10:02:02,826 [MainThread  ] [DEBUG]  tmdbId: 23483
+2019-12-13 10:02:02,826 [MainThread  ] [DEBUG]  path: /mnt/unionfs/MOVIESHDR/Kick-Ass (2010)
+2019-12-13 10:02:02,826 [MainThread  ] [DEBUG]  monitored: True
+2019-12-13 10:02:02,826 [MainThread  ] [DEBUG]  payload: {'title': 'Kick-Ass', 'qualityProfileId': '7', 'titleSlug': 'kick-ass-23483', 'tmdbId': 23483, 'path': '/mnt/unionfs/MOVIESHDR/Kick-Ass (2010)', 'monitored': True, 'images': [{'coverType': 'poster', 'url': 'http://127.0.0.1:7874/MediaCover/3066/poster.jpg'}, {'coverType': 'fanart', 'url': 'http://127.0.0.1:7874/MediaCover/3066/fanart.jpg'}], 'profileId': '7', 'minimumAvailability': 'released'}
+2019-12-13 10:02:02,826 [MainThread  ] [DEBUG]  Sleeping for: 5 seconds.
+2019-12-13 10:02:08,050 [MainThread  ] [DEBUG]  http://127.0.0.1:7877 "POST /api/movie?apikey=1094990414034b618a7412d26b7aa4ea HTTP/1.1" 201 None
+2019-12-13 10:02:08,051 [MainThread  ] [INFO ]  adding Kick-Ass to Radarr hdr server
+2019-12-13 10:02:08,051 [MainThread  ] [DEBUG]  Updating movie path from: /mnt/unionfs/MOVIES4K/Beauty and the Beast (1991) to /mnt/unionfs/MOVIESHDR/Beauty and the Beast (1991)
+2019-12-13 10:02:08,051 [MainThread  ] [DEBUG]  server: hdr
+2019-12-13 10:02:08,051 [MainThread  ] [DEBUG]  title: Beauty and the Beast
+2019-12-13 10:02:08,051 [MainThread  ] [DEBUG]  qualityProfileId: 7
+2019-12-13 10:02:08,051 [MainThread  ] [DEBUG]  titleSlug: beauty-and-the-beast-10020
+2019-12-13 10:02:08,051 [MainThread  ] [DEBUG]  http://127.0.0.1:7874/MediaCover/3067/poster.jpg
+2019-12-13 10:02:08,051 [MainThread  ] [DEBUG]  http://127.0.0.1:7874/MediaCover/3067/fanart.jpg
+2019-12-13 10:02:08,052 [MainThread  ] [DEBUG]  tmdbId: 10020
+2019-12-13 10:02:08,052 [MainThread  ] [DEBUG]  path: /mnt/unionfs/MOVIESHDR/Beauty and the Beast (1991)
+2019-12-13 10:02:08,052 [MainThread  ] [DEBUG]  monitored: True
+2019-12-13 10:02:08,052 [MainThread  ] [DEBUG]  payload: {'title': 'Beauty and the Beast', 'qualityProfileId': '7', 'titleSlug': 'beauty-and-the-beast-10020', 'tmdbId': 10020, 'path': '/mnt/unionfs/MOVIESHDR/Beauty and the Beast (1991)', 'monitored': True, 'images': [{'coverType': 'poster', 'url': 'http://127.0.0.1:7874/MediaCover/3067/poster.jpg'}, {'coverType': 'fanart', 'url': 'http://127.0.0.1:7874/MediaCover/3067/fanart.jpg'}], 'profileId': '7', 'minimumAvailability': 'released'}
+2019-12-13 10:02:08,052 [MainThread  ] [DEBUG]  Sleeping for: 5 seconds.
+2019-12-13 10:02:13,240 [MainThread  ] [DEBUG]  http://127.0.0.1:7877 "POST /api/movie?apikey=1094990414034b618a7412d26b7aa4ea HTTP/1.1" 201 None
+2019-12-13 10:02:13,241 [MainThread  ] [INFO ]  adding Beauty and the Beast to Radarr hdr server
+2019-12-13 10:02:13,241 [MainThread  ] [DEBUG]  Updating movie path from: /mnt/unionfs/MOVIES4K/Valerian and the City of a Thousand Planets (2017) to /mnt/unionfs/MOVIESHDR/Valerian and the City of a Thousand Planets (2017)
+2019-12-13 10:02:13,241 [MainThread  ] [DEBUG]  server: hdr
+2019-12-13 10:02:13,242 [MainThread  ] [DEBUG]  title: Valerian and the City of a Thousand Planets
+2019-12-13 10:02:13,242 [MainThread  ] [DEBUG]  qualityProfileId: 7
+2019-12-13 10:02:13,242 [MainThread  ] [DEBUG]  titleSlug: valerian-and-the-city-of-a-thousand-planets-339964
+2019-12-13 10:02:13,242 [MainThread  ] [DEBUG]  http://127.0.0.1:7874/MediaCover/3068/poster.jpg
+2019-12-13 10:02:13,242 [MainThread  ] [DEBUG]  http://127.0.0.1:7874/MediaCover/3068/fanart.jpg
+2019-12-13 10:02:13,242 [MainThread  ] [DEBUG]  tmdbId: 339964
+2019-12-13 10:02:13,242 [MainThread  ] [DEBUG]  path: /mnt/unionfs/MOVIESHDR/Valerian and the City of a Thousand Planets (2017)
+2019-12-13 10:02:13,242 [MainThread  ] [DEBUG]  monitored: True
+2019-12-13 10:02:13,242 [MainThread  ] [DEBUG]  payload: {'title': 'Valerian and the City of a Thousand Planets', 'qualityProfileId': '7', 'titleSlug': 'valerian-and-the-city-of-a-thousand-planets-339964', 'tmdbId': 339964, 'path': '/mnt/unionfs/MOVIESHDR/Valerian and the City of a Thousand Planets (2017)', 'monitored': True, 'images': [{'coverType': 'poster', 'url': 'http://127.0.0.1:7874/MediaCover/3068/poster.jpg'}, {'coverType': 'fanart', 'url': 'http://127.0.0.1:7874/MediaCover/3068/fanart.jpg'}], 'profileId': '7', 'minimumAvailability': 'released'}
+2019-12-13 10:02:13,242 [MainThread  ] [DEBUG]  Sleeping for: 5 seconds.
+2019-12-13 10:02:18,433 [MainThread  ] [DEBUG]  http://127.0.0.1:7877 "POST /api/movie?apikey=1094990414034b618a7412d26b7aa4ea HTTP/1.1" 201 None
+2019-12-13 10:02:18,433 [MainThread  ] [INFO ]  adding Valerian and the City of a Thousand Planets to Radarr hdr server
+2019-12-13 10:02:18,433 [MainThread  ] [DEBUG]  Updating movie path from: /mnt/unionfs/MOVIES4K/The Lego Batman Movie (2017) to /mnt/unionfs/MOVIESHDR/The Lego Batman Movie (2017)
+2019-12-13 10:02:18,434 [MainThread  ] [DEBUG]  server: hdr
+2019-12-13 10:02:18,434 [MainThread  ] [DEBUG]  title: The Lego Batman Movie
+2019-12-13 10:02:18,434 [MainThread  ] [DEBUG]  qualityProfileId: 7
+2019-12-13 10:02:18,434 [MainThread  ] [DEBUG]  titleSlug: the-lego-batman-movie-324849
+2019-12-13 10:02:18,434 [MainThread  ] [DEBUG]  http://127.0.0.1:7874/MediaCover/3069/poster.jpg
+2019-12-13 10:02:18,434 [MainThread  ] [DEBUG]  http://127.0.0.1:7874/MediaCover/3069/fanart.jpg
+2019-12-13 10:02:18,434 [MainThread  ] [DEBUG]  tmdbId: 324849
+2019-12-13 10:02:18,434 [MainThread  ] [DEBUG]  path: /mnt/unionfs/MOVIESHDR/The Lego Batman Movie (2017)
+2019-12-13 10:02:18,434 [MainThread  ] [DEBUG]  monitored: True
+2019-12-13 10:02:18,434 [MainThread  ] [DEBUG]  payload: {'title': 'The Lego Batman Movie', 'qualityProfileId': '7', 'titleSlug': 'the-lego-batman-movie-324849', 'tmdbId': 324849, 'path': '/mnt/unionfs/MOVIESHDR/The Lego Batman Movie (2017)', 'monitored': True, 'images': [{'coverType': 'poster', 'url': 'http://127.0.0.1:7874/MediaCover/3069/poster.jpg'}, {'coverType': 'fanart', 'url': 'http://127.0.0.1:7874/MediaCover/3069/fanart.jpg'}], 'profileId': '7', 'minimumAvailability': 'released'}
+2019-12-13 10:02:18,434 [MainThread  ] [DEBUG]  Sleeping for: 5 seconds.
+2019-12-13 10:02:23,607 [MainThread  ] [DEBUG]  http://127.0.0.1:7877 "POST /api/movie?apikey=1094990414034b618a7412d26b7aa4ea HTTP/1.1" 201 None
+2019-12-13 10:02:23,607 [MainThread  ] [INFO ]  adding The Lego Batman Movie to Radarr hdr server
+2019-12-13 10:02:23,607 [MainThread  ] [DEBUG]  Updating movie path from: /mnt/unionfs/MOVIES4K/6 Underground (2019) to /mnt/unionfs/MOVIESHDR/6 Underground (2019)
+2019-12-13 10:02:23,607 [MainThread  ] [DEBUG]  server: hdr
+2019-12-13 10:02:23,607 [MainThread  ] [DEBUG]  title: 6 Underground
+2019-12-13 10:02:23,607 [MainThread  ] [DEBUG]  qualityProfileId: 7
+2019-12-13 10:02:23,607 [MainThread  ] [DEBUG]  titleSlug: 6-underground-509967
+2019-12-13 10:02:23,607 [MainThread  ] [DEBUG]  http://127.0.0.1:7874/MediaCover/3070/poster.jpg
+2019-12-13 10:02:23,607 [MainThread  ] [DEBUG]  http://127.0.0.1:7874/MediaCover/3070/fanart.jpg
+2019-12-13 10:02:23,608 [MainThread  ] [DEBUG]  tmdbId: 509967
+2019-12-13 10:02:23,608 [MainThread  ] [DEBUG]  path: /mnt/unionfs/MOVIESHDR/6 Underground (2019)
+2019-12-13 10:02:23,608 [MainThread  ] [DEBUG]  monitored: True
+2019-12-13 10:02:23,608 [MainThread  ] [DEBUG]  payload: {'title': '6 Underground', 'qualityProfileId': '7', 'titleSlug': '6-underground-509967', 'tmdbId': 509967, 'path': '/mnt/unionfs/MOVIESHDR/6 Underground (2019)', 'monitored': True, 'images': [{'coverType': 'poster', 'url': 'http://127.0.0.1:7874/MediaCover/3070/poster.jpg'}, {'coverType': 'fanart', 'url': 'http://127.0.0.1:7874/MediaCover/3070/fanart.jpg'}], 'profileId': '7', 'minimumAvailability': 'released'}
+2019-12-13 10:02:23,608 [MainThread  ] [DEBUG]  Sleeping for: 5 seconds.
+2019-12-13 10:02:28,882 [MainThread  ] [DEBUG]  http://127.0.0.1:7877 "POST /api/movie?apikey=1094990414034b618a7412d26b7aa4ea HTTP/1.1" 201 None
+2019-12-13 10:02:28,883 [MainThread  ] [INFO ]  adding 6 Underground to Radarr hdr server
+2019-12-13 10:02:28,883 [MainThread  ] [DEBUG]  Updating movie path from: /mnt/unionfs/MOVIES4K/Uncharted (2020) to /mnt/unionfs/MOVIESHDR/Uncharted (2020)
+2019-12-13 10:02:28,883 [MainThread  ] [DEBUG]  server: hdr
+2019-12-13 10:02:28,883 [MainThread  ] [DEBUG]  title: Uncharted
+2019-12-13 10:02:28,883 [MainThread  ] [DEBUG]  qualityProfileId: 7
+2019-12-13 10:02:28,884 [MainThread  ] [DEBUG]  titleSlug: uncharted-335787
+2019-12-13 10:02:28,884 [MainThread  ] [DEBUG]  http://127.0.0.1:7874/MediaCover/3071/poster.jpg
+2019-12-13 10:02:28,884 [MainThread  ] [DEBUG]  http://127.0.0.1:7874/MediaCover/3071/fanart.jpg
+2019-12-13 10:02:28,884 [MainThread  ] [DEBUG]  tmdbId: 335787
+2019-12-13 10:02:28,884 [MainThread  ] [DEBUG]  path: /mnt/unionfs/MOVIESHDR/Uncharted (2020)
+2019-12-13 10:02:28,884 [MainThread  ] [DEBUG]  monitored: True
+2019-12-13 10:02:28,884 [MainThread  ] [DEBUG]  payload: {'title': 'Uncharted', 'qualityProfileId': '7', 'titleSlug': 'uncharted-335787', 'tmdbId': 335787, 'path': '/mnt/unionfs/MOVIESHDR/Uncharted (2020)', 'monitored': True, 'images': [{'coverType': 'poster', 'url': 'http://127.0.0.1:7874/MediaCover/3071/poster.jpg'}, {'coverType': 'fanart', 'url': 'http://127.0.0.1:7874/MediaCover/3071/fanart.jpg'}], 'profileId': '7', 'minimumAvailability': 'released'}
+2019-12-13 10:02:28,884 [MainThread  ] [DEBUG]  Sleeping for: 5 seconds.
+2019-12-13 10:02:34,105 [MainThread  ] [DEBUG]  http://127.0.0.1:7877 "POST /api/movie?apikey=1094990414034b618a7412d26b7aa4ea HTTP/1.1" 201 None
+2019-12-13 10:02:34,106 [MainThread  ] [INFO ]  adding Uncharted to Radarr hdr server
+2019-12-13 10:02:34,106 [MainThread  ] [DEBUG]  Updating movie path from: /mnt/unionfs/MOVIES4K/Uncut Gems (2019) to /mnt/unionfs/MOVIESHDR/Uncut Gems (2019)
+2019-12-13 10:02:34,106 [MainThread  ] [DEBUG]  server: hdr
+2019-12-13 10:02:34,106 [MainThread  ] [DEBUG]  title: Uncut Gems
+2019-12-13 10:02:34,106 [MainThread  ] [DEBUG]  qualityProfileId: 7
+2019-12-13 10:02:34,106 [MainThread  ] [DEBUG]  titleSlug: uncut-gems-473033
+2019-12-13 10:02:34,106 [MainThread  ] [DEBUG]  http://127.0.0.1:7874/MediaCover/3072/poster.jpg
+2019-12-13 10:02:34,106 [MainThread  ] [DEBUG]  http://127.0.0.1:7874/MediaCover/3072/fanart.jpg
+2019-12-13 10:02:34,106 [MainThread  ] [DEBUG]  tmdbId: 473033
+2019-12-13 10:02:34,106 [MainThread  ] [DEBUG]  path: /mnt/unionfs/MOVIESHDR/Uncut Gems (2019)
+2019-12-13 10:02:34,107 [MainThread  ] [DEBUG]  monitored: True
+2019-12-13 10:02:34,107 [MainThread  ] [DEBUG]  payload: {'title': 'Uncut Gems', 'qualityProfileId': '7', 'titleSlug': 'uncut-gems-473033', 'tmdbId': 473033, 'path': '/mnt/unionfs/MOVIESHDR/Uncut Gems (2019)', 'monitored': True, 'images': [{'coverType': 'poster', 'url': 'http://127.0.0.1:7874/MediaCover/3072/poster.jpg'}, {'coverType': 'fanart', 'url': 'http://127.0.0.1:7874/MediaCover/3072/fanart.jpg'}], 'profileId': '7', 'minimumAvailability': 'released'}
+2019-12-13 10:02:34,107 [MainThread  ] [DEBUG]  Sleeping for: 5 seconds.
+2019-12-13 10:02:39,466 [MainThread  ] [DEBUG]  http://127.0.0.1:7877 "POST /api/movie?apikey=1094990414034b618a7412d26b7aa4ea HTTP/1.1" 201 None
+2019-12-13 10:02:39,467 [MainThread  ] [INFO ]  adding Uncut Gems to Radarr hdr server
+2019-12-13 10:02:39,468 [MainThread  ] [DEBUG]  Updating movie path from: /mnt/unionfs/MOVIES4K/Her (2013) to /mnt/unionfs/MOVIESHDR/Her (2013)
+2019-12-13 10:02:39,468 [MainThread  ] [DEBUG]  server: hdr
+2019-12-13 10:02:39,468 [MainThread  ] [DEBUG]  title: Her
+2019-12-13 10:02:39,468 [MainThread  ] [DEBUG]  qualityProfileId: 7
+2019-12-13 10:02:39,468 [MainThread  ] [DEBUG]  titleSlug: her-152601
+2019-12-13 10:02:39,468 [MainThread  ] [DEBUG]  http://127.0.0.1:7874/MediaCover/3073/poster.jpg
+2019-12-13 10:02:39,468 [MainThread  ] [DEBUG]  http://127.0.0.1:7874/MediaCover/3073/fanart.jpg
+2019-12-13 10:02:39,468 [MainThread  ] [DEBUG]  tmdbId: 152601
+2019-12-13 10:02:39,468 [MainThread  ] [DEBUG]  path: /mnt/unionfs/MOVIESHDR/Her (2013)
+2019-12-13 10:02:39,468 [MainThread  ] [DEBUG]  monitored: True
+2019-12-13 10:02:39,468 [MainThread  ] [DEBUG]  payload: {'title': 'Her', 'qualityProfileId': '7', 'titleSlug': 'her-152601', 'tmdbId': 152601, 'path': '/mnt/unionfs/MOVIESHDR/Her (2013)', 'monitored': True, 'images': [{'coverType': 'poster', 'url': 'http://127.0.0.1:7874/MediaCover/3073/poster.jpg'}, {'coverType': 'fanart', 'url': 'http://127.0.0.1:7874/MediaCover/3073/fanart.jpg'}], 'profileId': '7', 'minimumAvailability': 'released'}
+2019-12-13 10:02:39,469 [MainThread  ] [DEBUG]  Sleeping for: 5 seconds.
+2019-12-13 10:02:44,692 [MainThread  ] [DEBUG]  http://127.0.0.1:7877 "POST /api/movie?apikey=1094990414034b618a7412d26b7aa4ea HTTP/1.1" 201 None
+2019-12-13 10:02:44,693 [MainThread  ] [INFO ]  adding Her to Radarr hdr server
+2019-12-13 10:02:44,693 [MainThread  ] [DEBUG]  Updating movie path from: /mnt/unionfs/MOVIES4K/The Girl on the Train (2016) to /mnt/unionfs/MOVIESHDR/The Girl on the Train (2016)
+2019-12-13 10:02:44,693 [MainThread  ] [DEBUG]  server: hdr
+2019-12-13 10:02:44,693 [MainThread  ] [DEBUG]  title: The Girl on the Train
+2019-12-13 10:02:44,693 [MainThread  ] [DEBUG]  qualityProfileId: 7
+2019-12-13 10:02:44,693 [MainThread  ] [DEBUG]  titleSlug: the-girl-on-the-train-346685
+2019-12-13 10:02:44,693 [MainThread  ] [DEBUG]  http://127.0.0.1:7874/MediaCover/3074/poster.jpg
+2019-12-13 10:02:44,693 [MainThread  ] [DEBUG]  http://127.0.0.1:7874/MediaCover/3074/fanart.jpg
+2019-12-13 10:02:44,693 [MainThread  ] [DEBUG]  tmdbId: 346685
+2019-12-13 10:02:44,693 [MainThread  ] [DEBUG]  path: /mnt/unionfs/MOVIESHDR/The Girl on the Train (2016)
+2019-12-13 10:02:44,693 [MainThread  ] [DEBUG]  monitored: True
+2019-12-13 10:02:44,693 [MainThread  ] [DEBUG]  payload: {'title': 'The Girl on the Train', 'qualityProfileId': '7', 'titleSlug': 'the-girl-on-the-train-346685', 'tmdbId': 346685, 'path': '/mnt/unionfs/MOVIESHDR/The Girl on the Train (2016)', 'monitored': True, 'images': [{'coverType': 'poster', 'url': 'http://127.0.0.1:7874/MediaCover/3074/poster.jpg'}, {'coverType': 'fanart', 'url': 'http://127.0.0.1:7874/MediaCover/3074/fanart.jpg'}], 'profileId': '7', 'minimumAvailability': 'released'}
+2019-12-13 10:02:44,693 [MainThread  ] [DEBUG]  Sleeping for: 5 seconds.
+2019-12-13 10:02:49,885 [MainThread  ] [DEBUG]  http://127.0.0.1:7877 "POST /api/movie?apikey=1094990414034b618a7412d26b7aa4ea HTTP/1.1" 201 None
+2019-12-13 10:02:49,885 [MainThread  ] [INFO ]  adding The Girl on the Train to Radarr hdr server
+2019-12-13 10:02:49,885 [MainThread  ] [DEBUG]  Updating movie path from: /mnt/unionfs/MOVIES4K/Mission Impossible - Rogue Nation (2015) to /mnt/unionfs/MOVIESHDR/Mission Impossible - Rogue Nation (2015)
+2019-12-13 10:02:49,885 [MainThread  ] [DEBUG]  server: hdr
+2019-12-13 10:02:49,885 [MainThread  ] [DEBUG]  title: Mission: Impossible - Rogue Nation
+2019-12-13 10:02:49,886 [MainThread  ] [DEBUG]  qualityProfileId: 7
+2019-12-13 10:02:49,886 [MainThread  ] [DEBUG]  titleSlug: mission-impossible-rogue-nation-177677
+2019-12-13 10:02:49,886 [MainThread  ] [DEBUG]  http://127.0.0.1:7874/MediaCover/3075/poster.jpg
+2019-12-13 10:02:49,886 [MainThread  ] [DEBUG]  http://127.0.0.1:7874/MediaCover/3075/fanart.jpg
+2019-12-13 10:02:49,886 [MainThread  ] [DEBUG]  tmdbId: 177677
+2019-12-13 10:02:49,886 [MainThread  ] [DEBUG]  path: /mnt/unionfs/MOVIESHDR/Mission Impossible - Rogue Nation (2015)
+2019-12-13 10:02:49,886 [MainThread  ] [DEBUG]  monitored: True
+2019-12-13 10:02:49,886 [MainThread  ] [DEBUG]  payload: {'title': 'Mission: Impossible - Rogue Nation', 'qualityProfileId': '7', 'titleSlug': 'mission-impossible-rogue-nation-177677', 'tmdbId': 177677, 'path': '/mnt/unionfs/MOVIESHDR/Mission Impossible - Rogue Nation (2015)', 'monitored': True, 'images': [{'coverType': 'poster', 'url': 'http://127.0.0.1:7874/MediaCover/3075/poster.jpg'}, {'coverType': 'fanart', 'url': 'http://127.0.0.1:7874/MediaCover/3075/fanart.jpg'}], 'profileId': '7', 'minimumAvailability': 'released'}
+2019-12-13 10:02:49,886 [MainThread  ] [DEBUG]  Sleeping for: 5 seconds.
+2019-12-13 10:02:55,113 [MainThread  ] [DEBUG]  http://127.0.0.1:7877 "POST /api/movie?apikey=1094990414034b618a7412d26b7aa4ea HTTP/1.1" 201 None
+2019-12-13 10:02:55,113 [MainThread  ] [INFO ]  adding Mission: Impossible - Rogue Nation to Radarr hdr server
+2019-12-13 10:02:55,113 [MainThread  ] [DEBUG]  Updating movie path from: /mnt/unionfs/MOVIES4K/Whiplash (2014) to /mnt/unionfs/MOVIESHDR/Whiplash (2014)
+2019-12-13 10:02:55,113 [MainThread  ] [DEBUG]  server: hdr
+2019-12-13 10:02:55,113 [MainThread  ] [DEBUG]  title: Whiplash
+2019-12-13 10:02:55,113 [MainThread  ] [DEBUG]  qualityProfileId: 7
+2019-12-13 10:02:55,113 [MainThread  ] [DEBUG]  titleSlug: whiplash-244786
+2019-12-13 10:02:55,114 [MainThread  ] [DEBUG]  http://127.0.0.1:7874/MediaCover/3076/poster.jpg
+2019-12-13 10:02:55,114 [MainThread  ] [DEBUG]  http://127.0.0.1:7874/MediaCover/3076/fanart.jpg
+2019-12-13 10:02:55,114 [MainThread  ] [DEBUG]  tmdbId: 244786
+2019-12-13 10:02:55,114 [MainThread  ] [DEBUG]  path: /mnt/unionfs/MOVIESHDR/Whiplash (2014)
+2019-12-13 10:02:55,114 [MainThread  ] [DEBUG]  monitored: True
+2019-12-13 10:02:55,114 [MainThread  ] [DEBUG]  payload: {'title': 'Whiplash', 'qualityProfileId': '7', 'titleSlug': 'whiplash-244786', 'tmdbId': 244786, 'path': '/mnt/unionfs/MOVIESHDR/Whiplash (2014)', 'monitored': True, 'images': [{'coverType': 'poster', 'url': 'http://127.0.0.1:7874/MediaCover/3076/poster.jpg'}, {'coverType': 'fanart', 'url': 'http://127.0.0.1:7874/MediaCover/3076/fanart.jpg'}], 'profileId': '7', 'minimumAvailability': 'released'}
+2019-12-13 10:02:55,114 [MainThread  ] [DEBUG]  Sleeping for: 5 seconds.
+2019-12-13 10:03:00,383 [MainThread  ] [DEBUG]  http://127.0.0.1:7877 "POST /api/movie?apikey=1094990414034b618a7412d26b7aa4ea HTTP/1.1" 201 None
+2019-12-13 10:03:00,384 [MainThread  ] [INFO ]  adding Whiplash to Radarr hdr server
+2019-12-13 10:03:00,384 [MainThread  ] [DEBUG]  Updating movie path from: /mnt/unionfs/MOVIES4K/Elysium (2013) to /mnt/unionfs/MOVIESHDR/Elysium (2013)
+2019-12-13 10:03:00,384 [MainThread  ] [DEBUG]  server: hdr
+2019-12-13 10:03:00,384 [MainThread  ] [DEBUG]  title: Elysium
+2019-12-13 10:03:00,384 [MainThread  ] [DEBUG]  qualityProfileId: 7
+2019-12-13 10:03:00,384 [MainThread  ] [DEBUG]  titleSlug: elysium-68724
+2019-12-13 10:03:00,384 [MainThread  ] [DEBUG]  http://127.0.0.1:7874/MediaCover/3077/poster.jpg
+2019-12-13 10:03:00,384 [MainThread  ] [DEBUG]  http://127.0.0.1:7874/MediaCover/3077/fanart.jpg
+2019-12-13 10:03:00,384 [MainThread  ] [DEBUG]  tmdbId: 68724
+2019-12-13 10:03:00,384 [MainThread  ] [DEBUG]  path: /mnt/unionfs/MOVIESHDR/Elysium (2013)
+2019-12-13 10:03:00,384 [MainThread  ] [DEBUG]  monitored: True
+2019-12-13 10:03:00,384 [MainThread  ] [DEBUG]  payload: {'title': 'Elysium', 'qualityProfileId': '7', 'titleSlug': 'elysium-68724', 'tmdbId': 68724, 'path': '/mnt/unionfs/MOVIESHDR/Elysium (2013)', 'monitored': True, 'images': [{'coverType': 'poster', 'url': 'http://127.0.0.1:7874/MediaCover/3077/poster.jpg'}, {'coverType': 'fanart', 'url': 'http://127.0.0.1:7874/MediaCover/3077/fanart.jpg'}], 'profileId': '7', 'minimumAvailability': 'released'}
+2019-12-13 10:03:00,384 [MainThread  ] [DEBUG]  Sleeping for: 5 seconds.
+2019-12-13 10:03:05,596 [MainThread  ] [DEBUG]  http://127.0.0.1:7877 "POST /api/movie?apikey=1094990414034b618a7412d26b7aa4ea HTTP/1.1" 201 None
+2019-12-13 10:03:05,597 [MainThread  ] [INFO ]  adding Elysium to Radarr hdr server
+2019-12-13 10:03:05,631 [MainThread  ] [DEBUG]  http://127.0.0.1:7877 "POST /api/command?apikey=1094990414034b618a7412d26b7aa4ea HTTP/1.1" 201 None

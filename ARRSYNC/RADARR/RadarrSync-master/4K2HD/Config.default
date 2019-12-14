@@ -1,0 +1,32 @@
+[General]
+# Time to wait between adding new movies to a server. This will help reduce the load of the Sync server. 0 to disable. (seconds)
+wait_between_add = 5
+
+# Full path to log file
+log_path = ./Output.txt
+
+# DEBUG, INFO, VERBOSE | Logging level.
+log_level = DEBUG
+
+[RadarrMaster]
+url = http://127.0.0.1:7878
+key = XXXXXXXXXXXXXXXXXX
+
+
+[SyncServers]
+# Ensure the servers start with 'Radarr_'
+[Radarr_4k]
+url = http://127.0.0.1:7879
+key = XXXXXXXXXXXXXXXXXX
+
+rootFolders = /Movies
+# If this path exists
+current_path = /Movies/
+# Replace with this path
+new_path = /Movies4k/
+
+# This is the profile ID the movie will be added to.
+profileId = 5
+
+# This is the profile ID the movie must have on the Master server.
+profileIdMatch = 4
