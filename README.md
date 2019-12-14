@@ -33,7 +33,6 @@
 - I can submit requests directly to Radarr HD and it flows to the other instances
 - My users can use OMBI or MELLOW, it becomes a One Stop Shop
 - No One has to Worry about Quality, HD 4K HDR all will be searched in One Request
-- Having Seperate Instances of Radarr allows for different Libaries. Access may or may not be granted to those Libraries. We don't want folks without 4K bandwidth and hardware to end up transcoding and nuke the server. So access to the 4K / HDR libraries are limited to those whom can play without transcoding. To disable 4K transcoding please see the project in the notes below.
 
 **NOTES**
 
