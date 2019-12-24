@@ -31,7 +31,7 @@
 - Each Use Case Is Different
 - For Me - I am Lazy, My Users are Lazy (I Love All of You!)
 - I can submit requests directly to Radarr HD and it flows to the other instances
-- My users can use OMBI or MELLOW, it becomes a One Stop Shop
+- My Users can use OMBI or MELLOW, it becomes a One Stop Shop
 - No One has to Worry about Quality, HD 4K HDR all will be searched in One Request
 
 **NOTES**
