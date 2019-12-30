@@ -5,6 +5,7 @@ COPY RadarrSync.py .
 COPY requirements.txt .
 COPY startup.sh
 
+
 COPY Config.default /config
 
 RUN  pip install -r requirements.txt && chmod 755 /startup.sh
