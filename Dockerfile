@@ -8,6 +8,6 @@ COPY startup.sh .
 
 COPY Config.default /config
 
-RUN  pip install -r requirements.txt && chmod 755 /startup.sh
+RUN  pip install -r requirements.txt && chmod 755 /usr/src/app/startup.sh
 
 ENTRYPOINT [ "sh","/usr/src/app/startup.sh" ]
