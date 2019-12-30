@@ -10,4 +10,4 @@ COPY Config.default /config
 
 RUN  pip install -r requirements.txt && chmod 755 /startup.sh
 
-ENTRYPOINT [ "sh","/startup.sh" ]
+ENTRYPOINT [ "sh","/usr/src/app/startup.sh" ]
