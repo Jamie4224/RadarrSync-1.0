@@ -28,7 +28,7 @@ def ConfigSectionMap(section):
     return dict1
 
 Config = configparser.ConfigParser()
-settingsFilename = os.path.join(os.getcwd(), 'Config.txt')
+settingsFilename = os.path.join(os.getcwd(), './config/config.txt')
 if args.config:
     settingsFilename = args.config
 elif not os.path.isfile(settingsFilename):
