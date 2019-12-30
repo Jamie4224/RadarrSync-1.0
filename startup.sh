@@ -1,6 +1,6 @@
 #!/bin/bash
 while [ true ]
 do
-python /RadarrSync.py
-sleep 15m
+python /usr/src/app/RadarrSync.py
+sleep 10m
 done
