@@ -122,7 +122,10 @@ for movie in radarrMovies.json():
                            'monitored': movie['monitored'],
                            'images': images,
                            'profileId': server['profileid'],
-                           'minimumAvailability': 'released'
+                           'minimumAvailability': 'released',
+                           'addOptions': {
+                           'searchForMovie': true
+                           }
                            }
 
                 logging.debug('payload: {0}'.format(payload))
