@@ -124,7 +124,7 @@ for movie in radarrMovies.json():
                            'profileId': server['profileid'],
                            'minimumAvailability': 'released',
                            'addOptions': {
-                           'searchForMovie': true
+                           'searchForMovie': True
                            }
                            }
 
